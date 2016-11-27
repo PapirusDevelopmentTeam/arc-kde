@@ -1,0 +1,47 @@
+#!/bin/sh
+
+set -e
+
+gh_repo="arc-kde"
+gh_desc="Arc KDE customization"
+
+cat <<- EOF
+
+
+
+      ppppp                         ii
+      pp   pp     aaaaa   ppppp          rr  rrr   uu   uu     sssss
+      ppppp     aa   aa   pp   pp   ii   rrrr      uu   uu   ssss
+      pp        aa   aa   pp   pp   ii   rr        uu   uu      ssss
+      pp          aaaaa   ppppp     ii   rr          uuuuu   sssss
+                          pp
+                          pp
+
+
+  $gh_desc
+  https://github.com/PapirusDevelopmentTeam/$gh_repo
+
+
+EOF
+
+echo "=> Removing $gh_desc ..."
+rm -rf ~/.local/share/aurorae/themes/Arc
+rm -rf ~/.local/share/aurorae/themes/Arc-Dark
+rm -rf ~/.local/share/aurorae/themes/Arc-Transparent
+rm -rf ~/.local/share/aurorae/themes/Arc-Dark-Transparent
+rm -f ~/.local/share/color-schemes/Arc.colors
+rm -f ~/.local/share/color-schemes/ArcDark.colors
+rm -r ~/.local/share/konsole/Arc.colorscheme
+rm -r ~/.local/share/konsole/ArcDark.colorscheme
+rm -rf ~/.config/Kvantum/ArcDark
+rm -rf ~/.config/Kvantum/ArcDarkTransparent
+rm -rf ~/.local/share/plasma/desktoptheme/Arc-Dark
+rm -rf ~/.local/share/plasma/look-and-feel/com.github.varlesh.arc-dark
+rm -rf ~/.local/share/wallpapers/Arc
+rm -rf ~/.local/share/wallpapers/Arc-Dark
+rm -rf ~/.local/share/yakuake/kns_skins/arc
+rm -rf ~/.local/share/yakuake/kns_skins/arc-dark
+# Clean up
+rm -f ~/.cache/plasma-svgelements-Arc-Dark* \
+rm -f ~/.cache/plasma_theme_Arc-Dark.kcache
+echo "=> Done!"
