@@ -31,8 +31,8 @@ rm -rf ~/.local/share/aurorae/themes/Arc-Transparent
 rm -rf ~/.local/share/aurorae/themes/Arc-Dark-Transparent
 rm -f ~/.local/share/color-schemes/Arc.colors
 rm -f ~/.local/share/color-schemes/ArcDark.colors
-rm -r ~/.local/share/konsole/Arc.colorscheme
-rm -r ~/.local/share/konsole/ArcDark.colorscheme
+rm -f ~/.local/share/konsole/Arc.colorscheme
+rm -f ~/.local/share/konsole/ArcDark.colorscheme
 rm -rf ~/.config/Kvantum/ArcDark
 rm -rf ~/.config/Kvantum/ArcDarkTransparent
 rm -rf ~/.local/share/plasma/desktoptheme/Arc-Dark
