@@ -1,0 +1,14 @@
+[kdeglobals][KDE]
+widgetStyle=kvantum
+
+[kdeglobals][General]
+ColorScheme=Arc Dark
+
+[kdeglobals][Icons]
+Theme=papirus-arc-dark
+
+[plasmarc][Theme]
+name=Arc-Dark
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
