@@ -44,6 +44,6 @@ rm -rf ~/.local/share/wallpapers/Arc-Dark
 rm -rf ~/.local/share/yakuake/kns_skins/arc
 rm -rf ~/.local/share/yakuake/kns_skins/arc-dark
 # Clean up
-rm -f ~/.cache/plasma-svgelements-Arc-Dark* \
+rm -f ~/.cache/plasma-svgelements-Arc-Dark*
 rm -f ~/.cache/plasma_theme_Arc-Dark.kcache
 echo "=> Done!"
