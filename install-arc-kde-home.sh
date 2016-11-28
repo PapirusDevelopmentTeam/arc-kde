@@ -7,16 +7,11 @@ gh_desc="Arc KDE customization"
 
 cat <<- EOF
 
-
-
-      ppppp                         ii
-      pp   pp     aaaaa   ppppp          rr  rrr   uu   uu     sssss
-      ppppp     aa   aa   pp   pp   ii   rrrr      uu   uu   ssss
-      pp        aa   aa   pp   pp   ii   rr        uu   uu      ssss
-      pp          aaaaa   ppppp     ii   rr          uuuuu   sssss
-                          pp
-                          pp
-
+    AA  RRRR   CCC     K  K DDD  EEEE 
+   A  A R   R C        K K  D  D E    
+   AAAA RRRR  C        KK   D  D EEE  
+   A  A R R   C        K K  D  D E    
+   A  A R  RR  CCC     K  K DDD  EEEE
 
   $gh_desc
   https://github.com/PapirusDevelopmentTeam/$gh_repo
