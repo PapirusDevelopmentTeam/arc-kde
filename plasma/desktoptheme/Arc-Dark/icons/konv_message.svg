@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" id="svg" version="1.1" width="100%" height="100%">
+    <defs id="defs81">
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text { color:#7B7C7E; } .ColorScheme-Background{ color:#EFF0F1; } .ColorScheme-Highlight{ color:#3DAEE6; } .ColorScheme-ViewText { color:#7B7C7E; } .ColorScheme-ViewBackground{ color:#FCFCFC; } .ColorScheme-ViewHover { color:#3DAEE6; } .ColorScheme-ViewFocus{ color:#1E92FF; } .ColorScheme-ButtonText { color:#7B7C7E; } .ColorScheme-ButtonBackground{ color:#EFF0F1; } .ColorScheme-ButtonHover { color:#3DAEE6; } .ColorScheme-ButtonFocus{ color:#1E92FF; }
+        </style>
+    </defs>
+    <metadata id="metadata34">
+        <rdf:RDF>
+            <cc:Work rdf:about="">
+                <dc:format>
+                    image/svg+xml
+                </dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+                <dc:title/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <g id="konv_message" transform="translate(0,-2)">
+        <rect style="fill:#ffffff;fill-opacity:0;stroke:none" id="rect3009" width="22" height="22" x="0" y="2"/>
+        <path style="color:#3daee9;fill:#5294e2;fill-opacity:1" d="m 11,4.9999794 c -5.5228476,0 -10,3.581722 -10,7.9999996 0,1.831541 0.6783416,3.678342 2,5 1,1 1.59375,1.375 0,3 3,0 3,-1 3,-1 1.6568319,0.45258 3.496831,0.997289 5,1 5.522839,0.01 10,-3.581722 10,-8 C 21,8.5817014 16.522848,4.9999794 11,4.9999794 Z" id="path4143"/>
+    </g>
+</svg>
