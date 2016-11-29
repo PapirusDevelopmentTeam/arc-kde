@@ -5,10 +5,13 @@ widgetStyle=kvantum
 ColorScheme=Arc Dark
 
 [kdeglobals][Icons]
-Theme=papirus-arc-dark
+Theme=Papirus-Dark
 
 [plasmarc][Theme]
 name=Arc-Dark
+
+[kwinrc][org.kde.kdecoration2]
+theme=__aurorae__svg__Arc-Dark
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
