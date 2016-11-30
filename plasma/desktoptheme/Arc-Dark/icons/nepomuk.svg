@@ -54,6 +54,6 @@
     <path
        id="path4142"
        d="m 10,3.000702 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 4.08984,-1.328125 l 2.88672,2.886719 c 0.58761,0.587605 1.53349,0.587605 2.1211,0 0.5876,-0.587606 0.5876,-1.533488 0,-2.121094 L 16.0918,13.432343 A 7,7 0 0 0 17,10.000702 a 7,7 0 0 0 -7,-7 z m 0,3 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
+       style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-opacity:1" />
   </g>
 </svg>

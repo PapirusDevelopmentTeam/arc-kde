@@ -2,7 +2,7 @@
 <svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="22" height="22" id="svg2">
     <defs id="defs4">
         <style type="text/css" id="current-color-scheme">
-            .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#E9E8E8; } .ColorScheme-ViewText { color:#000000; } .ColorScheme-ViewBackground{ color:#ffffff; } .ColorScheme-ViewHover { color:#000000; } .ColorScheme-ViewFocus{ color:#5a5a5a; } .ColorScheme-ButtonText { color:#000000; } .ColorScheme-ButtonBackground{ color:#E9E8E8; } .ColorScheme-ButtonHover { color:#1489ff; } .ColorScheme-ButtonFocus{ color:#2B74C7; }
+            .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#E9E8E8; } .ColorScheme-ViewText { color:#000000; } .ColorScheme-ViewBackground{ color:#d3dae3; } .ColorScheme-ViewHover { color:#000000; } .ColorScheme-ViewFocus{ color:#5a5a5a; } .ColorScheme-ButtonText { color:#000000; } .ColorScheme-ButtonBackground{ color:#E9E8E8; } .ColorScheme-ButtonHover { color:#1489ff; } .ColorScheme-ButtonFocus{ color:#2B74C7; }
         </style>
         <linearGradient osb:paint="solid" id="linearGradient5606">
             <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop5608"/>
@@ -19,13 +19,13 @@
             </cc:Work>
         </rdf:RDF>
     </metadata>
-    <rect ry="0" y="-19.384777" x="-20.426331" height="16" width="16" id="rect3018" style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none"/>
+    <rect ry="0" y="-19.384777" x="-20.426331" height="16" width="16" id="rect3018" style="opacity:0;fill:#d3dae3;fill-opacity:1;stroke:none"/>
     <g id="16-16-drive-harddisk">
         <rect ry="0" y="6" x="-20" height="16" width="16" id="rect3835" style="opacity:0;fill:#131313;fill-opacity:0.67054266;stroke:none"/>
-        <path style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new" id="rect8476" d="m -17,7 c -1,0 -1,1 -1,1 l 0,12 c 0,0 0,1 1,1 l 10,0 c 0,0 1,0 1,-1 L -6,8 c 0,0 0,-1 -1,-1 z m 5,2 c 2.20914,0 4,1.79086 4,4 0,2.20914 -1.79086,4 -4,4 l -4,0 0,-4 c 0,-2.20914 1.79086,-4 4,-4 z m 0,2 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"/>
+        <path style="display:inline;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new" id="rect8476" d="m -17,7 c -1,0 -1,1 -1,1 l 0,12 c 0,0 0,1 1,1 l 10,0 c 0,0 1,0 1,-1 L -6,8 c 0,0 0,-1 -1,-1 z m 5,2 c 2.20914,0 4,1.79086 4,4 0,2.20914 -1.79086,4 -4,4 l -4,0 0,-4 c 0,-2.20914 1.79086,-4 4,-4 z m 0,2 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"/>
     </g>
     <g id="drive-harddisk">
-        <rect ry="1.375" y="0" x="0" height="22" width="22" id="rect3004" style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none"/>
-        <path id="path4153" d="M 5.166016,3 C 3.99935,3 4,4.142578 4,4.142578 L 4,17.857422 C 4,17.857422 3.99935,19 5.166016,19 l 11.667968,0 C 16.833984,19 18,19.000279 18,17.857422 L 18,4.142578 C 18,4.142578 18.00065,3 16.833984,3 L 5.166016,3 Z M 11,5 c 2.761425,0 5,2.238575 5,5 0,2.761425 -2.238575,5 -5,5 L 6,15 6,10 C 6,7.238575 8.238573,5 11,5 Z m 0,3 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z" style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new"/>
+        <rect ry="1.375" y="0" x="0" height="22" width="22" id="rect3004" style="opacity:0;fill:#d3dae3;fill-opacity:1;stroke:none"/>
+        <path id="path4153" d="M 5.166016,3 C 3.99935,3 4,4.142578 4,4.142578 L 4,17.857422 C 4,17.857422 3.99935,19 5.166016,19 l 11.667968,0 C 16.833984,19 18,19.000279 18,17.857422 L 18,4.142578 C 18,4.142578 18.00065,3 16.833984,3 L 5.166016,3 Z M 11,5 c 2.761425,0 5,2.238575 5,5 0,2.761425 -2.238575,5 -5,5 L 6,15 6,10 C 6,7.238575 8.238573,5 11,5 Z m 0,3 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z" style="display:inline;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new"/>
     </g>
 </svg>

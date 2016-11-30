@@ -55,12 +55,12 @@ dark.color=#2F343f
 mid.color=#2F343f
 highlight.color=#5294E2
 inactive.highlight.color=#4877B1
-text.color=#e2e3e7
-window.text.color=#e2e3e7
-button.text.color=#e2e3e7
+text.color=#d3dae3
+window.text.color=#d3dae3
+button.text.color=#d3dae3
 disabled.text.color=#898d99
-tooltip.text.color=#e2e3e7
-highlight.text.color=#e2e3e7
+tooltip.text.color=#d3dae3
+highlight.text.color=#d3dae3
 link.color=#4877B1
 link.visited.color=#7247b1
 
@@ -69,7 +69,7 @@ inherits=PanelButtonCommand
 frame=true
 interior=true
 text.iconspacing=3
-text.toggle.color=#e2e3e7 
+text.toggle.color=#d3dae3 
 
 [RadioButton]
 inherits=PanelButtonCommand
@@ -95,10 +95,10 @@ frame=true
 [PanelButtonCommand]
 Interior=true
 indicator.size=0
-text.normal.color=#e2e3e7
-text.focus.color=#e2e3e7
-text.press.color=#e2e3e7 
-text.toggle.color=#e2e3e7
+text.normal.color=#d3dae3
+text.focus.color=#d3dae3
+text.press.color=#d3dae3 
+text.toggle.color=#d3dae3
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
@@ -204,9 +204,9 @@ frame=true
 interior=false
 indicator.size=8
 text.normal.color=#898d99
-text.press.color=#e2e3e7
-text.press.color=#e2e3e7
-text.toggle.color=#e2e3e7
+text.press.color=#d3dae3
+text.press.color=#d3dae3
+text.toggle.color=#d3dae3
 
 [TabFrame]
 inherits=PanelButtonCommand
@@ -302,10 +302,10 @@ frame.bottom=2
 frame.left=2
 frame.right=2
 text.margin=0
-text.normal.color=#e2e3e7
-text.focus.color=#e2e3e7
-text.press.color=#e2e3e7
-text.toggle.color=#e2e3e7
+text.normal.color=#d3dae3
+text.focus.color=#d3dae3
+text.press.color=#d3dae3
+text.toggle.color=#d3dae3
 text.bold=false
 
 [RadioButton]
@@ -317,8 +317,8 @@ frame.right=3
 
 [Menu]
 inherits=PanelButtonCommand
-text.focus.color=#e2e3e7
-text.press.color=#e2e3e7
+text.focus.color=#d3dae3
+text.press.color=#d3dae3
 frame.top=3
 frame.bottom=3
 frame.left=3
@@ -327,8 +327,8 @@ frame.right=3
 [MenuItem]
 inherits=PanelButtonCommand
 indicator.size=8
-text.focus.color=#e2e3e7
-text.press.color=#e2e3e7
+text.focus.color=#d3dae3
+text.press.color=#d3dae3
 
 [MenuBarItem]
 inherits=PanelButtonCommand
@@ -343,7 +343,7 @@ text.margin.right=5
 inherits=Toolbar
 frame.element=toolbar
 font.bold=true
-text.normal.color=#e2e3e7
+text.normal.color=#d3dae3
 frame=true
 frame.top=1
 frame=bottom=1
@@ -368,7 +368,7 @@ text.margin.top=1
 text.margin.bottom=1
 text.margin.left=3
 text.margin.right=3
-text.toggle.color=#e2e3e7
+text.toggle.color=#d3dae3
 
 [Hacks]
 transparent_dolphin_view=false

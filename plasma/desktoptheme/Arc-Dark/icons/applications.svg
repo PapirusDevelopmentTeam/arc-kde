@@ -2,7 +2,7 @@
 <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="32" height="32" id="svg3613" version="1.1">
     <defs id="defs3615">
         <style type="text/css" id="current-color-scheme">
-            .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#E9E8E8; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#ffffff; } .ColorScheme-ViewHover { color:#000000; } .ColorScheme-ViewFocus{ color:#5a5a5a; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#E9E8E8; } .ColorScheme-ButtonHover { color:#1489ff; } .ColorScheme-ButtonFocus{ color:#2B74C7; }
+            .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#E9E8E8; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#d3dae3; } .ColorScheme-ViewHover { color:#000000; } .ColorScheme-ViewFocus{ color:#5a5a5a; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#E9E8E8; } .ColorScheme-ButtonHover { color:#1489ff; } .ColorScheme-ButtonFocus{ color:#2B74C7; }
         </style>
     </defs>
     <metadata id="metadata3618">
@@ -31,7 +31,7 @@
             <rect style="fill:#ffdd73" id="rect4603" rx="1" ry="1" height="2" width="13" y="21" x="11.99609"/>
             <circle style="fill:#ffdd73" id="circle4607" cy="22" cx="7.9960899" r="1"/>
             <path style="opacity:0.2" id="path4505" d="m 1.9998,26.611 0,1 c 0,0.77 0.6248,1.389 1.4004,1.389 l 25.2,0 c 0.775,0 1.4,-0.619 1.4,-1.389 l 0,-1 c 0,0.77 -0.625,1.389 -1.4,1.389 l -25.2,0 c -0.7752,0 -1.4,-0.619 -1.4,-1.389 z"/>
-            <path style="opacity:0.2;fill:#ffffff" id="path4566" d="M 3.4002,3 C 2.6246,3 1.9998,3.6192 1.9998,4.3887 l 0,1 C 1.9998,4.6192 2.6246,4 3.4002,4 l 25.2,0 c 0.776,0 1.4,0.6191 1.4,1.3887 l 0,-1 C 30.0002,3.6191 29.3762,3 28.6002,3 l -25.2,0 z"/>
+            <path style="opacity:0.2;fill:#d3dae3" id="path4566" d="M 3.4002,3 C 2.6246,3 1.9998,3.6192 1.9998,4.3887 l 0,1 C 1.9998,4.6192 2.6246,4 3.4002,4 l 25.2,0 c 0.776,0 1.4,0.6191 1.4,1.3887 l 0,-1 C 30.0002,3.6191 29.3762,3 28.6002,3 l -25.2,0 z"/>
             <circle r="1" cx="7.9960899" cy="10" id="circle5990" style="fill:#000000;fill-opacity:1;opacity:0.2"/>
             <circle r="1" cx="7.9960899" cy="9" id="circle5992" style="fill:#ffdd73"/>
         </g>

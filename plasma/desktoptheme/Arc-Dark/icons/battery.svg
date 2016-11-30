@@ -5,17 +5,41 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 22 22"
    version="1.0"
    id="svg7229"
    height="22"
-   width="22">
+   width="22"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="battery.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="843"
+     id="namedview103"
+     showgrid="false"
+     inkscape:zoom="5.76"
+     inkscape:cx="-3.9618644"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7229" />
   <defs
      id="defs7231">
     <style
        type="text/css"
        id="current-color-scheme">
-            .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#ffffff; } .ColorScheme-ViewHover { color:#000000; } .ColorScheme-ViewFocus{ color:#5a5a5a; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#E9E8E8; } .ColorScheme-ButtonHover { color:#1489ff; } .ColorScheme-ButtonFocus{ color:#2B74C7; }
+            .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#d3dae3; } .ColorScheme-ViewHover { color:#000000; } .ColorScheme-ViewFocus{ color:#5a5a5a; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#E9E8E8; } .ColorScheme-ButtonHover { color:#1489ff; } .ColorScheme-ButtonFocus{ color:#2B74C7; }
         </style>
     <style
        id="style5"
@@ -33,7 +57,7 @@
                 </dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -50,7 +74,7 @@
     <path
        id="path4401"
        d="m 197.53573,408.50504 0,15 12,0 0,-15 c 0.0768,-1.06936 -1,-1 -1,-1 l -10,0 c 0,0 -1,-0.004 -1,1 z m 6,1 0,3 2,0 -2,5 0,-3 -2,0 z m -4,10 1,0 0,2 -1,0 z m 2,0 1,0 0,2 -1,0 z m 2,0 1,0 0,2 -1,0 z m 3,0 c 0.55229,0 1,0.44772 1,1 0,0.55228 -0.44771,1 -1,1 -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 z"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
      id="22-22-Battery"
@@ -67,7 +91,7 @@
        class="ColorScheme-Text"
        id="path4281"
        d="m 219.53573,401.50505 3,0 6,0 3,0 0,-3 0,-11 0,-1 -3,0 -0.99999,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -3,0 c -0.277,0 -0.5,0.777 -0.5,0.5 l 0,0.5 -1.00001,0 -3,0 0,1 0,12 z m 2,-2 0,-11 2.50001,0 3,0 2.49999,0 0,11 z"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
      id="22-22-Fill100"
@@ -83,7 +107,7 @@
     <path
        id="path4307"
        d="m 229.53573,399.50504 -8,0 0,-11 8,0 z"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        class="ColorScheme-Text" />
   </g>
   <g
@@ -100,7 +124,7 @@
     <path
        id="path4315"
        d="m 229.53573,399.50504 -8,0 0,-10 8,0 z"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        class="ColorScheme-Text" />
   </g>
   <g
@@ -116,7 +140,7 @@
        transform="matrix(0,-1,1,0,0,0)" />
     <path
        class="ColorScheme-Text"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 229.53573,399.50504 -8,0 0,-9 8,0 z"
        id="path4323" />
   </g>
@@ -134,7 +158,7 @@
     <path
        id="path4331"
        d="m 229.53573,399.50504 -8,0 0,-8 8,0 z"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        class="ColorScheme-Text" />
   </g>
   <g
@@ -150,7 +174,7 @@
        transform="matrix(0,-1,1,0,0,0)" />
     <path
        class="ColorScheme-Text"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 229.53573,399.50504 -8,0 0,-7 8,0 z"
        id="path4339" />
   </g>
@@ -167,7 +191,7 @@
        transform="matrix(0,-1,1,0,0,0)" />
     <path
        class="ColorScheme-Text"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 229.53573,399.50504 -8,0 0,-6 8,0 z"
        id="path4347" />
   </g>
@@ -185,7 +209,7 @@
     <path
        id="path4355"
        d="m 229.53573,399.50504 -8,0 0,-5 8,0 z"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        class="ColorScheme-Text" />
   </g>
   <g
@@ -201,7 +225,7 @@
        transform="matrix(0,-1,1,0,0,0)" />
     <path
        class="ColorScheme-Text"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 229.53573,399.50504 -8,0 0,-4 8,0 z"
        id="path4363" />
   </g>
@@ -219,7 +243,7 @@
     <path
        id="path4371"
        d="m 229.53573,399.50504 -8,0 0,-3 8,0 z"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        class="ColorScheme-Text" />
   </g>
   <g
@@ -315,7 +339,7 @@
        id="rect4200"
        style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 197.53573,408.50504 0,15 12,0 0,-15 c 0.0768,-1.06936 -1,-1 -1,-1 l -10,0 c 0,0 -1,-0.004 -1,1 z m 6,1 0,3 2,0 -2,5 0,-3 -2,0 z m -4,10 1,0 0,2 -1,0 z m 2,0 1,0 0,2 -1,0 z m 2,0 1,0 0,2 -1,0 z m 3,0 c 0.55229,0 1,0.44772 1,1 0,0.55228 -0.44771,1 -1,1 -0.55229,0 -1,-0.44772 -1,-1 0,-0.55228 0.44771,-1 1,-1 z"
        id="path4202" />
   </g>
@@ -331,7 +355,7 @@
        x="-404.50504"
        y="214.53574" />
     <path
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 219.53573,401.50505 3,0 6,0 3,0 0,-3 0,-11 0,-1 -3,0 -0.99999,0 0,-0.5 c 0,-0.277 -0.223,-0.5 -0.5,-0.5 l -3,0 c -0.277,0 -0.5,0.777 -0.5,0.5 l 0,0.5 -1.00001,0 -3,0 0,1 0,12 z m 2,-2 0,-11 2.50001,0 3,0 2.49999,0 0,11 z"
        id="path4208"
        class="ColorScheme-Text" />
@@ -349,7 +373,7 @@
        transform="matrix(0,-1,1,0,0,0)" />
     <path
        class="ColorScheme-Text"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 229.53573,399.50504 -8,0 0,-11 8,0 z"
        id="path4214" />
   </g>
@@ -366,7 +390,7 @@
        transform="matrix(0,-1,1,0,0,0)" />
     <path
        class="ColorScheme-Text"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 229.53573,399.50504 -8,0 0,-10 8,0 z"
        id="path4220" />
   </g>
@@ -384,7 +408,7 @@
     <path
        id="path4226"
        d="m 229.53573,399.50504 -8,0 0,-9 8,0 z"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        class="ColorScheme-Text" />
   </g>
   <g
@@ -400,7 +424,7 @@
        transform="matrix(0,-1,1,0,0,0)" />
     <path
        class="ColorScheme-Text"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 229.53573,399.50504 -8,0 0,-8 8,0 z"
        id="path4232" />
   </g>
@@ -418,7 +442,7 @@
     <path
        id="path4238"
        d="m 229.53573,399.50504 -8,0 0,-7 8,0 z"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        class="ColorScheme-Text" />
   </g>
   <g
@@ -435,7 +459,7 @@
     <path
        id="path4244"
        d="m 229.53573,399.50504 -8,0 0,-6 8,0 z"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        class="ColorScheme-Text" />
   </g>
   <g
@@ -451,7 +475,7 @@
        transform="matrix(0,-1,1,0,0,0)" />
     <path
        class="ColorScheme-Text"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 229.53573,399.50504 -8,0 0,-5 8,0 z"
        id="path4250" />
   </g>
@@ -469,7 +493,7 @@
     <path
        id="path4256"
        d="m 229.53573,399.50504 -8,0 0,-4 8,0 z"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        class="ColorScheme-Text" />
   </g>
   <g
@@ -485,7 +509,7 @@
        transform="matrix(0,-1,1,0,0,0)" />
     <path
        class="ColorScheme-Text"
-       style="color:#31363b;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 229.53573,399.50504 -8,0 0,-3 8,0 z"
        id="path4262" />
   </g>

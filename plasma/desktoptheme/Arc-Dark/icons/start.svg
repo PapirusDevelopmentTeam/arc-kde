@@ -5,10 +5,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg5048"
    height="22"
-   width="22">
+   width="22"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="start.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="843"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="-3.9618644"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5048" />
   <defs
      id="defs5050">
     <style
@@ -27,7 +51,7 @@
                 </dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,7 +79,7 @@
          y="-21"
          x="-21" />
       <path
-         style="opacity:0.2;fill:#ffffff"
+         style="opacity:0.2;fill:#d3dae3"
          id="rect4592"
          d="M 2,1 C 1.446,1 1,1.446 1,2 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 18,0 c 0.554,0 1,0.446 1,1 L 21,2 C 21,1.446 20.554,1 20,1 L 2,1 Z" />
       <path
@@ -117,7 +141,7 @@
          class="ColorScheme-Text"
          id="path4158" />
       <path
-         style="opacity:0.2;fill:#ffffff;fill-opacity:1"
+         style="opacity:0.2;fill:#d3dae3;fill-opacity:1"
          d="M 25.400391,-8 C 24.624791,-8 24,-7.3752094 24,-6.5996094 l 0,1 C 24,-6.3752094 24.624791,-7 25.400391,-7 l 25.199218,0 C 51.375209,-7 52,-6.3752094 52,-5.5996094 l 0,-1 C 52,-7.3752094 51.375209,-8 50.599609,-8 l -25.199218,0 z"
          transform="translate(0,1030.3622)"
          id="rect4174" />
