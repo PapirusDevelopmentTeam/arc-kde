@@ -38,6 +38,8 @@ rm -f ~/.local/share/color-schemes/Arc.colors
 rm -f ~/.local/share/color-schemes/ArcDark.colors
 rm -f ~/.local/share/konsole/Arc.colorscheme
 rm -f ~/.local/share/konsole/ArcDark.colorscheme
+rm -rf ~/.local/share/konversation/themes/papirus
+rm -rf ~/.local/share/konversation/themes/papirus-dark
 rm -rf ~/.config/Kvantum/Arc
 rm -rf ~/.config/Kvantum/ArcDark
 rm -rf ~/.config/Kvantum/ArcDarkTransparent
@@ -54,6 +56,7 @@ cp --no-preserve=mode,ownership -r \
   "$temp_dir/$gh_repo-master/aurorae" \
   "$temp_dir/$gh_repo-master/color-schemes" \
   "$temp_dir/$gh_repo-master/konsole" \
+  "$temp_dir/$gh_repo-master/konversation" \
   "$temp_dir/$gh_repo-master/plasma" \
   "$temp_dir/$gh_repo-master/wallpapers" \
   "$temp_dir/$gh_repo-master/yakuake" \

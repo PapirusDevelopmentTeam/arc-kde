@@ -11,6 +11,7 @@ On repository available:
 - plasma desktop theme
 - look & feel settings
 - color schemes
+- konversation themes
 - yakuake skins
 - wallpapers
 - extra tools

@@ -31,6 +31,8 @@ rm -f ~/.local/share/color-schemes/Arc.colors
 rm -f ~/.local/share/color-schemes/ArcDark.colors
 rm -f ~/.local/share/konsole/Arc.colorscheme
 rm -f ~/.local/share/konsole/ArcDark.colorscheme
+rm -rf ~/.local/share/konversation/themes/papirus
+rm -rf ~/.local/share/konversation/themes/papirus-dark
 rm -rf ~/.config/Kvantum/Arc
 rm -rf ~/.config/Kvantum/ArcDark
 rm -rf ~/.config/Kvantum/ArcDarkTransparent
