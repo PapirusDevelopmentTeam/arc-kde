@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/preview.png" alt="preview"/>
+  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/preview-arc-dark.png" alt="preview arc dark"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/preview-arc.png" alt="preview arc"/>
 </p>
 
 # About
