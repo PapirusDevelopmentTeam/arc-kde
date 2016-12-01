@@ -22,8 +22,14 @@ cat <<- EOF
 
 EOF
 
-echo "=> Removing $gh_desc ..."
-# root
+temp_dir=$(mktemp -d)
+
+echo "=> Getting the latest version from GitHub ..."
+wget -O "/tmp/$gh_repo.tar.gz" \
+  https://github.com/PapirusDevelopmentTeam/$gh_repo/archive/master.tar.gz
+echo "=> Unpacking archive ..."
+tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
+echo "=> Deleting old $gh_desc ..."
 sudo rm -rf /usr/share/aurorae/themes/Arc
 sudo rm -rf /usr/share/aurorae/themes/Arc-Dark
 sudo rm -rf /usr/share/aurorae/themes/Arc-Transparent
@@ -44,28 +50,22 @@ sudo rm -rf /usr/share/wallpapers/Arc
 sudo rm -rf /usr/share/wallpapers/Arc-Dark
 sudo rm -rf /usr/share/kde4/apps/yakuake/skins/arc
 sudo rm -rf /usr/share/kde4/apps/yakuake/skins/arc-dark
-# home
-rm -rf ~/.local/share/aurorae/themes/Arc
-rm -rf ~/.local/share/aurorae/themes/Arc-Dark
-rm -rf ~/.local/share/aurorae/themes/Arc-Transparent
-rm -rf ~/.local/share/aurorae/themes/Arc-Dark-Transparent
-rm -f ~/.local/share/color-schemes/Arc.colors
-rm -f ~/.local/share/color-schemes/ArcDark.colors
-rm -f ~/.local/share/konsole/Arc.colorscheme
-rm -f ~/.local/share/konsole/ArcDark.colorscheme
-rm -rf ~/.local/share/konversation/themes/papirus
-rm -rf ~/.local/share/konversation/themes/papirus-dark
-rm -rf ~/.config/Kvantum/Arc
-rm -rf ~/.config/Kvantum/ArcDark
-rm -rf ~/.config/Kvantum/ArcDarkTransparent
-rm -rf ~/.config/Kvantum/ArcTransparent
-rm -rf ~/.local/share/plasma/desktoptheme/Arc-Dark
-rm -rf ~/.local/share/plasma/look-and-feel/com.github.varlesh.arc-dark
-rm -rf ~/.local/share/wallpapers/Arc
-rm -rf ~/.local/share/wallpapers/Arc-Dark
-rm -rf ~/.local/share/yakuake/kns_skins/arc
-rm -rf ~/.local/share/yakuake/kns_skins/arc-dark
-# Clean up
-rm -f ~/.cache/plasma-svgelements-Arc-Dark*
-rm -f ~/.cache/plasma_theme_Arc-Dark.kcache
+echo "=> Installing ..."
+sudo cp --no-preserve=mode,ownership -r \
+  "$temp_dir/$gh_repo-master/aurorae" \
+  "$temp_dir/$gh_repo-master/color-schemes" \
+  "$temp_dir/$gh_repo-master/konsole" \
+  "$temp_dir/$gh_repo-master/konversation" \
+  "$temp_dir/$gh_repo-master/plasma" \
+  "$temp_dir/$gh_repo-master/wallpapers" \
+  "$temp_dir/$gh_repo-master/Kvantum" \
+  /usr/share/
+sudo cp --no-preserve=mode,ownership -r \
+  "$temp_dir/$gh_repo-master/yakuake/kns_skins/arc" \
+  "$temp_dir/$gh_repo-master/yakuake/kns_skins/arc-dark" \
+  /usr/share/kde4/apps/yakuake/skins/
+echo "=> Clearing cache ..."
+rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir" \
+  ~/.cache/plasma-svgelements-Arc-Dark* \
+  ~/.cache/plasma_theme_Arc-Dark.kcache
 echo "=> Done!"

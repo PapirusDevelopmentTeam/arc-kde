@@ -20,9 +20,15 @@ On repository available:
 - extra tools
 
 # Install / Update
+## ROOT directory
+```
+wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/install-arc-kde-root.sh | sh
+```
+## HOME directory
 ```
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/install-arc-kde-home.sh | sh
 ```
+
 **Depends:**
 - wget
 - tar
