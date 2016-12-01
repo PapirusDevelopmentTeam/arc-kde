@@ -1,10 +1,16 @@
 [Background]
 Color=231,232,235
 
+[BackgroundFaint]
+Color=231,232,235
+
 [BackgroundIntense]
 Color=231,232,235
 
 [Color0]
+Color=255,255,255
+
+[Color0Faint]
 Color=255,255,255
 
 [Color0Intense]
@@ -13,10 +19,16 @@ Color=177,119,120
 [Color1]
 Color=225,66,69
 
+[Color1Faint]
+Color=225,66,69
+
 [Color1Intense]
 Color=164,57,57
 
 [Color2]
+Color=80,154,5
+
+[Color2Faint]
 Color=80,154,5
 
 [Color2Intense]
@@ -25,10 +37,16 @@ Color=95,144,65
 [Color3]
 Color=196,157,0
 
+[Color3Faint]
+Color=196,157,0
+
 [Color3Intense]
 Color=72,119,177
 
 [Color4]
+Color=231,232,235
+
+[Color4Faint]
 Color=231,232,235
 
 [Color4Intense]
@@ -37,10 +55,16 @@ Color=255,85,0
 [Color5]
 Color=117,80,123
 
+[Color5Faint]
+Color=117,80,123
+
 [Color5Intense]
 Color=173,127,169
 
 [Color6]
+Color=82,148,226
+
+[Color6Faint]
 Color=82,148,226
 
 [Color6Intense]
@@ -49,14 +73,20 @@ Color=132,162,226
 [Color7]
 Color=164,165,170
 
+[Color7Faint]
+Color=164,165,170
+
 [Color7Intense]
-Color=122,127,139
+Color=92,97,108
 
 [Foreground]
-Color=122,127,139
+Color=92,97,108
+
+[ForegroundFaint]
+Color=92,97,108
 
 [ForegroundIntense]
-Color=122,127,139
+Color=92,97,108
 
 [General]
 Description=Arc
