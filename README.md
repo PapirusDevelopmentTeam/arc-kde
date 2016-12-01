@@ -26,6 +26,7 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/maste
 - plasma-desktop
 - [kvantum engine](https://github.com/tsujan/Kvantum/tree/master/Kvantum)
 - yakuake (optional)
+- konversation (optional)
 
 # Remove
 ```
