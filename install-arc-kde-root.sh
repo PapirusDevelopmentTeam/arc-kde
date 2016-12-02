@@ -48,8 +48,8 @@ sudo rm -rf /usr/share/plasma/desktoptheme/Arc-Dark
 sudo rm -rf /usr/share/plasma/look-and-feel/com.github.varlesh.arc-dark
 sudo rm -rf /usr/share/wallpapers/Arc
 sudo rm -rf /usr/share/wallpapers/Arc-Dark
-sudo rm -rf /usr/share/kde4/apps/yakuake/skins/arc
-sudo rm -rf /usr/share/kde4/apps/yakuake/skins/arc-dark
+sudo rm -rf /usr/share/yakuake/skins/arc
+sudo rm -rf /usr/share/yakuake/skins/arc-dark
 echo "=> Installing ..."
 sudo cp --no-preserve=mode,ownership -r \
   "$temp_dir/$gh_repo-master/aurorae" \
@@ -60,10 +60,11 @@ sudo cp --no-preserve=mode,ownership -r \
   "$temp_dir/$gh_repo-master/wallpapers" \
   "$temp_dir/$gh_repo-master/Kvantum" \
   /usr/share/
+sudo mkdir -p /usr/share/yakuake/skins/
 sudo cp --no-preserve=mode,ownership -r \
   "$temp_dir/$gh_repo-master/yakuake/kns_skins/arc" \
   "$temp_dir/$gh_repo-master/yakuake/kns_skins/arc-dark" \
-  /usr/share/kde4/apps/yakuake/skins/
+  /usr/share/yakuake/skins/
 echo "=> Clearing cache ..."
 rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir" \
   ~/.cache/plasma-svgelements-Arc-Dark* \

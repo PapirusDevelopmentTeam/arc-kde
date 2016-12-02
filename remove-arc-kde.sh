@@ -42,8 +42,8 @@ sudo rm -rf /usr/share/plasma/desktoptheme/Arc-Dark
 sudo rm -rf /usr/share/plasma/look-and-feel/com.github.varlesh.arc-dark
 sudo rm -rf /usr/share/wallpapers/Arc
 sudo rm -rf /usr/share/wallpapers/Arc-Dark
-sudo rm -rf /usr/share/kde4/apps/yakuake/skins/arc
-sudo rm -rf /usr/share/kde4/apps/yakuake/skins/arc-dark
+sudo rm -rf /usr/share/yakuake/skins/arc
+sudo rm -rf /usr/share/yakuake/skins/arc-dark
 # home
 rm -rf ~/.local/share/aurorae/themes/Arc
 rm -rf ~/.local/share/aurorae/themes/Arc-Dark
