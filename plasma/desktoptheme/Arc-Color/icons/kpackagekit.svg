@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="100%" width="100%" version="1.1" id="svg" viewBox="0 0 22 22">
+ <defs id="defs81">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+ </defs>
+ <g id="kpackagekit-security">
+  <rect style="opacity:0;fill:#7a0000;fill-opacity:1;stroke:none;stroke-opacity:1" id="rect4163" width="22" height="22" x="0" y="0"/>
+  <path id="path4163" d="M 10.761719,3.0136719 A 8,8 0 0 0 4.0722656,7 8,8 0 0 0 5.3984375,16.703125 L 6.4433594,14.892578 A 6,6 0 0 1 5.8046875,8 6,6 0 0 1 12.09375,5.1074219 L 13.134766,3.3027344 A 8,8 0 0 0 10.761719,3.0136719 Z" style="opacity:0.99999999;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Text"/>
+  <path id="path4161" d="M 16.601562,5.296875 15.556641,7.1074219 A 6,6 0 0 1 16.195312,14 6,6 0 0 1 9.90625,16.892578 L 8.8652344,18.697266 A 8,8 0 0 0 17.927734,15 8,8 0 0 0 16.601562,5.296875 Z" style="opacity:0.99999999;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Text"/>
+  <path id="path4159" d="m 10,7 0,5 2,0 0,-5 -2,0 z" style="opacity:0.99999999;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Highlight"/>
+  <path id="path4148" d="m 11,13 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" style="opacity:0.99999999;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Highlight"/>
+ </g>
+ <g transform="translate(-27,0)" id="kpackagekit-updates">
+  <rect y="0" x="0" height="22" width="22" id="rect4172" style="opacity:0;fill:#7a0000;fill-opacity:1;stroke:none;stroke-opacity:1"/>
+  <path id="path4155" d="M 10.761719,3.0136719 A 8,8 0 0 0 4.072266,7 8,8 0 0 0 5.398438,16.703125 L 6.443359,14.892578 A 6,6 0 0 1 5.804688,8 6,6 0 0 1 12.09375,5.1074219 L 13.134766,3.3027344 A 8,8 0 0 0 10.761719,3.0136719 Z" style="opacity:0.99999999;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Text"/>
+  <path id="path4153" d="M 16.601562,5.296875 15.556641,7.1074219 A 6,6 0 0 1 16.195312,14 6,6 0 0 1 9.90625,16.892578 L 8.865234,18.697266 A 8,8 0 0 0 17.927734,15 8,8 0 0 0 16.601562,5.296875 Z" style="opacity:0.99999999;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Text"/>
+  <path id="path4151" d="M 8,10 A 1,1 0 0 0 7,11 1,1 0 0 0 8,12 1,1 0 0 0 9,11 1,1 0 0 0 8,10 Z" style="opacity:0.99999999;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Highlight"/>
+  <path id="path4149" d="m 11,10 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" style="opacity:0.99999999;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Highlight"/>
+  <path id="path4174" d="m 14,10 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" style="opacity:0.99999999;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Highlight"/>
+ </g>
+ <g transform="translate(27,0)" id="kpackagekit-important">
+  <rect y="0" x="0" height="22" width="22" id="rect4204" style="opacity:0;fill:#7a0000;fill-opacity:1;stroke:none;stroke-opacity:1"/>
+  <path id="path4171" d="M 10.761719,3.0136719 A 8,8 0 0 0 4.0722656,7 8,8 0 0 0 5.3984375,16.703125 L 6.4433594,14.892578 A 6,6 0 0 1 5.8046875,8 6,6 0 0 1 12.09375,5.1074219 L 13.134766,3.3027344 A 8,8 0 0 0 10.761719,3.0136719 Z" style="opacity:0.99999999;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Text"/>
+  <path id="path4169" d="M 16.601562,5.296875 15.556641,7.1074219 A 6,6 0 0 1 16.195312,14 6,6 0 0 1 9.90625,16.892578 L 8.8652344,18.697266 A 8,8 0 0 0 17.927734,15 8,8 0 0 0 16.601562,5.296875 Z" style="opacity:0.99999999;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Text"/>
+  <path id="path4167" d="m 10,7 0,5 2,0 0,-5 -2,0 z" style="opacity:0.99999999;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Highlight"/>
+  <path id="path4206" d="m 11,13 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" style="opacity:0.99999999;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Highlight"/>
+ </g>
+ <g id="kpackagekit-inactive" transform="translate(55.3,0)">
+  <rect style="opacity:0;fill:#7a0000;fill-opacity:1;stroke:none;stroke-opacity:1" id="rect4210" width="22" height="22" x="0" y="0"/>
+  <path id="path4220" transform="translate(-55.3,0)" d="M 66.0625 3.0136719 A 8 8 0 0 0 59.373047 7 A 8 8 0 0 0 60.699219 16.703125 L 61.744141 14.892578 A 6 6 0 0 1 61.105469 8 A 6 6 0 0 1 67.394531 5.1074219 L 68.435547 3.3027344 A 8 8 0 0 0 66.0625 3.0136719 z M 71.902344 5.296875 L 70.857422 7.1074219 A 6 6 0 0 1 71.496094 14 A 6 6 0 0 1 65.207031 16.892578 L 64.166016 18.697266 A 8 8 0 0 0 73.228516 15 A 8 8 0 0 0 71.902344 5.296875 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Text"/>
+ </g>
+</svg>

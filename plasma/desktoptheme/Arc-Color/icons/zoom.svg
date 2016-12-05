@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns="http://www.w3.org/2000/svg" width="22" version="1.1" style="enable-background:new" id="svg7384" height="22">
+ <title id="title8473">
+  Paper Symbolic Icon Theme
+ </title>
+ <defs id="defs7386">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+  <linearGradient osb:paint="solid" id="linearGradient5606">
+   <stop style="stop-color:currentColor;stop-opacity:1;" offset="0" id="stop5608"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-465.0002,65.00334)" id="zoom-fit-width">
+  <rect y="-65" x="465" height="22" width="22" id="rect3338" style="opacity:0;fill:#0000ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <path style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" id="path5837" d="m 473.0002,-57.00334 -5,3 5,3 0,-2 6,0 0,2 5,-3 -5,-3 0,2 -6,0 0,-2 z" class="ColorScheme-Text"/>
+ </g>
+ <g id="zoom-fit-height" transform="matrix(0,1,-1,0,-17.00334,-465.00037)">
+  <rect style="opacity:0;fill:#0000ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="rect4142" width="22" height="22" x="465" y="-65"/>
+  <path d="m 473.0002,-57.00334 -5,3 5,3 0,-2 6,0 0,2 5,-3 -5,-3 0,2 -6,0 0,-2 z" id="path4144" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"/>
+ </g>
+ <g transform="translate(-486.00018,85.003342)" style="display:inline;enable-background:new" id="16-16-zoom-fit-width">
+  <rect style="opacity:0;fill:#0000ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" id="rect4142-1" width="16" height="16" x="489" y="-59"/>
+  <path d="m 494.0002,-54.00334 -4,2.999999 4,3.000001 0,-2.000001 6,0 0,2.000001 4,-3.000001 -4,-2.999999 0,2.000001 -6,0 z" id="path4144-5" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"/>
+ </g>
+ <g id="16-16-zoom-fit-height" style="display:inline;enable-background:new" transform="matrix(0,1,-1,0,-14.00334,-463.00018)">
+  <rect y="-59" x="489" height="16" width="16" id="rect4155" style="opacity:0;fill:#0000ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  <path style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" id="path4157" d="m 494.0002,-54.00334 -4,2.999999 4,3.000001 0,-2.000001 6,0 0,2.000001 4,-3.000001 -4,-2.999999 0,2.000001 -6,0 z" class="ColorScheme-Text"/>
+ </g>
+</svg>

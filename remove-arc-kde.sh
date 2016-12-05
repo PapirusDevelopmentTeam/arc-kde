@@ -39,6 +39,7 @@ sudo rm -rf /usr/share/Kvantum/ArcDark
 sudo rm -rf /usr/share/Kvantum/ArcDarkTransparent
 sudo rm -rf /usr/share/Kvantum/ArcTransparent
 sudo rm -rf /usr/share/plasma/desktoptheme/Arc-Dark
+sudo rm -rf /usr/share/plasma/desktoptheme/Arc-Color
 sudo rm -rf /usr/share/plasma/look-and-feel/com.github.varlesh.arc-dark
 sudo rm -rf /usr/share/wallpapers/Arc
 sudo rm -rf /usr/share/wallpapers/Arc-Dark
@@ -60,12 +61,13 @@ rm -rf ~/.config/Kvantum/ArcDark
 rm -rf ~/.config/Kvantum/ArcDarkTransparent
 rm -rf ~/.config/Kvantum/ArcTransparent
 rm -rf ~/.local/share/plasma/desktoptheme/Arc-Dark
+rm -rf ~/.local/share/plasma/desktoptheme/Arc-Color
 rm -rf ~/.local/share/plasma/look-and-feel/com.github.varlesh.arc-dark
 rm -rf ~/.local/share/wallpapers/Arc
 rm -rf ~/.local/share/wallpapers/Arc-Dark
 rm -rf ~/.local/share/yakuake/kns_skins/arc
 rm -rf ~/.local/share/yakuake/kns_skins/arc-dark
 # Clean up
-rm -f ~/.cache/plasma-svgelements-Arc-Dark*
-rm -f ~/.cache/plasma_theme_Arc-Dark.kcache
+rm -f ~/.cache/plasma-svgelements-Arc*
+rm -f ~/.cache/plasma_theme_Arc*.kcache
 echo "=> Done!"

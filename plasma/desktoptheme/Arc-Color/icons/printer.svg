@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns="http://www.w3.org/2000/svg" width="22" version="1.1" style="enable-background:new" id="svg7384" height="22">
+ <title id="title8473">
+  Paper Symbolic Icon Theme
+ </title>
+ <defs id="defs7386">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+  <linearGradient osb:paint="solid" id="linearGradient5606">
+   <stop style="stop-color:currentColor;stop-opacity:1;" offset="0" id="stop5608"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-505.0006,125.00672)" id="printer">
+  <rect y="-125.01" x="505" height="22" width="22" id="rect4140" style="opacity:0;fill:#2b0000;fill-opacity:0.40392157;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <path id="path3520-4" transform="translate(505.0006,-125.00672)" d="M 6,3 6,6 16,6 16,3 6,3 Z M 3.2851562,7 C 2.6423062,7 2,7.5826756 2,8.1660156 L 2,12.833984 C 2,13.417324 2.6423062,14 3.2851562,14 L 5,14 l 0,-2 12,0 0,2 1.714844,0 C 19.357694,14 20,13.417324 20,12.833984 L 20,8.1660156 C 20,7.5826756 19.357694,7 18.714844,7 L 3.2851562,7 Z M 6,13 l 0,6 10,0 0,-6 -10,0 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"/>
+ </g>
+</svg>

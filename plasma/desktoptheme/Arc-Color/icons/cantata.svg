@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2817" height="22" width="22" version="1">
+ <defs id="defs9">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+ </defs>
+ <g id="cantata">
+  <rect style="opacity:0.001;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect4554" width="22" height="22" x="0" y="0" rx=".582" ry=".688"/>
+  <path style="opacity:1;fill:currentColor;fill-opacity:1" d="m 12.56054,3.0000035 c -1.28,0 -2.5605464,-7.031e-4 -2.5605464,1.2792969 l 0,8.0624996 c -0.468462,-0.223772 -0.9808384,-0.340524 -1.5,-0.341797 -1.9329966,0 -3.5,1.567003 -3.5,3.5 0,1.932997 1.5670034,3.5 3.5,3.5 1.8917444,-0.0024 3.4392484,-1.507489 3.4941404,-3.398437 l 0.0059,0.0039 c 2.22e-4,-0.03496 -2.1e-4,-0.0705 0,-0.105469 0.01427,-2.376166 0,-4.780643 0,-7.1660165 0,-3.5324037 4.360001,1.026016 5,1.666016 0,-1.70688 0.04055,-7 -4.439454,-7 z" id="path4556" class="ColorScheme-Text"/>
+ </g>
+</svg>

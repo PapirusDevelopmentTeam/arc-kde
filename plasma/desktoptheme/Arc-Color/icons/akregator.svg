@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg4157" viewBox="0 0 22 22" height="22" width="22">
+ <defs id="defs8">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+ </defs>
+ <g id="akregator" transform="translate(0,-2)">
+  <rect style="opacity:0.001;fill:currentColor" id="rect4153" width="22" height="22" x="0" y="2"/>
+  <path id="path4155" style="fill:currentColor" class="ColorScheme-Text" d="M 5.3896175,16.2186 C 4.0700125,16.2186 3,17.29 3,18.610301 3,19.9279 4.0700125,21 5.3896175,21 c 1.319586,0 2.389598,-1.0721 2.389598,-2.389699 0,-1.320301 -1.070012,-2.391701 -2.389598,-2.391701 z M 3,9.9848001 3,12.48 c 4.7055745,0 8.5197,3.8141 8.5197,8.52 l 2.492562,0 C 14.012262,14.917901 9.0818743,9.9848001 3,9.9848001 Z M 3,5 3,7.4920001 C 10.458804,7.4920001 16.507437,13.5389 16.507437,21 L 19,21 C 19,12.1619 11.835755,5 3,5"/>
+ </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" version="1.1" style="enable-background:new" id="svg7384" height="22">
+ <defs id="defs8">
+  <style type="text/css" id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+ </defs>
+ <g id="akonadi">
+  <path id="path4157" d="M 0,0 22,0 22,22 0,22 Z" style="opacity:0.001;fill:currentColor"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 7.6982381,3.0000324 C 5.0253854,4.5138977 3.5178254,7.2376417 3.4587236,10.058841 c -0.1740241,0.183664 -0.3300031,0.38153 -0.4587276,0.602592 0,4.605262 3.8055797,8.338566 8.5,8.338566 4.69442,0 8.5,-3.733304 8.5,-8.338566 -0.2744,-0.10524 -0.580984,-0.213843 -0.90697,-0.324868 A 7.6052631,7.4608221 0 0 0 11.499996,3.2006106 7.6052631,7.4608221 0 0 0 9.469363,3.472334 C 8.9090399,3.168626 8.3185699,2.9972363 7.6982381,3.0000324 Z" id="path4161"/>
+ </g>
+</svg>

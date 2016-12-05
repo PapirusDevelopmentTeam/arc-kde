@@ -45,6 +45,7 @@ sudo rm -rf /usr/share/Kvantum/ArcDark
 sudo rm -rf /usr/share/Kvantum/ArcDarkTransparent
 sudo rm -rf /usr/share/Kvantum/ArcTransparent
 sudo rm -rf /usr/share/plasma/desktoptheme/Arc-Dark
+sudo rm -rf /usr/share/plasma/desktoptheme/Arc-Color
 sudo rm -rf /usr/share/plasma/look-and-feel/com.github.varlesh.arc-dark
 sudo rm -rf /usr/share/wallpapers/Arc
 sudo rm -rf /usr/share/wallpapers/Arc-Dark
@@ -67,6 +68,6 @@ sudo cp --no-preserve=mode,ownership -r \
   /usr/share/yakuake/skins/
 echo "=> Clearing cache ..."
 rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir" \
-  ~/.cache/plasma-svgelements-Arc-Dark* \
-  ~/.cache/plasma_theme_Arc-Dark.kcache
+  ~/.cache/plasma-svgelements-Arc* \
+  ~/.cache/plasma_theme_Arc*.kcache
 echo "=> Done!"

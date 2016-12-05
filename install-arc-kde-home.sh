@@ -45,6 +45,7 @@ rm -rf ~/.config/Kvantum/ArcDark
 rm -rf ~/.config/Kvantum/ArcDarkTransparent
 rm -rf ~/.config/Kvantum/ArcTransparent
 rm -rf ~/.local/share/plasma/desktoptheme/Arc-Dark
+rm -rf ~/.local/share/plasma/desktoptheme/Arc-Color
 rm -rf ~/.local/share/plasma/look-and-feel/com.github.varlesh.arc-dark
 rm -rf ~/.local/share/wallpapers/Arc
 rm -rf ~/.local/share/wallpapers/Arc-Dark
@@ -64,6 +65,6 @@ cp --no-preserve=mode,ownership -r \
 cp --no-preserve=mode,ownership -r "$temp_dir/$gh_repo-master/Kvantum" ~/.config/
 echo "=> Clearing cache ..."
 rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir" \
-  ~/.cache/plasma-svgelements-Arc-Dark* \
-  ~/.cache/plasma_theme_Arc-Dark.kcache
+  ~/.cache/plasma-svgelements-Arc* \
+  ~/.cache/plasma_theme_Arc*.kcache
 echo "=> Done!"

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="136"
+   height="136"
+   viewBox="0 0 35.983333 35.983334"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="action-overlays.svg">
+  <defs
+     id="defs7386">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#5c616c; }
+  </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#383c4a"
+     bordercolor="#c90303"
+     borderopacity="1"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.57"
+     inkscape:cx="17.468182"
+     inkscape:cy="87.301101"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="849"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4160"
+       empspacing="2"
+       originx="0.52916663"
+       originy="-11.641662" />
+    <sodipodi:guide
+       position="7.1437512,31.48542"
+       orientation="21.999992,0"
+       id="guide4185" />
+    <sodipodi:guide
+       position="7.1437512,25.664589"
+       orientation="0,21.999999"
+       id="guide4187" />
+    <sodipodi:guide
+       position="12.964584,25.664589"
+       orientation="-21.999992,0"
+       id="guide4189" />
+    <sodipodi:guide
+       position="12.964584,31.48542"
+       orientation="0,-21.999999"
+       id="guide4191" />
+    <sodipodi:guide
+       position="7.9375005,30.691658"
+       orientation="16.000015,0"
+       id="guide4195" />
+    <sodipodi:guide
+       position="7.9375005,26.45832"
+       orientation="0,15.999999"
+       id="guide4197" />
+    <sodipodi:guide
+       position="12.170833,26.45832"
+       orientation="-16.000015,0"
+       id="guide4199" />
+    <sodipodi:guide
+       position="12.170833,30.691658"
+       orientation="0,-15.999999"
+       id="guide4201" />
+    <sodipodi:guide
+       position="7.9374991,24.870826"
+       orientation="16.000015,0"
+       id="guide4258" />
+    <sodipodi:guide
+       position="7.9374991,20.637489"
+       orientation="0,16.000004"
+       id="guide4260" />
+    <sodipodi:guide
+       position="12.170833,20.637489"
+       orientation="-16.000015,0"
+       id="guide4262" />
+    <sodipodi:guide
+       position="12.170833,24.870826"
+       orientation="0,-16.000004"
+       id="guide4264" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.52916664,-249.37498)">
+    <g
+       id="add-normal">
+      <rect
+         y="253.87289"
+         x="6.6145849"
+         height="5.8208332"
+         width="5.8208318"
+         id="rect4208"
+         style="opacity:0.5;fill:none;fill-opacity:1;stroke:none" />
+      <ellipse
+         ry="2.1166596"
+         rx="2.1166666"
+         cy="256.78333"
+         cx="9.5250006"
+         id="path4210"
+         style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" />
+      <ellipse
+         style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+         class="ColorScheme-ButtonBackground"
+         id="ellipse4212"
+         cx="9.5250006"
+         cy="256.78333"
+         rx="1.8520832"
+         ry="1.8520771" />
+    </g>
+    <g
+       id="add-hover">
+      <rect
+         style="opacity:0.5;fill:none;fill-opacity:1;stroke:none"
+         id="rect4214"
+         width="5.8208318"
+         height="5.8208332"
+         x="12.435414"
+         y="253.87289" />
+    </g>
+    <g
+       id="add-pressed">
+      <rect
+         y="253.87289"
+         x="18.256247"
+         height="5.8208332"
+         width="5.8208318"
+         id="rect4220"
+         style="opacity:0.5;fill:none;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="open-pressed">
+      <rect
+         y="259.69373"
+         x="6.6145835"
+         height="5.8208346"
+         width="5.8208346"
+         id="rect4254"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="open-hover">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none"
+         id="rect4274"
+         width="5.8208346"
+         height="5.8208346"
+         x="12.435413"
+         y="259.69373" />
+    </g>
+    <g
+       id="remove-normal"
+       transform="translate(0,10.847919)">
+      <rect
+         style="opacity:0.5;fill:none;fill-opacity:1;stroke:none"
+         id="rect4312"
+         width="5.8208318"
+         height="5.8208332"
+         x="6.6145849"
+         y="253.87289" />
+      <ellipse
+         style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
+         id="ellipse4314"
+         cx="9.5250006"
+         cy="256.78333"
+         rx="2.1166666"
+         ry="2.1166596"
+         class="ColorScheme-Highlight" />
+      <ellipse
+         ry="1.8520771"
+         rx="1.8520832"
+         cy="256.78333"
+         cx="9.5250006"
+         id="ellipse4316"
+         style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+         class="ColorScheme-ButtonBackground" />
+      <ellipse
+         style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+         id="ellipse4336"
+         cx="9.5250006"
+         cy="256.78333"
+         rx="1.3229165"
+         ry="1.3229121"
+         class="ColorScheme-Highlight" />
+    </g>
+    <g
+       id="remove-hover"
+       transform="translate(0,10.847919)">
+      <rect
+         y="253.87289"
+         x="12.435414"
+         height="5.8208332"
+         width="5.8208318"
+         id="rect4320"
+         style="opacity:0.5;fill:none;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="remove-pressed"
+       transform="translate(0,10.847919)">
+      <rect
+         style="opacity:0.5;fill:none;fill-opacity:1;stroke:none"
+         id="rect4328"
+         width="5.8208318"
+         height="5.8208332"
+         x="18.256247"
+         y="253.87289" />
+    </g>
+    <g
+       id="open-normal"
+       transform="translate(11.641667,5.8208355)">
+      <rect
+         style="opacity:0.5;fill:none;fill-opacity:1;stroke:none"
+         id="rect4312-9"
+         width="5.8208318"
+         height="5.8208332"
+         x="6.6145849"
+         y="253.87289" />
+      <ellipse
+         style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
+         id="ellipse4314-6"
+         cx="9.5250006"
+         cy="256.78333"
+         rx="2.1166666"
+         ry="2.1166596" />
+      <ellipse
+         ry="1.8520771"
+         rx="1.8520832"
+         cy="-256.78333"
+         cx="-9.5250006"
+         id="ellipse4316-2"
+         style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+         class="ColorScheme-ButtonBackground"
+         transform="scale(-1,-1)" />
+      <path
+         style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
+         d="m 8.5901741,257.71817 1.8696539,-1.86965 a 1.3229165,1.3229121 0 0 0 -0.9348268,-0.38809 1.3229165,1.3229121 0 0 0 -1.3229171,1.32291 1.3229165,1.3229121 0 0 0 0.38809,0.93483 z"
+         id="ellipse4336-2"
+         class="ColorScheme-Highlight"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

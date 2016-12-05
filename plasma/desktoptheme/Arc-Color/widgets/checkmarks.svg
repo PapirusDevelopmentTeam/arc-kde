@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg2"
+   version="1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="checkmarks.svg">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview14" />
+  <defs
+     id="defs7386">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(0,-64)">
+    <g
+       id="checkbox">
+      <title
+         id="title4162">
+    checkbox
+   </title>
+      <rect
+         style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect4144"
+         width="16"
+         height="16"
+         x="16"
+         y="64"
+         rx="87.767"
+         ry="0" />
+      <path
+         id="rect2910"
+         d="m 29.437245,67.130711 c -0.352513,0.009 -0.723,0.1605 -1,0.4375 l -6,6 -2,-2 c -0.554001,-0.554 -1.411045,-0.588955 -1.9375,-0.0625 l -0.125,0.125 c -0.526456,0.526455 -0.491501,1.3835 0.0625,1.9375 l 2.78125,2.75 c 0.04869,0.07525 0.09044,0.121693 0.15625,0.1875 l 0.0625,0.0625 0.0625,0.0625 c 0.05008,0.04454 0.102226,0.08849 0.15625,0.125 0.0133,0.0093 0.01768,0.02247 0.03125,0.03125 0.06706,0.04258 0.147487,0.06325 0.21875,0.09375 0.06237,0.02626 0.122194,0.04626 0.1875,0.0625 0.02255,0.0061 0.03979,0.02628 0.0625,0.03125 0.172757,0.03346 0.355578,0.03464 0.53125,0 0.03304,-0.0056 0.06122,-0.02316 0.09375,-0.03125 0.237331,-0.0643 0.466524,-0.185274 0.65625,-0.375 l 0.0625,-0.0625 c 0.06581,-0.06581 0.107555,-0.11225 0.15625,-0.1875 l 6.78125,-6.75 c 0.554,-0.554 0.588955,-1.411045 0.0625,-1.9375 l -0.125,-0.125 c -0.263228,-0.263228 -0.584987,-0.383987 -0.9375,-0.375 z"
+         style="fill:currentColor"
+         class="ColorScheme-Text" />
+    </g>
+    <g
+       id="radiobutton">
+      <title
+         id="title4160">
+    radiobutton
+   </title>
+      <rect
+         ry="0"
+         rx="87.767"
+         y="64"
+         x="0"
+         height="16"
+         width="16"
+         id="rect3736"
+         style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <circle
+         r="4"
+         id="path3716"
+         cx="8"
+         cy="72"
+         style="fill:currentColor"
+         class="ColorScheme-Text" />
+    </g>
+  </g>
+</svg>
