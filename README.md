@@ -8,10 +8,12 @@
 # About
 Arc KDE - it's port popular GTK themes Arc for Plasma 5 desktop with more additionals.
 
+**NOTE:** Plasma theme Arc Color now support KDE Color Scheme with Papirus icon theme.
+
 On repository available:
 - kvantum themes
 - aurorae window decorations
-- plasma desktop theme
+- plasma desktop themes
 - look & feel settings
 - color schemes
 - konversation themes
@@ -49,6 +51,12 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/maste
 sudo sh ~/.local/share/plasma/desktoptheme/Arc-Dark/fix-menubar.sh
 ```
 ![Screenshot](fix-menubar.png)
+
+# Extra install
+- [Firefox Theme](https://github.com/PapirusDevelopmentTeam/arc-kde/tree/master/extra/firefox)
+- [Eclipse Theme](https://github.com/PapirusDevelopmentTeam/arc-kde/tree/master/extra/eclipse)
+- [VLC Arc Dark Skin](https://github.com/varlesh/VLC-Arc-Dark)
+- [Nylas Skin](https://github.com/varlesh/Nylas-Arc-Dark-Theme)
 
 # Donate
 If you like my project , you can donate:
