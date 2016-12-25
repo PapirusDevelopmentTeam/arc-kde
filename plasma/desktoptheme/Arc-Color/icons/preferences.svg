@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 22 22"
+   id="svg"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="100%"
+   height="100%">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7386">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+   </style>
+  </defs>
+  <g
+     id="preferences-system-bluetooth"
+     transform="translate(40,79)">
+    <rect
+       style="fill:currentColor;fill-opacity:0;stroke:none"
+       id="rect3009"
+       width="22"
+       height="22"
+       x="1"
+       y="1" />
+    <path
+       id="rect2996"
+	   class="ColorScheme-Text"
+       d="m 11,4 0,6 -3,-3 0,2 3,3 -3,3 0,2 3,-3 0,6 2,-2 3,-3 -3,-3 3,-3 -3,-3 -2,-2 z m 1,3 2,2 -2,2 0,-4 z m 0,6 2,2 -2,2 0,-4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="translate(80,79)"
+     id="preferences-system-bluetooth-inactive">
+    <rect
+       y="1"
+       x="1"
+       height="22"
+       width="22"
+       id="rect3007"
+       style="fill:currentColor;fill-opacity:0;stroke:none" />
+    <path
+	   class="ColorScheme-Text"
+       inkscape:connector-curvature="0"
+       style="opacity:0.3;fill:currentColor;fill-opacity:1"
+       d="m 11,4 0,6 -3,-3 0,2 3,3 -3,3 0,2 3,-3 0,6 2,-2 3,-3 -3,-3 3,-3 -3,-3 -2,-2 z m 1,3 2,2 -2,2 0,-4 z m 0,6 2,2 -2,2 0,-4 z"
+       id="path3009" />
+  </g>
+  <g
+     id="preferences-system-bluetooth-activated"
+     transform="translate(0,79)">
+    <rect
+       y="1"
+       x="1"
+       height="22"
+       width="22"
+       id="rect3783"
+       style="fill:currentColor;fill-opacity:0;stroke:none" />
+    <path
+       style="opacity:1;fill:currentColor;fill-opacity:1"
+       d="m 11,4 0,6 -3,-3 0,2 3,3 -3,3 0,2 3,-3 0,6 2,-2 3,-3 L 13,12 16,9 13,6 11,4 Z M 4,5 C 3.4477153,5 3,5.4477153 3,6 3,6.5522847 3.4477153,7 4,7 4.5522847,7 5,6.5522847 5,6 5,5.4477153 4.5522847,5 4,5 Z m 16,0 c -0.552285,0 -1,0.4477153 -1,1 0,0.5522847 0.447715,1 1,1 0.552285,0 1,-0.4477153 1,-1 0,-0.5522847 -0.447715,-1 -1,-1 z m -8,2 2,2 -2,2 0,-4 z m -8,4 c -0.5522847,0 -1,0.447715 -1,1 0,0.552285 0.4477153,1 1,1 0.5522847,0 1,-0.447715 1,-1 0,-0.552285 -0.4477153,-1 -1,-1 z m 16,0 c -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 z m -8,2 2,2 -2,2 0,-4 z m -8,4 c -0.5522847,0 -1,0.447715 -1,1 0,0.552285 0.4477153,1 1,1 0.5522847,0 1,-0.447715 1,-1 0,-0.552285 -0.4477153,-1 -1,-1 z m 16,0 c -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 z"
+       id="path3785"
+	   class="ColorScheme-Text"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="preferences-desktop-display-randr"
+     transform="translate(-1,-1)">
+    <rect
+       style="fill:currentColor;fill-opacity:0;stroke:none"
+       id="rect3832"
+       width="22"
+       height="22"
+       x="1"
+       y="1" />
+    <path
+       id="rect7235"
+       style="fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 7.0000091,19.999986 10.0000179,0 0,1.000014 -10.0000179,0 z m 3.0000049,-1.999998 3.999994,0 0,1.999983 -3.999994,0 z M 2,4.0000055 2,17.999973 l 19.999999,0 0,-13.9999675 z m 0.9999988,0.999999 18.0000012,0 0,9.9999725 -18.0000012,0 z"
+	   class="ColorScheme-Text"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:currentColor;fill-opacity:1;stroke:none"
+       d="m 4,10 4,4 -4,0 z"
+       id="rect3018"
+       inkscape:connector-curvature="0"
+	   class="ColorScheme-Text" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3028"
+       d="M 20,10 16,6 20,6 Z"
+	   class="ColorScheme-Text"
+       style="fill:currentColor;fill-opacity:1;stroke:none" />
+  </g>
+  <g id="preferences-desktop-notification">
+	<rect y="40" x="0" height="22" width="22" id="rect3068" style="opacity:0;fill:currentColor;fill-opacity:0.94117647;stroke:none"/>
+	<path id="path4238" d="m 11,43 c -4.418278,0 -8,3.581722 -8,8 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 0,-4.418278 -3.581722,-8 -8,-8 z" style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" class="ColorScheme-Highlight"/>
+	<path id="path4173-0" d="M 10 47 L 10 53 L 12 53 L 12 47 L 10 47 z M 11 54 C 10.546848 54 10 54.518427 10 54.980469 C 10 55.442512 10.546848 56 11 56 C 11.453152 56 12 55.442512 12 54.980469 C 12 54.518427 11.453152 54 11 54 z" style="opacity:1;fill:currentColor;fill-opacity:0.94117647;stroke:none" class="ColorScheme-Text"/>
+ </g>
+</svg>
