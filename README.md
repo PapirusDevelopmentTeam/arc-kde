@@ -6,20 +6,20 @@
 </p>
 
 # About
-Arc KDE - it's port popular GTK themes Arc for Plasma 5 desktop with more additionals.
+Arc KDE - This is a port of the popular [GTK theme Arc](https://github.com/horst3180/Arc-theme) for Plasma 5 desktop with a few additions and extras.
 
-**NOTE:** Plasma theme Arc Color now support KDE Color Scheme with Papirus icon theme.
+**NOTE:** Plasma theme Arc Color now supports KDE Color Schemes with Papirus icon theme.
 
-On repository available:
-- kvantum themes
-- aurorae window decorations
-- plasma desktop themes
-- look & feel settings
-- color schemes
-- konversation themes
-- yakuake skins
-- wallpapers
-- extra tools
+In this repository you'll find:
+- Kvantum Themes
+- Aurorae Window Decorations
+- Plasma Desktop Themes
+- Look & Feel Settings
+- Color Schemes
+- Konversation Themes
+- Yakuake Skins
+- Wallpapers
+- Extra Tools
 
 # Install / Update
 ## ROOT directory
@@ -31,7 +31,7 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/maste
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/install-arc-kde-home.sh | sh
 ```
 
-**Depends:**
+**Dependencies:**
 - wget
 - tar
 - plasma-desktop
@@ -43,23 +43,23 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/maste
 ```
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/remove-arc-kde.sh | sh
 ```
-# Recommends
-- Better use with [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
-- Fix color menubar on Arc Dark GTK theme:
+# Recommendations
+- Use with [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for a more consistent and beautiful experience.
+- Fix the color of the menubar on Arc Dark GTK theme:
 
 ```
 sudo sh ~/.local/share/plasma/desktoptheme/Arc-Dark/fix-menubar.sh
 ```
 ![Screenshot](fix-menubar.png)
 
-# Extra install
+# Extra Themes
 - [Firefox Theme](https://github.com/PapirusDevelopmentTeam/arc-kde/tree/master/extra/firefox)
 - [Eclipse Theme](https://github.com/PapirusDevelopmentTeam/arc-kde/tree/master/extra/eclipse)
 - [VLC Arc Dark Skin](https://github.com/varlesh/VLC-Arc-Dark)
 - [Nylas Skin](https://github.com/varlesh/Nylas-Arc-Dark-Theme)
 
 # Donate
-If you like my project , you can donate:
+If you like my project, you can donate at:
 
 <span class="paypal"><a href="https://www.paypal.me/varlesh" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
 
