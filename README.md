@@ -43,6 +43,16 @@ wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/maste
 ```
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/remove-arc-kde.sh | sh
 ```
+
+# Unofficial packages
+Packages in this section are not part of the official repositories. If you have a trouble or a question please contact with package maintainer.
+
+| **Distro** | **Maintainer** | **Package** |
+|:-----------|:---------------|:------------|
+| Arch Linux | Marcus Behrendt | [arc-kde-git](https://aur.archlinux.org/packages/arc-kde-git/) (AUR) |
+
+**NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
+
 # Recommendations
 - Use with [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for a more consistent and beautiful experience.
 - Fix the color of the menubar on Arc Dark GTK theme:
