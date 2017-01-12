@@ -41,8 +41,8 @@ uninstall:
 	-rm -rf $(DESTDIR)/usr/share/yakuake/skins/arc-dark
 
 _get_version:
-	$(eval DATE := $(shell git log -1 --format=%cd --date=format:%Y.%m.%d))
-	$(eval COUNT := $(shell git rev-list --all --count))
+	$(eval DATE := $(shell git show -s --format=%cd --date=format:%Y.%m.%d HEAD))
+	$(eval COUNT := $(shell git rev-list --count HEAD))
 	$(eval VERSION := $(DATE)-r$(COUNT))
 	@echo $(VERSION)
 
