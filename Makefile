@@ -1,4 +1,4 @@
-all: install
+all:
 
 install:
 	mkdir -p $(DESTDIR)/usr/share
@@ -41,8 +41,7 @@ uninstall:
 	-rm -rf $(DESTDIR)/usr/share/yakuake/skins/arc-dark
 
 _get_version:
-	$(eval DATE := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
-	$(eval VERSION := $(DATE))
+	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
 	@echo $(VERSION)
 
 push:
