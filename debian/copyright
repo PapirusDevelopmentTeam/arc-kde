@@ -1,0 +1,12 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: arc-kde
+Source: https://github.com/PapirusDevelopmentTeam/arc-kde
+
+Files: *
+Copyright: 2017 Alexey Varfolomeev <varlesh@gmail.com>
+License: GPL-3.0
+ See /usr/share/common-licenses/GPL-3 for a full copy of the license.
+
+Files: debian/*
+Copyright: 2017 Sergei Eremenko <finalitik@gmail.com>
+License: public-domain
