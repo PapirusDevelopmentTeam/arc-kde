@@ -9,7 +9,7 @@ Homepage: https://github.com/PapirusDevelopmentTeam/arc-kde
 Package: arc-kde
 Architecture: all
 Depends: plasma-workspace (>= 4:5.5.0), ${misc:Depends}
-Recommends: konsole, konversation, papirus-icon-theme
+Recommends: konsole, konversation, kvantum, papirus-icon-theme, yakuake (>= 3.0)
 Description: Arc KDE
  This is a Arc KDE port of the popular GTK theme Arc for Plasma 5 desktop.
  .
@@ -18,31 +18,8 @@ Description: Arc KDE
   - color schemes
   - konsole color schemes
   - konversation themes
+  - kvantum themes
   - look & feel settings
   - plasma desktop themes
   - wallpapers
-
-Package: arc-kde-full
-Architecture: all
-Depends: arc-kde, arc-kde-kvantum-theme, ${misc:Depends}
-Recommends: arc-kde-yakuake-skin
-Description: Arc KDE (meta package)
- This is a Arc KDE port of the popular GTK theme Arc for Plasma 5 desktop.
-
-Package: arc-kde-kvantum-theme
-Architecture: all
-Depends: kvantum, ${misc:Depends}
-Description: Arc KDE - Kvantum theme
- This is a Arc KDE port of the popular GTK theme Arc for Plasma 5 desktop.
- .
- This package contains:
-  - kvantum themes
-
-Package: arc-kde-yakuake-skin
-Architecture: all
-Depends: yakuake (>= 3.0), ${misc:Depends}
-Description: Arc KDE - Yakuake skin
- This is a Arc KDE port of the popular GTK theme Arc for Plasma 5 desktop.
- .
- This package contains:
   - yakuake skins
