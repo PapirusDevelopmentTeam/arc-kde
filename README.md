@@ -57,6 +57,10 @@ Packages in this section are not part of the official repositories. If you have 
 **NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
 
 # Recommendations
+For better looking please use this pack with kvantum engine.
+
+Run `kvantummanager` and choose **Arc Dark Transparent** (or another) theme and apply.
+
 - Use with [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for a more consistent and beautiful experience.
 - Fix the color of the menubar on Arc Dark GTK theme:
 
