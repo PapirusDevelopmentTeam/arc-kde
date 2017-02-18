@@ -8,76 +8,76 @@ Color=56,60,74
 Color=56,60,74
 
 [Color0]
-Color=64,69,82
+Color=75,81,100
 
 [Color0Faint]
-Color=64,69,82
+Color=44,47,58
 
 [Color0Intense]
-Color=177,119,120
+Color=97,105,129
 
 [Color1]
 Color=225,66,69
 
 [Color1Faint]
-Color=225,66,69
+Color=120,50,40
 
 [Color1Intense]
-Color=164,57,57
+Color=225,111,126
 
 [Color2]
-Color=80,154,5
+Color=92,167,91
 
 [Color2Faint]
-Color=80,154,5
+Color=75,124,22
 
 [Color2Intense]
-Color=139,226,51
+Color=173,212,136
 
 [Color3]
-Color=196,157,0
+Color=246,171,50
 
 [Color3Faint]
-Color=196,157,0
+Color=182,86,25
 
 [Color3Intense]
-Color=34,112,201
+Color=253,195,95
 
 [Color4]
-Color=56,60,74
+Color=72,119,177
 
 [Color4Faint]
-Color=56,60,74
+Color=43,72,107
 
 [Color4Intense]
-Color=47,52,63
+Color=140,169,191
 
 [Color5]
-Color=117,80,123
+Color=166,96,195
 
 [Color5Faint]
-Color=117,80,123
+Color=97,74,115
 
 [Color5Intense]
-Color=173,127,169
+Color=226,175,236
 
 [Color6]
 Color=82,148,226
 
 [Color6Faint]
-Color=82,148,226
+Color=27,102,143
 
 [Color6Intense]
-Color=132,162,226
+Color=115,197,226
 
 [Color7]
-Color=160,162,169
+Color=169,169,170
 
 [Color7Faint]
-Color=39,44,53
+Color=99,104,109
 
 [Color7Intense]
-Color=211,218,227
+Color=252,252,252
 
 [Foreground]
 Color=211,218,227
@@ -86,7 +86,7 @@ Color=211,218,227
 Color=211,218,227
 
 [ForegroundIntense]
-Color=211,218,227
+Color=252,252,252
 
 [General]
 Description=Arc Dark
