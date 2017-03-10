@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -39,13 +38,17 @@
      inkscape:window-height="843"
      id="namedview869"
      showgrid="false"
-     inkscape:zoom="3.1"
-     inkscape:cx="-7.9237288"
-     inkscape:cy="-92.225806"
+     inkscape:zoom="11.313708"
+     inkscape:cx="390.28434"
+     inkscape:cy="3.1015062"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg" />
+     inkscape:current-layer="svg">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4202" />
+  </sodipodi:namedview>
   <defs
      id="defs81">
     <style
@@ -653,9 +656,9 @@
     </g>
     <path
        style="fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       id="path5525"
-       d="m 352.00001,-26.000003 c -4.2217,0 -7.84819,1.673934 -11.00001,3.999986 l 11.00001,12.000014 11.00002,-12.000014 c -3.13963,-2.300229 -6.81073,-3.999986 -11.00002,-3.999986 z"
-       class="ColorScheme-Text" />
+       d="m 352,-25.999998 c -4.2217,0 -7.84818,1.673948 -11,4 l 11,12 11,-12 c -3.13963,-2.300229 -6.81071,-4 -11,-4 z m -3,6 c 0.83099,0 1.5,0.66902 1.5,1.5 0,-0.83107 0.669,-1.5 1.5,-1.5 0.831,0 1.5,0.66893 1.5,1.5 0,-0.83107 0.66901,-1.5 1.5,-1.5 0.831,0 1.5,0.66893 1.5,1.5 0,0.83098 -0.669,1.5 -1.5,1.5 -0.83099,0 -1.5,-0.66902 -1.5,-1.5 0,0.83098 -0.669,1.5 -1.5,1.5 -0.831,0 -1.5,-0.66902 -1.5,-1.5 0,0.83099 -0.66901,1.5 -1.5,1.5 -0.83098,0 -1.5,-0.66901 -1.5,-1.5 0,-0.83098 0.66902,-1.5 1.5,-1.5 z"
+       class="ColorScheme-Text"
+       id="path5525" />
   </g>
   <g
      id="network-wireless-0-locked">
