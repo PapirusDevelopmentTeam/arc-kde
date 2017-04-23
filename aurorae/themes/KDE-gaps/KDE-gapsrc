@@ -1,0 +1,40 @@
+[General]
+ActiveTextColor=255, 255, 255, 255
+InactiveTextColor=255, 255, 255, 255
+TitleAlignment=Left
+TitleVerticalAlignment=Top
+Animation=0
+UseTextShadow=false             
+ActiveTextShadowColor=255, 255, 255, 255 
+InactiveTextShadowColor=255, 255, 255, 255 
+TextShadowOffsetX=0             
+TextShadowOffsetY=0             
+HaloActive=false   
+HaloInactive=false 
+LeftButtons=                 
+RightButtons=
+Animation=0
+Shadow=false
+
+[Layout]
+BorderTop=0
+BorderLeft=5
+BorderRight=5
+BorderBottom=5
+TitleEdgeTop=5
+TitleEdgeBottom=0
+TitleEdgeLeft=0
+TitleEdgeRight=0
+TitleBorderLeft=0
+TitleBorderRight=0
+TitleHeight=0
+ButtonWidthClose=0
+ButtonWidth=0
+ButtonHeight=0
+ButtonSpacing=0
+ButtonMarginTop=0
+ExplicitButtonSpacer=0
+PaddingTop=0
+PaddingBottom=0
+PaddingRight=0
+PaddingLeft=0
