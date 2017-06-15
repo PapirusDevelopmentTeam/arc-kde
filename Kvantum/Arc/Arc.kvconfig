@@ -321,10 +321,10 @@ frame.right=3
 inherits=PanelButtonCommand
 text.focus.color=#ffffff
 text.press.color=#ffffff
-frame.top=0
-frame.bottom=0
-frame.left=0
-frame.right=0
+frame.top=3
+frame.bottom=3
+frame.left=3
+frame.right=3
 
 [MenuItem]
 inherits=PanelButtonCommand
