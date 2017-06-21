@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/preview-arc-dark.png" alt="Preview Arc-Dark"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/preview-arc.png" alt="Preview Arc"/>
+  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/preview.png" alt="Preview Arc-Dark KDE"/>
 </p>
 
 Arc KDE - This is a port of the popular [GTK theme Arc](https://github.com/horst3180/Arc-theme) for Plasma 5 desktop with a few additions and extras.
