@@ -43,6 +43,7 @@ joined_inactive_tabs=true
 layout_spacing=2
 submenu_overlap=-1
 tooltip_delay=-1
+transient_scrollbar=true
 
 [GeneralColors]
 window.color=#383c4a
