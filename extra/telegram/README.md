@@ -1,4 +1,4 @@
-#  Telegram Arc and Arc Dark themes for KDE
+#  Telegram themes Arc & Arc Dark for KDE
 
 Adapt telegram themes for Arc-KDE pack
 
