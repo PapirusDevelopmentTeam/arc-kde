@@ -288,7 +288,7 @@ msgFileThumbLinkOutFgSelected: #FFFFFF;
 msgFileInBg: #404552;
 msgFileInBgOver: #444A58;
 msgFileInBgSelected: #5294E2; 
-msgFileOutBg: #383C4A;
+msgFileOutBg: #404552;
 msgFileOutBgOver: #444A58;
 msgFileOutBgSelected: #5294E2;
 msgFile1Bg: #6FAEDD;
