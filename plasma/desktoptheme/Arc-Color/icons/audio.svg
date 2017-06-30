@@ -59,7 +59,7 @@
   </defs>
   <g
      transform="translate(-325.0004,419)"
-     id="22-22-audio-volume-muted">
+     id="audio-volume-muted">
     <path
        id="rect4182"
        d="m 325.0004,-419 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z"
@@ -72,7 +72,7 @@
        id="path5105" />
   </g>
   <g
-     id="22-22-audio-volume-low"
+     id="audio-volume-low"
      transform="translate(-300.0004,419)">
     <path
        style="opacity:0.001;fill:currentColor"
@@ -99,7 +99,7 @@
   </g>
   <g
      transform="translate(-275.0004,419)"
-     id="22-22-audio-volume-medium">
+     id="audio-volume-medium">
     <path
        id="path4182"
        d="m 325.0004,-419 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z"
@@ -124,7 +124,7 @@
        id="path4184" />
   </g>
   <g
-     id="22-22-audio-volume-high"
+     id="audio-volume-high"
      transform="translate(-250.0004,419)">
     <path
        style="opacity:0.001;fill:currentColor"

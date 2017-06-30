@@ -8,7 +8,7 @@
    <stop id="stop5608" offset="0" style="stop-color:currentColor;stop-opacity:1;"/>
   </linearGradient>
  </defs>
- <g id="22-22-video-display-brightness">
+ <g id="video-display-brightness">
   <rect y="0" x="0" height="22" width="22" id="rect3074" style="opacity:0;fill:#00000f;fill-opacity:0.00392157;stroke:none"/>
   <path style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="M 11 1.0996094 L 8.0996094 4 L 4 4 L 4 8.0996094 L 1.0996094 11 L 4 13.900391 L 4 18 L 8.0996094 18 L 11 20.900391 L 13.900391 18 L 18 18 L 18 13.900391 L 20.900391 11 L 18 8.0996094 L 18 4 L 13.900391 4 L 11 1.0996094 z M 11 5 A 6 6 0 0 1 17 11 A 6 6 0 0 1 11 17 A 6 6 0 0 1 5 11 A 6 6 0 0 1 11 5 z M 11 7 C 8.790861 7 7 8.790861 7 11 C 7 13.209139 8.790861 15 11 15 L 11 7 z" id="rect4210" class="ColorScheme-Text"/>
  </g>

@@ -8,11 +8,11 @@
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
  </defs>
- <g id="22-22-touchpad_enabled" style="display:inline;filter:url(#filter7554);enable-background:new" transform="translate(-425.0002,165.00336)">
+ <g id="touchpad_enabled" style="display:inline;filter:url(#filter7554);enable-background:new" transform="translate(-425.0002,165.00336)">
   <path style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 425.0002,-165.00336 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z" id="rect4148"/>
   <path style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" d="m 428.19942,-162.00336 c -1.2,0 -1.19922,1.23047 -1.19922,1.23047 l 0,13.53906 c 0,0 -7.8e-4,1.23047 1.19922,1.23047 l 15.60156,0 c 0,0 1.19922,3e-4 1.19922,-1.23047 l 0,-13.53906 c 0,-1.23077 -1.19922,-1.23047 -1.19922,-1.23047 l -15.60156,0 z m 12.80078,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m -12,3 6,0 0,3 -6,0 0,-3 z m 8,0 6,0 0,3 -6,0 0,-3 z" id="path5073" class="ColorScheme-Text"/>
  </g>
- <g id="22-22-touchpad_disabled" style="display:inline;filter:url(#filter7554);enable-background:new" transform="translate(-425.0002,165.00336)">
+ <g id="touchpad_disabled" style="display:inline;filter:url(#filter7554);enable-background:new" transform="translate(-425.0002,165.00336)">
   <path id="path4172" d="m 447.0002,-165.00336 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
   <path id="222" d="m 450.19942,-162.00336 c -1.2,0 -1.19922,1.23047 -1.19922,1.23047 l 0,13.53906 c 0,0 -7.8e-4,1.23047 1.19922,1.23047 l 15.60156,0 c 0,0 1.19922,3e-4 1.19922,-1.23047 l 0,-13.53906 c 0,-1.23077 -1.19922,-1.23047 -1.19922,-1.23047 l -15.60156,0 z m 12.80078,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m -12,3 6,0 0,3 -6,0 0,-3 z m 8,0 6,0 0,3 -6,0 0,-3 z" style="opacity:0.3;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"/>
  </g>
