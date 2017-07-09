@@ -4,6 +4,7 @@
 <sub>
 Screenshot Details: Engine: Kavntum | Kvantum Theme: Arc Dark Transparent | Aurorae decoration: Arc Dark Transparent | Color Scheme: Arc Dark | Icons: Papirus Dark | Dock: Latte Dock</sub>
 
+
 Arc KDE - This is a port of the popular [GTK theme Arc](https://github.com/horst3180/Arc-theme) for Plasma 5 desktop with a few additions and extras.
 
 In this repository you'll find:
