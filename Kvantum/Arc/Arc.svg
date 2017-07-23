@@ -12,14 +12,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    sodipodi:docname="Arc.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:version="0.32"
    id="svg2"
    height="695.02875"
    width="844.47083"
    version="1.0">
   <sodipodi:namedview
-     inkscape:window-height="835"
+     inkscape:window-height="808"
      inkscape:window-width="1600"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -30,10 +30,10 @@
      bordercolor="#666666"
      pagecolor="#b7dfa8"
      id="base"
-     showgrid="false"
-     inkscape:zoom="1.16"
-     inkscape:cx="345.03416"
-     inkscape:cy="429.16034"
+     showgrid="true"
+     inkscape:zoom="6.1300268"
+     inkscape:cx="316.4003"
+     inkscape:cy="599.58934"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -58,59 +58,73 @@
     <sodipodi:guide
        id="guide3599"
        position="148.3051,608.12217"
-       orientation="1,0" />
+       orientation="1,0"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4486"
        position="343.37032,743.57497"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4488"
        position="123.37032,621.65507"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4890"
        position="173.37032,556.65507"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide5849"
        position="263.37032,371.65507"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide5473"
        position="78.37032,251.6551"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide6032"
        position="118.37032,-141.42498"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4500"
        position="138.37032,-196.42498"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4996"
        position="243.37032,-303.34491"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4438"
        position="143.37032,-368.34491"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4440"
        position="128.37032,88.575003"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4573"
        position="173.37032,-436.42498"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4859"
        position="135.87032,-511.42498"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <sodipodi:guide
        id="guide4955"
        position="173.37032,-556.42498"
-       orientation="0,1" />
+       orientation="0,1"
+       inkscape:locked="false" />
     <inkscape:grid
        type="xygrid"
        id="grid5520"
@@ -1067,8 +1081,7 @@
      id="g6850"
      transform="matrix(1,0,0,-1,-204.62968,748.04292)" />
   <text
-     sodipodi:linespacing="125%"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:125%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14px;line-height:0%;font-family:'Gill Sans';text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
      xml:space="preserve"
      id="text6990"
      y="245.01163"
@@ -7480,4 +7493,62 @@
        d="M 140 432.0293 C 139.446 432.0293 139 432.4753 139 433.0293 C 139 433.5833 139.446 434.0293 140 434.0293 L 146 434.0293 C 146.554 434.0293 147 433.5833 147 433.0293 C 147 432.4753 146.554 432.0293 146 432.0293 L 140 432.0293 z M 140 435.0293 C 139.446 435.0293 139 435.4753 139 436.0293 C 139 436.5833 139.446 437.0293 140 437.0293 L 146 437.0293 C 146.554 437.0293 147 436.5833 147 436.0293 C 147 435.4753 146.554 435.0293 146 435.0293 L 140 435.0293 z M 140 438.0293 C 139.446 438.0293 139 438.4753 139 439.0293 C 139 439.5833 139.446 440.0293 140 440.0293 L 146 440.0293 C 146.554 440.0293 147 439.5833 147 439.0293 C 147 438.4753 146.554 438.0293 146 438.0293 L 140 438.0293 z "
        style="opacity:1;fill:#5c616c;fill-opacity:1" />
   </g>
+  <g
+     style="color:#000000;line-height:normal;font-family:Sans;text-indent:0;text-align:start;text-transform:none;stroke:none"
+     id="focus-top"
+     transform="translate(216,-20.471262)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill-opacity:0"
+       id="focus-top0"
+       d="m 90,109.5 h 20 v -2 H 90 Z" />
+    <g
+       style="fill-opacity:0.13699999"
+       id="g826">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4914-3"
+         d="m 90,109.5 h 2.5 v -2 H 90 Z"
+         style="opacity:0.2;fill:#000000;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4922"
+         d="m 95,109.5 h 2.5 v -2 H 95 Z"
+         style="opacity:0.2;fill:#000000;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4924"
+         d="m 99.75,109.5 h 2.5 v -2 h -2.5 z"
+         style="opacity:0.2;fill:#000000;fill-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4926"
+         d="m 105,109.5 h 2.5 v -2 H 105 Z"
+         style="opacity:0.2;fill:#000000;fill-opacity:1" />
+    </g>
+  </g>
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     xlink:href="#focus-top"
+     id="focus-right"
+     transform="rotate(90,316,99.028749)" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     xlink:href="#focus-top"
+     id="focus-bottom"
+     transform="rotate(180,316.00001,99.028743)" />
+  <use
+     width="100%"
+     x="0"
+     y="0"
+     height="100%"
+     xlink:href="#focus-top"
+     id="focus-left"
+     transform="rotate(-90,316.00001,99.028738)" />
 </svg>
