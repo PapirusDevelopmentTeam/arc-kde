@@ -27,9 +27,9 @@
      inkscape:window-height="1004"
      id="namedview103"
      showgrid="false"
-     inkscape:zoom="2.7"
-     inkscape:cx="54.178923"
-     inkscape:cy="11"
+     inkscape:zoom="1.9"
+     inkscape:cx="-21.932188"
+     inkscape:cy="19.415147"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -57,7 +57,7 @@
                 </dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -573,14 +573,9 @@
        x="4.5996094e-06"
        y="-66.000008" />
     <path
-       inkscape:connector-curvature="0"
-       style="color:#31363b;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d3dae3;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       d="m -55,-15 v 3 h 2 l -2,5 v -3 h -2 z"
-       id="path913" />
-    <path
        id="path4282"
        d="m -55,-15 v 3 h 2 l -2,5 v -3 h -2 z"
-       style="color:#31363b;opacity:1;fill:#252a35;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#5294e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <g
@@ -622,13 +617,8 @@
        style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        transform="rotate(-90)" />
     <path
-       id="path922"
-       d="m -55,-15 v 3 h 2 l -2,5 v -3 h -2 z"
-       style="color:#31363b;opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#d3dae3;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
-    <path
        inkscape:connector-curvature="0"
-       style="color:#31363b;opacity:1;fill:#252a35;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="color:#31363b;opacity:1;fill:#5294e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -55,-15 v 3 h 2 l -2,5 v -3 h -2 z"
        id="path924" />
   </g>
