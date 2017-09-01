@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="17" height="57" version="1">
+ <rect id="hint-tile-center" style="opacity:1;fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" width="2.033" height="2.077" x="-2.74" y="-1.34" rx="0" ry="2.077"/>
+ <path id="center" style="opacity:0.4;fill:#383c4a;fill-opacity:1;fill-rule:nonzero;stroke:none"  d="m 2.9997,6.0000048 0,11.0000002 10.999999,0 0,-11.0000002 -10.999999,0 z"/>
+ <path id="right" style="opacity:0.4;fill:#383c4a;fill-opacity:1;fill-rule:nonzero;stroke:none"  d="m 13.9997,6.0000048 0,11.0000002 2,0 c 6.68e-4,-0.0183 0,-0.0344 0,-0.0529 l 0,-10.8942302 c 0,-0.0185 6.68e-4,-0.03453 0,-0.05288 l -2,0 z"/>
+ <path id="top" style="opacity:0.4;fill:#383c4a;fill-opacity:1;fill-rule:nonzero;stroke:none"  d="m 2.9997,3.9999578 0,2.000047 10.999999,0 0,-2.000047 c -0.0041,-6.7e-4 0.0042,0 1e-6,0 l -10.98814,0 c -0.004,0 -0.008,-6.7e-4 -0.0119,0 z"/>
+ <path id="left" style="opacity:0.4;fill:#383c4a;fill-opacity:1;fill-rule:nonzero;stroke:none"  d="m 1,6.0000048 c -6.7e-4,0.01835 0,0.03439 0,0.05288 L 1,16.947115 c 0,0.0185 -6.7e-4,0.0345 0,0.0529 l 2,0 0,-11.0000002 -2,0 z"/>
+ <path id="bottom" style="opacity:0.4;fill:#383c4a;fill-opacity:1;fill-rule:nonzero;stroke:none"  d="m 2.9997,16.999665 0,2 11,0 0,-1.99966 z"/>
+ <path id="topleft" style="opacity:0.4;fill:#383c4a;fill-opacity:1;fill-rule:nonzero;stroke:none"  d="m 0.999667,3.9999578 0,2.000047 1.999771,0 0,-2.000047 c -7.46e-4,-6.7e-4 7.63e-4,0 0,0 l -1.997614,0 c -7.28e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <path id="topright" style="opacity:0.4;fill:#383c4a;fill-opacity:1;fill-rule:nonzero;stroke:none"  d="m 13.999707,4.0003028 0,1.999702 1.999771,0 0,-1.999702 c -7.46e-4,-6.7e-4 7.63e-4,0 0,0 l -1.997614,0 c -7.28e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <path id="bottomright" style="opacity:0.4;fill:#383c4a;fill-opacity:1;fill-rule:nonzero;stroke:none"  d="m 13.999707,16.999955 0,1.99971 1.999771,0 0,-1.99971 c -7.46e-4,-6.7e-4 7.63e-4,0 0,0 l -1.997614,0 c -7.28e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <path id="bottomleft" style="opacity:0.4;fill:#383c4a;fill-opacity:1;fill-rule:nonzero;stroke:none"  d="m 0.999707,16.999955 0,1.99971 1.999771,0 0,-1.99971 c -7.46e-4,-6.7e-4 7.63e-4,0 0,0 l -1.997614,0 c -7.28e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+</svg>

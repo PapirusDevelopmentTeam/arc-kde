@@ -1,22 +1,11 @@
-<?xml version="1.0"?>
-<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns="http://www.w3.org/2000/svg" width="32" version="1.1" height="32">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
  <defs id="defs7386">
-  <style type="text/css" id="current-color-scheme">
+  <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
  </defs>
-  <g
-     id="bookmarks">
-    <rect
-       y="0"
-       x="0"
-       height="32"
-       width="32"
-       style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
-       id="rect8" />
-    <path
-       style="fill:currentColor" class="ColorScheme-Text"
-       d="M 9.9570312 2 C 5.5629266 2 2 6.1162801 2 11.193359 C 2 12.557477 2.2089286 13.869485 2.5742188 15.123047 C 2.5742188 15.123047 2.9057869 16.25431 3.1992188 16.876953 C 6.5528776 24.837929 16 30 16 30 C 16 30 25.447122 24.837929 28.800781 16.876953 C 29.094213 16.25431 29.425781 15.123047 29.425781 15.123047 C 29.791071 13.869485 30 12.557477 30 11.193359 C 30 6.1162801 26.437073 2 22.042969 2 C 19.738504 2 17.453413 3.1910383 16 5 C 14.546587 3.1910383 12.261496 2 9.9570312 2 z "
-       id="path12" />
-  </g>
+ <g id="bookmarks">
+  <rect id="rect8" style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1" width="32" height="32" x="0" y="0"/>
+  <path id="path12" style="fill:currentColor" class="ColorScheme-Text" d="M 9.9570312 2 C 5.5629266 2 2 6.1162801 2 11.193359 C 2 12.557477 2.2089286 13.869485 2.5742188 15.123047 C 2.5742188 15.123047 2.9057869 16.25431 3.1992188 16.876953 C 6.5528776 24.837929 16 30 16 30 C 16 30 25.447122 24.837929 28.800781 16.876953 C 29.094213 16.25431 29.425781 15.123047 29.425781 15.123047 C 29.791071 13.869485 30 12.557477 30 11.193359 C 30 6.1162801 26.437073 2 22.042969 2 C 19.738504 2 17.453413 3.1910383 16 5 C 14.546587 3.1910383 12.261496 2 9.9570312 2 z"/>
+ </g>
 </svg>

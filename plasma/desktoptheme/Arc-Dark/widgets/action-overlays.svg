@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="136" height="136" version="1.1" viewBox="0 0 35.98 35.98">
+ <g id="layer1" transform="translate(0.52916664,-249.37498)">
+  <g id="add-normal">
+   <rect id="rect4208" style="opacity:0.5;fill:none;fill-opacity:1;stroke:none" width="5.821" height="5.821" x="6.62" y="253.87"/>
+   <ellipse id="path4210" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" cx="9.525" cy="256.783" rx="2.117" ry="2.117"/>
+   <ellipse id="ellipse4212" style="opacity:1;fill:#414857;fill-opacity:1;stroke:none" cx="9.525" cy="256.783" rx="1.852" ry="1.852"/>
+  </g>
+  <g id="add-hover">
+   <rect id="rect4214" style="opacity:0.5;fill:none;fill-opacity:1;stroke:none" width="5.821" height="5.821" x="12.44" y="253.87"/>
+  </g>
+  <g id="add-pressed">
+   <rect id="rect4220" style="opacity:0.5;fill:none;fill-opacity:1;stroke:none" width="5.821" height="5.821" x="18.26" y="253.87"/>
+  </g>
+  <g id="open-pressed">
+   <rect id="rect4254" style="opacity:1;fill:none;fill-opacity:1;stroke:none" width="5.821" height="5.821" x="6.62" y="259.69"/>
+  </g>
+  <g id="open-hover">
+   <rect id="rect4274" style="opacity:1;fill:none;fill-opacity:1;stroke:none" width="5.821" height="5.821" x="12.44" y="259.69"/>
+  </g>
+  <g id="remove-normal" transform="translate(0,10.847919)">
+   <rect id="rect4312" style="opacity:0.5;fill:none;fill-opacity:1;stroke:none" width="5.821" height="5.821" x="6.62" y="253.87"/>
+   <ellipse id="ellipse4314" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"  cx="9.525" cy="256.783" rx="2.117" ry="2.117"/>
+   <ellipse id="ellipse4316" style="opacity:1;fill:#414857;fill-opacity:1;stroke:none" cx="9.525" cy="256.783" rx="1.852" ry="1.852"/>
+   <ellipse id="ellipse4336" style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none" cx="9.525" cy="256.783" rx="1.323" ry="1.323"/>
+  </g>
+  <g id="remove-hover" transform="translate(0,10.847919)">
+   <rect id="rect4320" style="opacity:0.5;fill:none;fill-opacity:1;stroke:none" width="5.821" height="5.821" x="12.44" y="253.87"/>
+  </g>
+  <g id="remove-pressed" transform="translate(0,10.847919)">
+   <rect id="rect4328" style="opacity:0.5;fill:none;fill-opacity:1;stroke:none" width="5.821" height="5.821" x="18.26" y="253.87"/>
+  </g>
+  <g id="open-normal" transform="translate(11.641667,5.8208355)">
+   <rect id="rect4312-9" style="opacity:0.5;fill:none;fill-opacity:1;stroke:none" width="5.821" height="5.821" x="6.62" y="253.87"/>
+   <ellipse id="ellipse4314-6" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" cx="9.525" cy="256.783" rx="2.117" ry="2.117"/>
+   <ellipse id="ellipse4316-2" style="opacity:1;fill:#414857;fill-opacity:1;stroke:none" cx="-9.525" cy="-256.783" rx="1.852" ry="1.852" transform="scale(-1,-1)"/>
+   <path id="ellipse4336-2" style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none" d="m 8.5901741,257.71817 1.8696539,-1.86965 a 1.3229165,1.3229121 0 0 0 -0.9348268,-0.38809 1.3229165,1.3229121 0 0 0 -1.3229171,1.32291 1.3229165,1.3229121 0 0 0 0.38809,0.93483 z"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="100%" height="100%" version="1.1" viewBox="0 0 256 256">
+ <g id="center" style="display:inline" transform="translate(157,136)">
+  <rect id="rect4941" style="opacity:0.84090905;fill:#43b1f6;fill-opacity:1;fill-rule:evenodd;stroke:none" width="190" height="124" x="-125" y="-100" rx="0" ry="0"/>
+  <path id="path4945" style="fill:#ffffff;fill-opacity:0.4;fill-rule:evenodd;stroke:none" d="m -125,-99.998329 0,123.998089 190,0 0,-123.998089 z m 2,1.998329 186,0 0,120 -186,0 z"/>
+ </g>
+ <g id="topleft" style="display:inline" transform="matrix(2,0,0,1.9999692,146,207.99735)">
+  <path id="path5011" style="fill:#262626;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 11,34 c 0,4.666667 0,9.333333 0,14 3.333333,0 6.666667,0 10,0 0,-4.666667 0,-9.333333 0,-14 z" transform="matrix(0.5,0,0,0.5000077,-68.5,-111.00038)"/>
+ </g>
+ <g id="bottomleft" style="display:inline" transform="matrix(2,0,0,1.9999692,146,207.99954)">
+  <path id="path4931" style="fill:#262626;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 11,178 0,14 10,0 0,-14 z" transform="matrix(0.5,0,0,0.5000077,-68.5,-111.00148)"/>
+ </g>
+ <g id="glass" style="display:inline" transform="translate(8.999998,136.1)">
+  <path id="path4275" style="opacity:0;fill:#bcbcbc;fill-opacity:1;fill-rule:evenodd;stroke:none" d="M 23,-99.998412 23,23.9 213,23.80032 213,-100.1 z"/>
+ </g>
+ <g id="left" style="display:inline" transform="matrix(2,0,0,1.9999692,194,207.99926)">
+  <path id="path4966" style="fill:#262626;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 11,50 0,124 10,0 0,-124 z" transform="matrix(0.5,0,0,0.5000077,-92.5,-111.00134)"/>
+ </g>
+ <g id="top" style="display:inline" transform="matrix(1.9791667,0,0,1.9999692,315.02084,-3.99938)">
+  <path id="path5106" style="fill:#262626;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 23,34 0,1 0,13 190,0 0,-13 0,-1 -190,0 z" transform="matrix(0.50526315,0,0,0.5000077,-154.62105,-5.000387)"/>
+ </g>
+ <g id="bottom" style="display:inline" transform="matrix(1.9791667,0,0,1.9999692,315.02084,-3.9972)">
+  <path id="path5054" style="fill:#262626;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 23,178 0,13 0,1 190,0 0,-14 L 70.125,178 23,178 z" transform="matrix(0.50526315,0,0,0.5000077,-154.62105,-5.001477)"/>
+ </g>
+ <g id="topright" style="display:inline" transform="matrix(-2,0,0,1.9999692,107,207.99735)">
+  <path id="path4335" style="fill:#262626;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 214,34 0,14 10,0 0,-14 z" transform="matrix(-0.5,0,0,0.5000077,49,-111.00038)"/>
+ </g>
+ <g id="bottomright" style="display:inline" transform="matrix(-2,0,0,1.9999692,107,207.99954)">
+  <path id="path4343" style="fill:#262626;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 214,178 0,14 10,0 0,-14 z" transform="matrix(-0.5,0,0,0.5000077,49,-111.00148)"/>
+ </g>
+ <g id="right" style="display:inline" transform="matrix(-2,0,0,1.9999692,59.000002,207.99926)">
+  <path id="path4351" style="fill:#262626;fill-opacity:1;fill-rule:evenodd;stroke:none" d="m 214,50 0,124 10,0 0,-124 z" transform="matrix(-0.5,0,0,0.5000077,25.000001,-111.00134)"/>
+ </g>
+ <path id="base" style="fill:#262626;fill-opacity:1;stroke:none;display:inline" d="m 113,178 0,32 -24,0 -12,24 100,0 -12,-24 -24,0 0,-32 -28,0 z"/>
+</svg>

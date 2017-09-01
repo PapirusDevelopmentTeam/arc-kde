@@ -1,18 +1,14 @@
-<?xml version="1.0"?>
-<svg xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns="http://www.w3.org/2000/svg" width="22" version="1.1" style="enable-background:new" id="svg7384" height="22">
- <title id="title8473">
-  Paper Symbolic Icon Theme
- </title>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg7384" style="enable-background:new" width="22" height="22" version="1.1">
  <defs id="defs7386">
-  <style type="text/css" id="current-color-scheme">
+  <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
-  <linearGradient osb:paint="solid" id="linearGradient5606">
-   <stop style="stop-color:currentColor;stop-opacity:1;" offset="0" id="stop5608"/>
+  <linearGradient id="linearGradient5606" osb:paint="solid">
+   <stop id="stop5608" style="stop-color:currentColor;stop-opacity:1;" offset="0"/>
   </linearGradient>
  </defs>
  <g id="nepomuk">
-  <rect y="0" x="0" height="22" width="22" id="rect4150" style="opacity:0;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4142" d="m 10,3.000702 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 4.08984,-1.328125 l 2.88672,2.886719 c 0.58761,0.587605 1.53349,0.587605 2.1211,0 0.5876,-0.587606 0.5876,-1.533488 0,-2.121094 L 16.0918,13.432343 A 7,7 0 0 0 17,10.000702 a 7,7 0 0 0 -7,-7 z m 0,3 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Text"/>
+  <rect id="rect4150" style="opacity:0;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" width="22" height="22" x="0" y="0"/>
+  <path id="path4142" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Text" d="m 10,3.000702 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 4.08984,-1.328125 l 2.88672,2.886719 c 0.58761,0.587605 1.53349,0.587605 2.1211,0 0.5876,-0.587606 0.5876,-1.533488 0,-2.121094 L 16.0918,13.432343 A 7,7 0 0 0 17,10.000702 a 7,7 0 0 0 -7,-7 z m 0,3 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z"/>
  </g>
 </svg>

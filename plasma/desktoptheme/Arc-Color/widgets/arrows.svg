@@ -1,120 +1,25 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="44"
-   height="44"
-   viewBox="0 0 11.64 11.64"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="arrows.svg">
-  <metadata
-     id="metadata20">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview18" />
-  <defs
-     id="defs4">
-    <style
-       type="text/css"
-       id="current-color-scheme">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="44" height="44" version="1.1" viewBox="0 0 11.64 11.64">
+ <defs id="defs4">
+  <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
-  </defs>
-  <g
-     id="layer1"
-     transform="translate(-11.641649,-261.54584)">
-    <g
-       id="up-arrow"
-       transform="translate(-1.3769874e-5,6.6146114)">
-      <rect
-         transform="matrix(0,1,1,0,0,0)"
-         y="15.61"
-         x="254.93"
-         height="3.704"
-         width="3.704"
-         id="rect4241"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.03741773;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         id="path4148"
-         d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"
-         style="fill:currentColor;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1"
-         class="ColorScheme-Text" />
-    </g>
-    <g
-       id="down-arrow"
-       transform="matrix(1,0,0,-1,-1.4008293e-5,528.11874)">
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.03741773;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4162"
-         width="3.704"
-         height="3.704"
-         x="254.93"
-         y="15.61"
-         transform="matrix(0,1,1,0,0,0)" />
-      <path
-         style="fill:currentColor;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1"
-         d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"
-         id="path4164"
-         class="ColorScheme-Text" />
-    </g>
-    <g
-       id="right-arrow"
-       transform="matrix(0,1,-1,0,278.21454,249.90418)">
-      <rect
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.03741773;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4168"
-         width="3.704"
-         height="3.704"
-         x="254.93"
-         y="15.61"
-         transform="matrix(0,1,1,0,0,0)" />
-      <path
-         style="fill:currentColor;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1"
-         d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"
-         id="path4170"
-         class="ColorScheme-Text" />
-    </g>
-    <g
-       transform="matrix(0,1,1,0,-243.28958,249.90418)"
-       id="left-arrow">
-      <rect
-         transform="matrix(0,1,1,0,0,0)"
-         y="15.61"
-         x="254.93"
-         height="3.704"
-         width="3.704"
-         id="rect4174"
-         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.03741773;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <path
-         id="path4176"
-         d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"
-         style="fill:currentColor;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1"
-         class="ColorScheme-Text" />
-    </g>
+ </defs>
+ <g id="layer1" transform="translate(-11.641649,-261.54584)">
+  <g id="up-arrow" transform="translate(-1.3769874e-5,6.6146114)">
+   <rect id="rect4241" style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.03741773;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
+   <path id="path4148" style="fill:currentColor;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1" class="ColorScheme-Text" d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"/>
   </g>
+  <g id="down-arrow" transform="matrix(1,0,0,-1,-1.4008293e-5,528.11874)">
+   <rect id="rect4162" style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.03741773;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
+   <path id="path4164" style="fill:currentColor;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1" class="ColorScheme-Text" d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"/>
+  </g>
+  <g id="right-arrow" transform="matrix(0,1,-1,0,278.21454,249.90418)">
+   <rect id="rect4168" style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.03741773;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
+   <path id="path4170" style="fill:currentColor;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1" class="ColorScheme-Text" d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"/>
+  </g>
+  <g id="left-arrow" transform="matrix(0,1,1,0,-243.28958,249.90418)">
+   <rect id="rect4174" style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.03741773;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" width="3.704" height="3.704" x="254.93" y="15.61" transform="matrix(0,1,1,0,0,0)"/>
+   <path id="path4176" style="fill:currentColor;fill-rule:evenodd;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1" class="ColorScheme-Text" d="m 17.462495,256.25414 -1.058333,1.05833 2.116667,0 -1.058334,-1.05833 z"/>
+  </g>
+ </g>
 </svg>

@@ -1,17 +1,13 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" version="1.1" style="enable-background:new" id="svg7384" height="22">
- <title id="title8473">
-  Paper Symbolic Icon Theme
- </title>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg7384" style="enable-background:new" width="22" height="22" version="1.1">
  <defs id="defs7386">
-  <style type="text/css" id="current-color-scheme">
+  <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
  </defs>
  <g id="edit-delete">
-  <rect style="opacity:0.001;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect4138" width="22" height="22" x="0" y="0"/>
+  <rect id="rect4138" style="opacity:0.001;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="22" height="22" x="0" y="0"/>
   <g id="layer12" style="display:inline" transform="translate(-445.0004,125.00336)">
-   <path style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" d="m 461.65725,-119.66021 a 8,8 0 0 0 -11.3137,0 8,8 0 0 0 0,11.3137 8,8 0 0 0 11.3137,0 8,8 0 0 0 0,-11.3137 z m -1.22362,3.34494 a 5,5 0 0 1 -0.8977,5.84744 5,5 0 0 1 -5.84329,0.89355 l 6.74099,-6.74099 z m -2.12547,-2.11717 -6.74099,6.74099 a 5,5 0 0 1 0.8977,-5.84744 5,5 0 0 1 5.84329,-0.89355 z" id="path4140" class="ColorScheme-Text"/>
+   <path id="path4140" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1" class="ColorScheme-Text" d="m 461.65725,-119.66021 a 8,8 0 0 0 -11.3137,0 8,8 0 0 0 0,11.3137 8,8 0 0 0 11.3137,0 8,8 0 0 0 0,-11.3137 z m -1.22362,3.34494 a 5,5 0 0 1 -0.8977,5.84744 5,5 0 0 1 -5.84329,0.89355 l 6.74099,-6.74099 z m -2.12547,-2.11717 -6.74099,6.74099 a 5,5 0 0 1 0.8977,-5.84744 5,5 0 0 1 5.84329,-0.89355 z"/>
   </g>
  </g>
 </svg>

@@ -1,1036 +1,171 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   sodipodi:version="0.32"
-   inkscape:version="0.91 r13725"
-   width="220"
-   height="212"
-   sodipodi:docname="button.svg"
-   inkscape:output_extension="org.inkscape.output.svgz.inkscape"
-   inkscape:export-filename="/home/diau/svn/playground-plasma/desktoptheme/air/widgets/button.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"
-   version="1.0">
-  <sodipodi:namedview
-     inkscape:window-height="855"
-     inkscape:window-width="1600"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.1254902"
-     guidetolerance="10.0"
-     gridtolerance="10.0"
-     objecttolerance="10.0"
-     borderopacity="1"
-     bordercolor="#cc0000"
-     pagecolor="#007267"
-     id="base"
-     inkscape:zoom="3.0696785"
-     inkscape:cx="217.35247"
-     inkscape:cy="145.62415"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:current-layer="svg2"
-     showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     width="97px"
-     height="27px"
-     inkscape:snap-bbox="true"
-     inkscape:object-nodes="false"
-     inkscape:window-maximized="1"
-     inkscape:showpageshadow="false"
-     showborder="true"
-     borderlayer="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
-    <inkscape:grid
-       snapvisiblegridlinesonly="true"
-       empspacing="2"
-       type="xygrid"
-       id="grid5592"
-       visible="true"
-       enabled="true"
-       color="#0000ff"
-       opacity="0.01960784"
-       empcolor="#0000ff"
-       empopacity="0.03921569"
-       originx="0"
-       originy="64" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs7386">
-    <style
-       type="text/css"
-       id="current-color-scheme">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="220" height="212" version="1">
+ <defs id="defs7386">
+  <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#5c616c; }
   </style>
-  </defs>
-  <g
-     id="pressed-left"
-     transform="matrix(-1,0,0,1,325,58)">
-    <rect
-       transform="scale(1,-1)"
-       style="opacity:0.01000001;fill:#93cee9;fill-opacity:1;stroke:none"
-       id="rect4176"
-       width="1"
-       height="34.999943"
-       x="216"
-       y="-144.99994"
-       class="ColorScheme-Highlight" />
-    <rect
-       class="ColorScheme-Highlight"
-       y="-144.9998"
-       x="215"
-       height="34.999943"
-       width="1"
-       id="rect4178"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       transform="scale(1,-1)" />
-    <rect
-       transform="scale(-1,1)"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       id="rect4180"
-       width="1"
-       height="34.999943"
-       x="-217"
-       y="110"
-       class="ColorScheme-Highlight" />
+ </defs>
+ <g id="pressed-left" transform="matrix(-1,0,0,1,325,58)">
+  <rect id="rect4176" style="opacity:0.01000001;fill:#93cee9;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" width="1" height="35" x="216" y="-145" transform="scale(1,-1)"/>
+  <rect id="rect4178" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" width="1" height="35" x="215" y="-145" transform="scale(1,-1)"/>
+  <rect id="rect4180" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" width="1" height="35" x="-217" y="110" transform="scale(-1,1)"/>
+ </g>
+ <g id="pressed-topleft" transform="matrix(-1,0,0,1,325,58)">
+  <path id="path4184" style="fill:currentColor;fill-opacity:1;opacity:1" class="ColorScheme-Highlight" d="m 215,107 0,1 0,2 1,0 0,-2 c 0,-0.55228 -0.44772,-1 -1,-1 z"/>
+  <g id="g4186">
+   <path id="path4188" style="opacity:0.01000001;fill:url(#linearGradient4389);fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 215,106 c 1.10457,0 2,0.89543 2,2 l 0,2 -1,0 0,-2 c 0,-0.55228 -0.44772,-1 -1,-1 z"/>
+   <path id="path4190" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" d="m 215,106 c 1.10457,0 2,0.89543 2,2 l 0,2 -1,0 0,-2 c 0,-0.55228 -0.44772,-1 -1,-1 z"/>
   </g>
-  <g
-     id="pressed-topleft"
-     transform="matrix(-1,0,0,1,325,58)">
-    <path
-       style="fill:currentColor;fill-opacity:1;opacity:1"
-       d="m 215,107 0,1 0,2 1,0 0,-2 c 0,-0.55228 -0.44772,-1 -1,-1 z"
-       id="path4184"
-       inkscape:connector-curvature="0"
-       class="ColorScheme-Highlight" />
-    <g
-       id="g4186">
-      <path
-         inkscape:connector-curvature="0"
-         style="opacity:0.01000001;fill:url(#linearGradient4389);fill-opacity:1;stroke:none"
-         d="m 215,106 c 1.10457,0 2,0.89543 2,2 l 0,2 -1,0 0,-2 c 0,-0.55228 -0.44772,-1 -1,-1 z"
-         id="path4188"
-         class="ColorScheme-Highlight"
-         sodipodi:nodetypes="ccccccc" />
-      <path
-         sodipodi:nodetypes="ccccccc"
-         class="ColorScheme-Highlight"
-         id="path4190"
-         d="m 215,106 c 1.10457,0 2,0.89543 2,2 l 0,2 -1,0 0,-2 c 0,-0.55228 -0.44772,-1 -1,-1 z"
-         style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-         inkscape:connector-curvature="0" />
-    </g>
+ </g>
+ <g id="pressed-bottomleft" transform="matrix(-1,0,0,1,325,58)">
+  <path id="path4194" style="opacity:0.01000001;fill:#93cee9;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 215,147 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 z"/>
+  <path id="path4196" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" d="m 215,145 0,1 c 0.55228,0 1,-0.44772 1,-1 l -1,0 z"/>
+  <path id="path4198" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" d="m 215,147 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 z"/>
+ </g>
+ <g id="pressed-bottom" transform="translate(0,58)">
+  <rect id="rect5410" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" width="105" height="1" x="110" y="-146" transform="scale(1,-1)"/>
+  <rect id="rect4086" style="opacity:0.01000001;fill:#93cee9;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" width="105" height="1" x="110" y="-147" transform="scale(1,-1)"/>
+  <rect id="rect4088" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" width="105" height="1" x="110" y="-147" transform="scale(1,-1)"/>
+ </g>
+ <g id="pressed-right" transform="translate(0,58)">
+  <rect id="rect3144" style="opacity:0.01000001;fill:#93cee9;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" width="1" height="35" x="216" y="-145" transform="scale(1,-1)"/>
+  <rect id="rect5434" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" width="1" height="35" x="215" y="-145" transform="scale(1,-1)"/>
+  <rect id="rect3135" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" width="1" height="35" x="-217" y="110" transform="scale(-1,1)"/>
+ </g>
+ <g id="pressed-top" transform="translate(0,58)">
+  <rect id="rect3921" style="opacity:0.01000001;fill:#0c6395;fill-opacity:1" class="ColorScheme-Highlight" width="105" height="1" x="110" y="106"/>
+  <g id="g4202" transform="matrix(1.9090909,0,0,-1.5,1484.1774,1324.376)">
+   <rect id="rect5416" style="fill:currentColor;fill-opacity:1;opacity:1" class="ColorScheme-Highlight" width="55" height="2" x="-719.81" y="809.58"/>
   </g>
-  <g
-     id="pressed-bottomleft"
-     transform="matrix(-1,0,0,1,325,58)">
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:0.01000001;fill:#93cee9;fill-opacity:1;stroke:none"
-       d="m 215,147 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 z"
-       id="path4194"
-       class="ColorScheme-Highlight"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       d="m 215,145 0,1 c 0.55228,0 1,-0.44772 1,-1 l -1,0 z"
-       id="path4196"
-       class="ColorScheme-Highlight"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       class="ColorScheme-Highlight"
-       id="path4198"
-       d="m 215,147 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 z"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       inkscape:connector-curvature="0" />
+  <rect id="rect3123" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" width="105" height="1" x="110" y="106"/>
+ </g>
+ <g id="normal-topleft" transform="translate(829.80716,-769.58398)">
+  <path id="path4101" style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none" class="ColorScheme-ButtonBackground" d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 l 1,0 c 0,-0.55228 0.44772,-1 1,-1 l 0,-1 z"/>
+  <path id="path3967" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-ButtonBackground" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)"/>
+ </g>
+ <g id="normal-bottomleft" transform="translate(829.80716,-765.58399)">
+  <path id="path4111" style="opacity:0.16;fill:#000;fill-opacity:1;stroke:none" d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 l 1,0 c 0,0.55228 0.44772,1 1,1 l 0,1 z"/>
+  <path id="path3919" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-ButtonBackground" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)"/>
+ </g>
+ <g id="normal-left" transform="matrix(1,0,0,1.666664,829.80716,-1305.9712)">
+  <rect id="rect4108" style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none" class="ColorScheme-ButtonBackground" width="1" height="21" x="-721.81" y="789.58"/>
+  <rect id="rect3943" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-ButtonBackground" width="1" height="21" x="-720.81" y="789.58"/>
+ </g>
+ <g id="normal-top" transform="matrix(1.9090909,0,0,1,1484.1774,-769.58398)">
+  <rect id="rect3329" style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none" class="ColorScheme-ButtonBackground" width="55" height="1" x="-719.81" y="777.58"/>
+  <rect id="rect3965" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-ButtonBackground" width="55" height="1" x="-719.81" y="778.58"/>
+ </g>
+ <g id="normal-bottom" transform="matrix(1.9090909,0,0,1,1484.1774,-765.58399)">
+  <rect id="rect4099" style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none" class="ColorScheme-ButtonBackground" width="55" height="1" x="-719.81" y="811.58"/>
+  <rect id="rect3149" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-ButtonBackground" width="55" height="1" x="-719.81" y="810.58"/>
+ </g>
+ <g id="normal-topright" transform="translate(879.80713,-769.58398)">
+  <path id="path3963" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-ButtonBackground" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)"/>
+  <path id="path4121" style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none" class="ColorScheme-ButtonBackground" d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 l -1,0 c 0,-0.55228 -0.44772,-1 -1,-1 l 0,-1 z"/>
+ </g>
+ <g id="normal-bottomright" transform="translate(879.80713,-765.58399)">
+  <path id="path4127" style="opacity:0.16;fill:#000;fill-opacity:1;stroke:none" d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 l 0,1 z"/>
+  <path id="path3921" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-ButtonBackground" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)"/>
+ </g>
+ <g id="normal-right" transform="matrix(1,0,0,1.666664,879.80713,-1305.9712)">
+  <rect id="rect4125" style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none" class="ColorScheme-ButtonBackground" width="1" height="21" x="662.81" y="789.58" transform="scale(-1,1)"/>
+  <rect id="rect3953" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-ButtonBackground" width="1" height="21" x="-664.81" y="789.58"/>
+ </g>
+ <g id="normal-center" transform="translate(0,58)">
+  <rect id="rect3935" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-ButtonBackground" width="105" height="35" x="110" y="-48"/>
+ </g>
+ <rect id="pressed-center" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" width="105" height="35" x="110" y="-203" transform="scale(1,-1)"/>
+ <g id="hover-topleft" transform="translate(829.80716,-713.58398)">
+  <path id="path3376" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16" class="ColorScheme-Highlight" d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 l 1,0 c 0,-0.55228 0.44772,-1 1,-1 l 0,-1 z"/>
+  <path id="path3378" style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)"/>
+ </g>
+ <g id="hover-bottomleft" transform="translate(829.80716,-709.58399)">
+  <path id="path3382" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16" class="ColorScheme-Highlight" d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 l 1,0 c 0,0.55228 0.44772,1 1,1 l 0,1 z"/>
+  <path id="path3384" style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)"/>
+ </g>
+ <g id="hover-left" transform="matrix(1,0,0,1.666664,829.80716,-1249.9712)">
+  <rect id="rect3388" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16" class="ColorScheme-Highlight" width="1" height="21" x="-721.81" y="789.58"/>
+  <rect id="rect3390" style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none" width="1" height="21" x="-720.81" y="789.58"/>
+ </g>
+ <g id="hover-top" transform="matrix(1.9090909,0,0,1,1484.1774,-713.58398)">
+  <rect id="rect3394" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16" class="ColorScheme-Highlight" width="55" height="1" x="-719.81" y="777.58"/>
+  <rect id="rect3396" style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none" width="55" height="1" x="-719.81" y="778.58"/>
+ </g>
+ <g id="hover-bottom" transform="matrix(1.9090909,0,0,1,1484.1774,-709.58399)">
+  <rect id="rect3400" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16" class="ColorScheme-Highlight" width="55" height="1" x="-719.81" y="811.58"/>
+  <rect id="rect3402" style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none" width="55" height="1" x="-719.81" y="810.58"/>
+ </g>
+ <g id="hover-topright" transform="translate(879.80713,-713.58398)">
+  <path id="path3406" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16" class="ColorScheme-Highlight" d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 l -1,0 c 0,-0.55228 -0.44772,-1 -1,-1 l 0,-1 z"/>
+  <path id="path3408" style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)"/>
+ </g>
+ <g id="hover-bottomright" transform="translate(879.80713,-709.58399)">
+  <path id="path3412" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16" class="ColorScheme-Highlight" d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 l 0,1 z"/>
+  <path id="path3414" style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)"/>
+ </g>
+ <g id="hover-right" transform="matrix(1,0,0,1.666664,879.80713,-1249.9712)">
+  <rect id="rect3418" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16" class="ColorScheme-Highlight" width="1" height="21" x="662.81" y="789.58" transform="scale(-1,1)"/>
+  <rect id="rect3420" style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none" width="1" height="21" x="-664.81" y="789.58"/>
+ </g>
+ <rect id="hover-center" style="fill:#000000;fill-opacity:0.1;stroke:none;opacity:1" class="ColorScheme-Background" width="105" height="35" x="110" y="66"/>
+ <g id="focus-topleft" transform="translate(829.80716,-665.58398)">
+  <path id="path3432" style="opacity:1;fill:currentColor;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 l 1,0 c 0,-0.55228 0.44772,-1 1,-1 l 0,-1 z"/>
+  <path id="path3434" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)"/>
+ </g>
+ <g id="focus-bottomleft" transform="translate(829.80716,-661.58399)">
+  <path id="path3438" style="opacity:1;fill:currentColor;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 l 1,0 c 0,0.55228 0.44772,1 1,1 l 0,1 z"/>
+  <path id="path3440" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)"/>
+ </g>
+ <g id="focus-left" transform="matrix(1,0,0,1.666664,829.80716,-1201.9712)">
+  <rect id="rect3444" style="opacity:1;fill:currentColor;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" width="1" height="21" x="-721.81" y="789.58"/>
+  <rect id="rect3446" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" width="1" height="21" x="-720.81" y="789.58"/>
+ </g>
+ <g id="focus-top" transform="matrix(1.9090909,0,0,1,1484.1774,-665.58398)">
+  <rect id="rect3450" style="opacity:1;fill:currentColor;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" width="55" height="1" x="-719.81" y="777.58"/>
+  <rect id="rect3452" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" width="55" height="1" x="-719.81" y="778.58"/>
+ </g>
+ <g id="focus-bottom" transform="matrix(1.9090909,0,0,1,1484.1774,-661.58399)">
+  <rect id="rect3456" style="opacity:1;fill:currentColor;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" width="55" height="1" x="-719.81" y="811.58"/>
+  <rect id="rect3458" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" width="55" height="1" x="-719.81" y="810.58"/>
+ </g>
+ <g id="focus-topright" transform="translate(879.80713,-665.58398)">
+  <path id="path3462" style="opacity:1;fill:currentColor;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 l -1,0 c 0,-0.55228 -0.44772,-1 -1,-1 l 0,-1 z"/>
+  <path id="path3464" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)"/>
+ </g>
+ <g id="focus-bottomright" transform="translate(879.80713,-661.58399)">
+  <path id="path3468" style="opacity:1;fill:currentColor;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 l 0,1 z"/>
+  <path id="path3470" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)"/>
+ </g>
+ <g id="focus-right" transform="matrix(1,0,0,1.666664,879.80713,-1201.9712)">
+  <rect id="rect3474" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" width="1" height="21" x="662.81" y="789.58" transform="scale(-1,1)"/>
+  <rect id="rect3476" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" width="1" height="21" x="-664.81" y="789.58"/>
+ </g>
+ <rect id="focus-center" style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" width="105" height="35" x="110" y="114"/>
+ <g id="pressed-topright" transform="translate(0,58)">
+  <path id="path4204" style="fill:currentColor;fill-opacity:1;opacity:1" class="ColorScheme-Highlight" d="m 215,107 0,1 0,2 1,0 0,-2 c 0,-0.55228 -0.44772,-1 -1,-1 z"/>
+  <g id="g4097">
+   <path id="path3917" style="opacity:0.01000001;fill:url(#linearGradient4381);fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 215,106 c 1.10457,0 2,0.89543 2,2 l 0,2 -1,0 0,-2 c 0,-0.55228 -0.44772,-1 -1,-1 z"/>
+   <path id="path3129" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" d="m 215,106 c 1.10457,0 2,0.89543 2,2 l 0,2 -1,0 0,-2 c 0,-0.55228 -0.44772,-1 -1,-1 z"/>
   </g>
-  <g
-     id="pressed-bottom"
-     transform="translate(0,58)">
-    <rect
-       transform="scale(1,-1)"
-       y="-146"
-       x="110.00005"
-       height="1"
-       width="105"
-       id="rect5410"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       class="ColorScheme-Highlight" />
-    <rect
-       class="ColorScheme-Highlight"
-       style="opacity:0.01000001;fill:#93cee9;fill-opacity:1;stroke:none"
-       id="rect4086"
-       width="105"
-       height="1"
-       x="110.00005"
-       y="-147"
-       transform="scale(1,-1)" />
-    <rect
-       transform="scale(1,-1)"
-       y="-147"
-       x="110.00005"
-       height="1"
-       width="105"
-       id="rect4088"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="pressed-right"
-     transform="translate(0,58)">
-    <rect
-       class="ColorScheme-Highlight"
-       y="-144.99994"
-       x="216"
-       height="35"
-       width="1"
-       id="rect3144"
-       style="opacity:0.01000001;fill:#93cee9;fill-opacity:1;stroke:none"
-       transform="scale(1,-1)" />
-    <rect
-       transform="scale(1,-1)"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       id="rect5434"
-       width="1"
-       height="35"
-       x="215"
-       y="-144.9998"
-       class="ColorScheme-Highlight" />
-    <rect
-       class="ColorScheme-Highlight"
-       y="110"
-       x="-217"
-       height="35"
-       width="1"
-       id="rect3135"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       transform="scale(-1,1)" />
-  </g>
-  <g
-     id="pressed-top"
-     transform="translate(0,58)">
-    <rect
-       y="106"
-       x="110"
-       height="1"
-       width="105"
-       id="rect3921"
-       style="opacity:0.01000001;fill:#0c6395;fill-opacity:1"
-       class="ColorScheme-Highlight" />
-    <g
-       inkscape:label="#g5412"
-       id="g4202"
-       transform="matrix(1.9090909,0,0,-1.5,1484.1774,1324.376)">
-      <rect
-         y="809.58398"
-         x="-719.80719"
-         height="2"
-         width="55"
-         id="rect5416"
-         style="fill:currentColor;fill-opacity:1;opacity:1"
-         class="ColorScheme-Highlight" />
-    </g>
-    <rect
-       class="ColorScheme-Highlight"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       id="rect3123"
-       width="105"
-       height="1"
-       x="110"
-       y="106" />
-  </g>
-  <g
-     id="normal-topleft"
-     transform="translate(829.80716,-769.58398)"
-     inkscape:label="#g5038">
-    <path
-       id="path4101"
-       d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 l 1,0 c 0,-0.55228 0.44772,-1 1,-1 l 0,-1 z"
-       style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0"
-       class="ColorScheme-ButtonBackground" />
-    <path
-       class="ColorScheme-ButtonBackground"
-       sodipodi:type="arc"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       id="path3967"
-       sodipodi:cx="160"
-       sodipodi:cy="-159"
-       sodipodi:rx="2"
-       sodipodi:ry="2"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
-       sodipodi:start="0"
-       sodipodi:end="1.5707963"
-       transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)" />
-  </g>
-  <g
-     transform="translate(829.80716,-765.58399)"
-     id="normal-bottomleft"
-     inkscape:label="#g5026">
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:0.16;fill:#000;fill-opacity:1;stroke:none"
-       d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 l 1,0 c 0,0.55228 0.44772,1 1,1 l 0,1 z"
-       id="path4111" />
-    <path
-       transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)"
-       sodipodi:end="1.5707963"
-       sodipodi:start="0"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
-       sodipodi:ry="2"
-       sodipodi:rx="2"
-       sodipodi:cy="-159"
-       sodipodi:cx="160"
-       id="path3919"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       class="ColorScheme-ButtonBackground"
-       sodipodi:type="arc" />
-  </g>
-  <g
-     id="normal-left"
-     transform="matrix(1,0,0,1.666664,829.80716,-1305.9712)"
-     inkscape:label="#g5042">
-    <rect
-       y="789.58398"
-       x="-721.80719"
-       height="21"
-       width="1"
-       id="rect4108"
-       style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none"
-       class="ColorScheme-ButtonBackground" />
-    <rect
-       class="ColorScheme-ButtonBackground"
-       y="789.58398"
-       x="-720.80719"
-       height="21"
-       width="1"
-       id="rect3943"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" />
-  </g>
-  <g
-     id="normal-top"
-     transform="matrix(1.9090909,0,0,1,1484.1774,-769.58398)"
-     inkscape:label="#g5054">
-    <rect
-       y="777.58398"
-       x="-719.80719"
-       height="1"
-       width="55"
-       id="rect3329"
-       style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none"
-       class="ColorScheme-ButtonBackground" />
-    <rect
-       class="ColorScheme-ButtonBackground"
-       y="778.58398"
-       x="-719.80719"
-       height="1"
-       width="55"
-       id="rect3965"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" />
-  </g>
-  <g
-     id="normal-bottom"
-     transform="matrix(1.9090909,0,0,1,1484.1774,-765.58399)"
-     inkscape:label="#g5050">
-    <rect
-       style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none"
-       id="rect4099"
-       width="55"
-       height="1"
-       x="-719.80719"
-       y="811.58398"
-       class="ColorScheme-ButtonBackground" />
-    <rect
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       id="rect3149"
-       width="55"
-       height="1"
-       x="-719.80719"
-       y="810.58398"
-       class="ColorScheme-ButtonBackground" />
-  </g>
-  <g
-     id="normal-topright"
-     transform="translate(879.80713,-769.58398)"
-     inkscape:label="#g5034">
-    <path
-       class="ColorScheme-ButtonBackground"
-       transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)"
-       sodipodi:end="1.5707963"
-       sodipodi:start="0"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
-       sodipodi:ry="2"
-       sodipodi:rx="2"
-       sodipodi:cy="-159"
-       sodipodi:cx="160"
-       id="path3963"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       sodipodi:type="arc" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none"
-       d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 l -1,0 c 0,-0.55228 -0.44772,-1 -1,-1 l 0,-1 z"
-       id="path4121"
-       class="ColorScheme-ButtonBackground" />
-  </g>
-  <g
-     id="normal-bottomright"
-     transform="translate(879.80713,-765.58399)"
-     inkscape:label="#g5030">
-    <path
-       id="path4127"
-       d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 l 0,1 z"
-       style="opacity:0.16;fill:#000;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
-    <path
-       class="ColorScheme-ButtonBackground"
-       sodipodi:type="arc"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       id="path3921"
-       sodipodi:cx="160"
-       sodipodi:cy="-159"
-       sodipodi:rx="2"
-       sodipodi:ry="2"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
-       sodipodi:start="0"
-       sodipodi:end="1.5707963"
-       transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)" />
-  </g>
-  <g
-     id="normal-right"
-     transform="matrix(1,0,0,1.666664,879.80713,-1305.9712)"
-     inkscape:label="#g5046">
-    <rect
-       transform="scale(-1,1)"
-       style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none"
-       id="rect4125"
-       width="1"
-       height="21"
-       x="662.80713"
-       y="789.58398"
-       class="ColorScheme-ButtonBackground" />
-    <rect
-       class="ColorScheme-ButtonBackground"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       id="rect3953"
-       width="1"
-       height="21"
-       x="-664.80713"
-       y="789.58398" />
-  </g>
-  <g
-     id="normal-center"
-     transform="translate(0,58)">
-    <rect
-       class="ColorScheme-ButtonBackground"
-       inkscape:label="#rect4146"
-       y="-47.999954"
-       x="109.99997"
-       height="34.999943"
-       width="105"
-       id="rect3935"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" />
-  </g>
-  <rect
-     y="-202.99998"
-     x="109.99997"
-     height="34.999943"
-     width="105"
-     id="pressed-center"
-     style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-     transform="scale(1,-1)"
-     inkscape:label="#rect5436"
-     class="ColorScheme-Highlight" />
-  <g
-     inkscape:label="#g5038"
-     transform="translate(829.80716,-713.58398)"
-     id="hover-topleft">
-    <path
-       class="ColorScheme-Highlight"
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"
-       d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 l 1,0 c 0,-0.55228 0.44772,-1 1,-1 l 0,-1 z"
-       id="path3376" />
-    <path
-       sodipodi:type="arc"
-       style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none"
-       id="path3378"
-       sodipodi:cx="160"
-       sodipodi:cy="-159"
-       sodipodi:rx="2"
-       sodipodi:ry="2"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
-       sodipodi:start="0"
-       sodipodi:end="1.5707963"
-       transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)" />
-  </g>
-  <g
-     inkscape:label="#g5026"
-     id="hover-bottomleft"
-     transform="translate(829.80716,-709.58399)">
-    <path
-       class="ColorScheme-Highlight"
-       id="path3382"
-       d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 l 1,0 c 0,0.55228 0.44772,1 1,1 l 0,1 z"
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"
-       inkscape:connector-curvature="0" />
-    <path
-       transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)"
-       sodipodi:end="1.5707963"
-       sodipodi:start="0"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
-       sodipodi:ry="2"
-       sodipodi:rx="2"
-       sodipodi:cy="-159"
-       sodipodi:cx="160"
-       id="path3384"
-       style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none"
-       sodipodi:type="arc" />
-  </g>
-  <g
-     inkscape:label="#g5042"
-     transform="matrix(1,0,0,1.666664,829.80716,-1249.9712)"
-     id="hover-left">
-    <rect
-       class="ColorScheme-Highlight"
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"
-       id="rect3388"
-       width="1"
-       height="21"
-       x="-721.80719"
-       y="789.58398" />
-    <rect
-       y="789.58398"
-       x="-720.80719"
-       height="21"
-       width="1"
-       id="rect3390"
-       style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none" />
-  </g>
-  <g
-     inkscape:label="#g5054"
-     transform="matrix(1.9090909,0,0,1,1484.1774,-713.58398)"
-     id="hover-top">
-    <rect
-       class="ColorScheme-Highlight"
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"
-       id="rect3394"
-       width="55"
-       height="1"
-       x="-719.80719"
-       y="777.58398" />
-    <rect
-       y="778.58398"
-       x="-719.80719"
-       height="1"
-       width="55"
-       id="rect3396"
-       style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none" />
-  </g>
-  <g
-     inkscape:label="#g5050"
-     transform="matrix(1.9090909,0,0,1,1484.1774,-709.58399)"
-     id="hover-bottom">
-    <rect
-       class="ColorScheme-Highlight"
-       y="811.58398"
-       x="-719.80719"
-       height="1"
-       width="55"
-       id="rect3400"
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none"
-       id="rect3402"
-       width="55"
-       height="1"
-       x="-719.80719"
-       y="810.58398" />
-  </g>
-  <g
-     inkscape:label="#g5034"
-     transform="translate(879.80713,-713.58398)"
-     id="hover-topright">
-    <path
-       class="ColorScheme-Highlight"
-       id="path3406"
-       d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 l -1,0 c 0,-0.55228 -0.44772,-1 -1,-1 l 0,-1 z"
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"
-       inkscape:connector-curvature="0" />
-    <path
-       transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)"
-       sodipodi:end="1.5707963"
-       sodipodi:start="0"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
-       sodipodi:ry="2"
-       sodipodi:rx="2"
-       sodipodi:cy="-159"
-       sodipodi:cx="160"
-       id="path3408"
-       style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none"
-       sodipodi:type="arc" />
-  </g>
-  <g
-     inkscape:label="#g5030"
-     transform="translate(879.80713,-709.58399)"
-     id="hover-bottomright">
-    <path
-       class="ColorScheme-Highlight"
-       inkscape:connector-curvature="0"
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"
-       d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 l 0,1 z"
-       id="path3412" />
-    <path
-       sodipodi:type="arc"
-       style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none"
-       id="path3414"
-       sodipodi:cx="160"
-       sodipodi:cy="-159"
-       sodipodi:rx="2"
-       sodipodi:ry="2"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
-       sodipodi:start="0"
-       sodipodi:end="1.5707963"
-       transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)" />
-  </g>
-  <g
-     inkscape:label="#g5046"
-     transform="matrix(1,0,0,1.666664,879.80713,-1249.9712)"
-     id="hover-right">
-    <rect
-       class="ColorScheme-Highlight"
-       y="789.58398"
-       x="662.80713"
-       height="21"
-       width="1"
-       id="rect3418"
-       style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"
-       transform="scale(-1,1)" />
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:0.1;stroke:none"
-       id="rect3420"
-       width="1"
-       height="21"
-       x="-664.80713"
-       y="789.58398" />
-  </g>
-  <rect
-     class="ColorScheme-Background"
-     inkscape:label="#rect4146"
-     y="66.000046"
-     x="109.99997"
-     height="34.999943"
-     width="105"
-     id="hover-center"
-     style="fill:#000000;fill-opacity:0.1;stroke:none;opacity:1" />
-  <g
-     id="focus-topleft"
-     transform="translate(829.80716,-665.58398)"
-     inkscape:label="#g5038">
-    <path
-       id="path3432"
-       d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 l 1,0 c 0,-0.55228 0.44772,-1 1,-1 l 0,-1 z"
-       style="opacity:1;fill:currentColor;stroke:none;fill-opacity:1"
-       inkscape:connector-curvature="0"
-       class="ColorScheme-Highlight" />
-    <path
-       transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)"
-       sodipodi:end="1.5707963"
-       sodipodi:start="0"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
-       sodipodi:ry="2"
-       sodipodi:rx="2"
-       sodipodi:cy="-159"
-       sodipodi:cx="160"
-       id="path3434"
-       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Highlight"
-       sodipodi:type="arc" />
-  </g>
-  <g
-     transform="translate(829.80716,-661.58399)"
-     id="focus-bottomleft"
-     inkscape:label="#g5026">
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:currentColor;stroke:none;fill-opacity:1"
-       d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 l 1,0 c 0,0.55228 0.44772,1 1,1 l 0,1 z"
-       id="path3438"
-       class="ColorScheme-Highlight" />
-    <path
-       sodipodi:type="arc"
-       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
-       id="path3440"
-       sodipodi:cx="160"
-       sodipodi:cy="-159"
-       sodipodi:rx="2"
-       sodipodi:ry="2"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
-       sodipodi:start="0"
-       sodipodi:end="1.5707963"
-       transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="focus-left"
-     transform="matrix(1,0,0,1.666664,829.80716,-1201.9712)"
-     inkscape:label="#g5042">
-    <rect
-       y="789.58398"
-       x="-721.80719"
-       height="21"
-       width="1"
-       id="rect3444"
-       style="opacity:1;fill:currentColor;stroke:none;fill-opacity:1"
-       class="ColorScheme-Highlight" />
-    <rect
-       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect3446"
-       width="1"
-       height="21"
-       x="-720.80719"
-       y="789.58398"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="focus-top"
-     transform="matrix(1.9090909,0,0,1,1484.1774,-665.58398)"
-     inkscape:label="#g5054">
-    <rect
-       y="777.58398"
-       x="-719.80719"
-       height="1"
-       width="55"
-       id="rect3450"
-       style="opacity:1;fill:currentColor;stroke:none;fill-opacity:1"
-       class="ColorScheme-Highlight" />
-    <rect
-       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
-       id="rect3452"
-       width="55"
-       height="1"
-       x="-719.80719"
-       y="778.58398"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="focus-bottom"
-     transform="matrix(1.9090909,0,0,1,1484.1774,-661.58399)"
-     inkscape:label="#g5050">
-    <rect
-       style="opacity:1;fill:currentColor;stroke:none;fill-opacity:1"
-       id="rect3456"
-       width="55"
-       height="1"
-       x="-719.80719"
-       y="811.58398"
-       class="ColorScheme-Highlight" />
-    <rect
-       y="810.58398"
-       x="-719.80719"
-       height="1"
-       width="55"
-       id="rect3458"
-       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="focus-topright"
-     transform="translate(879.80713,-665.58398)"
-     inkscape:label="#g5034">
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:currentColor;stroke:none;fill-opacity:1"
-       d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 l -1,0 c 0,-0.55228 -0.44772,-1 -1,-1 l 0,-1 z"
-       id="path3462"
-       class="ColorScheme-Highlight" />
-    <path
-       sodipodi:type="arc"
-       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
-       id="path3464"
-       sodipodi:cx="160"
-       sodipodi:cy="-159"
-       sodipodi:rx="2"
-       sodipodi:ry="2"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
-       sodipodi:start="0"
-       sodipodi:end="1.5707963"
-       transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)"
-       class="ColorScheme-Highlight" />
-  </g>
-  <g
-     id="focus-bottomright"
-     transform="translate(879.80713,-661.58399)"
-     inkscape:label="#g5030">
-    <path
-       id="path3468"
-       d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 l 0,1 z"
-       style="opacity:1;fill:currentColor;stroke:none;fill-opacity:1"
-       inkscape:connector-curvature="0"
-       class="ColorScheme-Highlight" />
-    <path
-       transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)"
-       sodipodi:end="1.5707963"
-       sodipodi:start="0"
-       d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z"
-       sodipodi:ry="2"
-       sodipodi:rx="2"
-       sodipodi:cy="-159"
-       sodipodi:cx="160"
-       id="path3470"
-       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Highlight"
-       sodipodi:type="arc" />
-  </g>
-  <g
-     id="focus-right"
-     transform="matrix(1,0,0,1.666664,879.80713,-1201.9712)"
-     inkscape:label="#g5046">
-    <rect
-       transform="scale(-1,1)"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       id="rect3474"
-       width="1"
-       height="21"
-       x="662.80713"
-       y="789.58398"
-       class="ColorScheme-Highlight" />
-    <rect
-       y="789.58398"
-       x="-664.80713"
-       height="21"
-       width="1"
-       id="rect3476"
-       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
-       class="ColorScheme-Highlight" />
-  </g>
-  <rect
-     style="fill:currentColor;fill-opacity:1;stroke:none"
-     id="focus-center"
-     width="105"
-     height="34.999943"
-     x="109.99997"
-     y="114.00005"
-     inkscape:label="#rect4146"
-     class="ColorScheme-Highlight" />
-  <g
-     id="pressed-topright"
-     transform="translate(0,58)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path4204"
-       d="m 215,107 0,1 0,2 1,0 0,-2 c 0,-0.55228 -0.44772,-1 -1,-1 z"
-       style="fill:currentColor;fill-opacity:1;opacity:1"
-       class="ColorScheme-Highlight" />
-    <g
-       id="g4097">
-      <path
-         sodipodi:nodetypes="ccccccc"
-         class="ColorScheme-Highlight"
-         id="path3917"
-         d="m 215,106 c 1.10457,0 2,0.89543 2,2 l 0,2 -1,0 0,-2 c 0,-0.55228 -0.44772,-1 -1,-1 z"
-         style="opacity:0.01000001;fill:url(#linearGradient4381);fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-         d="m 215,106 c 1.10457,0 2,0.89543 2,2 l 0,2 -1,0 0,-2 c 0,-0.55228 -0.44772,-1 -1,-1 z"
-         id="path3129"
-         class="ColorScheme-Highlight"
-         sodipodi:nodetypes="ccccccc" />
-    </g>
-  </g>
-  <g
-     id="pressed-bottomright"
-     transform="translate(0,58)">
-    <path
-       sodipodi:nodetypes="ccccc"
-       class="ColorScheme-Highlight"
-       id="path4083"
-       d="m 215,147 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 z"
-       style="opacity:0.01000001;fill:#93cee9;fill-opacity:1;stroke:none"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       class="ColorScheme-Highlight"
-       id="path4206"
-       d="m 215,145 0,1 c 0.55228,0 1,-0.44772 1,-1 l -1,0 z"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1"
-       d="m 215,147 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 z"
-       id="path3925"
-       class="ColorScheme-Highlight"
-       sodipodi:nodetypes="ccccc" />
-  </g>
-  <rect
-     y="102"
-     x="161.49997"
-     height="0.1"
-     width="2"
-     id="hover-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     inkscape:label="#rect4283" />
-  <rect
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="hover-hint-top-margin"
-     width="2"
-     height="0.1"
-     x="161.49997"
-     y="64.899979"
-     inkscape:label="#rect4285" />
-  <rect
-     y="108.9"
-     x="-83.999985"
-     height="0.1"
-     width="2"
-     id="hover-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     transform="matrix(0,-1,1,0,0,0)"
-     inkscape:label="#rect4287" />
-  <rect
-     transform="matrix(0,-1,1,0,0,0)"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="hover-hint-right-margin"
-     width="2"
-     height="0.1"
-     x="-83.999985"
-     y="216"
-     inkscape:label="#rect4291" />
-  <rect
-     inkscape:label="#rect4283"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="focus-hint-bottom-margin"
-     width="2"
-     height="0.1"
-     x="161.49997"
-     y="149.89999" />
-  <rect
-     inkscape:label="#rect4285"
-     y="112.79984"
-     x="161.49997"
-     height="0.1"
-     width="2"
-     id="focus-hint-top-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     inkscape:label="#rect4287"
-     transform="matrix(0,-1,1,0,0,0)"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="focus-hint-left-margin"
-     width="2"
-     height="0.1"
-     x="-131.89992"
-     y="108.9" />
-  <rect
-     inkscape:label="#rect4291"
-     y="216"
-     x="-131.89992"
-     height="0.1"
-     width="2"
-     id="focus-hint-right-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     transform="matrix(0,-1,1,0,0,0)" />
-  <rect
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="pressed-hint-top-margin"
-     width="2"
-     height="6"
-     x="161.49997"
-     y="164" />
-  <rect
-     transform="matrix(0,-1,1,0,0,0)"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="pressed-hint-right-margin"
-     width="2"
-     height="6"
-     x="-185.99995"
-     y="211" />
-  <rect
-     y="108"
-     x="-185.99995"
-     height="6"
-     width="2"
-     id="pressed-hint-left-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     transform="matrix(0,-1,1,0,0,0)" />
-  <rect
-     y="199"
-     x="161.49997"
-     height="6"
-     width="2"
-     id="pressed-hint-bottom-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     y="8"
-     x="161.49997"
-     height="6"
-     width="2"
-     id="normal-hint-top-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     inkscape:label="#rect4267" />
-  <rect
-     y="211"
-     x="-27.99988"
-     height="6"
-     width="2"
-     id="normal-hint-right-margin"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     transform="matrix(0,-1,1,0,0,0)"
-     inkscape:label="#rect4269" />
-  <rect
-     transform="matrix(0,-1,1,0,0,0)"
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="normal-hint-left-margin"
-     width="2"
-     height="6"
-     x="-27.99988"
-     y="108"
-     inkscape:label="#rect4271" />
-  <rect
-     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="normal-hint-bottom-margin"
-     width="2"
-     height="6"
-     x="161.49997"
-     y="41"
-     inkscape:label="#rect4273" />
+ </g>
+ <g id="pressed-bottomright" transform="translate(0,58)">
+  <path id="path4083" style="opacity:0.01000001;fill:#93cee9;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 215,147 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 z"/>
+  <path id="path4206" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" d="m 215,145 0,1 c 0.55228,0 1,-0.44772 1,-1 l -1,0 z"/>
+  <path id="path3925" style="fill:currentColor;fill-opacity:1;stroke:none;opacity:1" class="ColorScheme-Highlight" d="m 215,147 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 z"/>
+ </g>
+ <rect id="hover-hint-bottom-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height=".1" x="161.5" y="102"/>
+ <rect id="hover-hint-top-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height=".1" x="161.5" y="64.9"/>
+ <rect id="hover-hint-left-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height=".1" x="-84" y="108.9" transform="matrix(0,-1,1,0,0,0)"/>
+ <rect id="hover-hint-right-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height=".1" x="-84" y="216" transform="matrix(0,-1,1,0,0,0)"/>
+ <rect id="focus-hint-bottom-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height=".1" x="161.5" y="149.9"/>
+ <rect id="focus-hint-top-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height=".1" x="161.5" y="112.8"/>
+ <rect id="focus-hint-left-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height=".1" x="-131.9" y="108.9" transform="matrix(0,-1,1,0,0,0)"/>
+ <rect id="focus-hint-right-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height=".1" x="-131.9" y="216" transform="matrix(0,-1,1,0,0,0)"/>
+ <rect id="pressed-hint-top-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height="6" x="161.5" y="164"/>
+ <rect id="pressed-hint-right-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height="6" x="-186" y="211" transform="matrix(0,-1,1,0,0,0)"/>
+ <rect id="pressed-hint-left-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height="6" x="-186" y="108" transform="matrix(0,-1,1,0,0,0)"/>
+ <rect id="pressed-hint-bottom-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height="6" x="161.5" y="199"/>
+ <rect id="normal-hint-top-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height="6" x="161.5" y="8"/>
+ <rect id="normal-hint-right-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height="6" x="-28" y="211" transform="matrix(0,-1,1,0,0,0)"/>
+ <rect id="normal-hint-left-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height="6" x="-28" y="108" transform="matrix(0,-1,1,0,0,0)"/>
+ <rect id="normal-hint-bottom-margin" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2" height="6" x="161.5" y="41"/>
 </svg>

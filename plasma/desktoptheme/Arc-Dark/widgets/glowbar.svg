@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" width="60" height="90" version="1">
+ <defs id="defs5">
+  <linearGradient id="linearGradient3771">
+   <stop id="stop3773" style="stop-color:#2980b9;stop-opacity:0.58823532;" offset="0"/>
+   <stop id="stop3775" style="stop-color:#3498db;stop-opacity:0;" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3777" cx="37.919" cy="13.191" r="6" fx="37.919" fy="13.191" gradientTransform="matrix(2,0,0,2,-35.837204,-4.3810497)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+  <radialGradient id="radialGradient3785" cx="37.919" cy="13.191" r="6" fx="37.919" fy="13.191" gradientTransform="matrix(2,0,0,2,-97.8372,1.61895)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+  <linearGradient id="linearGradient3795" x1="62" x2="62" y1="20" y2="8" gradientTransform="translate(-26,2)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+  <linearGradient id="linearGradient3799" x1="62" x2="62" y1="20" y2="8" gradientTransform="translate(-32,-60)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+  <radialGradient id="radialGradient3803" cx="37.919" cy="13.191" r="6" fx="37.919" fy="13.191" gradientTransform="matrix(2,0,0,2,-35.837204,-60.38105)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+  <linearGradient id="linearGradient3807" x1="62" x2="62" y1="20" y2="8" gradientTransform="translate(-94,-54)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+  <linearGradient id="linearGradient3811" x1="62" x2="62" y1="20" y2="8" gradientTransform="translate(-32,8)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+  <radialGradient id="radialGradient3815" cx="37.919" cy="13.191" r="6" fx="37.919" fy="13.191" gradientTransform="matrix(2,0,0,2,-41.8372,1.61895)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+ </defs>
+ <rect id="hint-glow-radius" style="opacity:1;fill:#4f8100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.69999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" width="5" height="5" x="5.3" y="45.78"/>
+ <rect id="hint-stretch-borders" style="opacity:1;fill:#4f8100;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.69999981;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" width="5" height="5" x="5.3" y="53.45"/>
+ <rect id="center" style="opacity:0;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.69999980999999956;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" width="12.01" height="12.01" x="14.02" y="20.11"/>
+ <rect id="topright" style="fill:url(#radialGradient3777);fill-opacity:1" width="12" height="12" x="40" y="10"/>
+ <rect id="topleft" style="fill:url(#radialGradient3785);fill-opacity:1" width="12" height="12" x="-22" y="16" transform="matrix(0,-1,1,0,0,0)"/>
+ <rect id="top" style="fill:url(#linearGradient3795);fill-opacity:1" width="12" height="12" x="28" y="10"/>
+ <rect id="right" style="fill:url(#linearGradient3799);fill-opacity:1" width="12" height="12" x="22" y="-52" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect id="bottomright" style="fill:url(#radialGradient3803);fill-opacity:1" width="12" height="12" x="40" y="-46" transform="scale(1,-1)"/>
+ <rect id="bottom" style="fill:url(#linearGradient3807);fill-opacity:1" width="12" height="12" x="-40" y="-46" transform="scale(-1,-1)"/>
+ <rect id="left" style="fill:url(#linearGradient3811);fill-opacity:1" width="12" height="12" x="22" y="16" transform="matrix(0,1,1,0,0,0)"/>
+ <rect id="bottomleft" style="fill:url(#radialGradient3815);fill-opacity:1" width="12" height="12" x="34" y="16" transform="matrix(0,1,1,0,0,0)"/>
+</svg>

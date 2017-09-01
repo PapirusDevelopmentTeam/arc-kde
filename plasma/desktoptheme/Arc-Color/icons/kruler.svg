@@ -1,12 +1,11 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" id="svg2" viewBox="0 0 22 22">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg2" version="1.1" viewBox="0 0 22 22">
  <defs id="defs3051">
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
  </defs>
- <g transform="translate(-326,-534.3622)" id="kruler">
-  <rect y="534.36" x="326" height="22" width="22" id="rect4165" style="opacity:1;fill:none;fill-opacity:1;stroke:none"/>
-  <path id="path6" class="ColorScheme-Text" d="m 328,538.3622 0,3 0,11 2,0 16,0 0,-2 -16,0 0,-9 16,0 0,-3 z m 3,4 0,3 1,0 0,-3 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,6 1,0 0,-6 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,6 1,0 0,-6 z m 2,0 0,3 1,0 0,-3 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"/>
+ <g id="kruler" transform="translate(-326,-534.3622)">
+  <rect id="rect4165" style="opacity:1;fill:none;fill-opacity:1;stroke:none" width="22" height="22" x="326" y="534.36"/>
+  <path id="path6" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text" d="m 328,538.3622 0,3 0,11 2,0 16,0 0,-2 -16,0 0,-9 16,0 0,-3 z m 3,4 0,3 1,0 0,-3 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,6 1,0 0,-6 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,6 1,0 0,-6 z m 2,0 0,3 1,0 0,-3 z"/>
  </g>
 </svg>

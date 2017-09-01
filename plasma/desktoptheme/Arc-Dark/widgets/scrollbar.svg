@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg3642" width="48" height="98" version="1">
+ <defs id="defs3644">
+  <linearGradient id="linearGradient4443">
+   <stop id="stop4445" style="stop-color:#000000;stop-opacity:1;" offset="0"/>
+   <stop id="stop4451" style="stop-color:#000000;stop-opacity:0.49803922;" offset=".218"/>
+   <stop id="stop4453" style="stop-color:#000000;stop-opacity:0.24705882;" offset=".355"/>
+   <stop id="stop4455" style="stop-color:#000000;stop-opacity:0.12156863;" offset=".571"/>
+   <stop id="stop4447" style="stop-color:#000000;stop-opacity:0;" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8734">
+   <stop id="stop8736" style="stop-color:#ffffff;stop-opacity:1;" offset="0"/>
+   <stop id="stop8738" style="stop-color:#ffffff;stop-opacity:0;" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1">
+  <rect id="slider-center" style="opacity:1;fill:#767b87;fill-rule:evenodd;stroke:none;fill-opacity:1"  width="1" height="10" x="24" y="20"/>
+  <g id="slider-right" transform="matrix(0.75,0,0,1,19.25,13)">
+   <path id="rect3838" style="opacity:1;fill:#767b87;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect id="rect3856" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="29" y="20" transform="matrix(1.3333333,0,0,1,-25.666667,-13)"/>
+  </g>
+  <g id="slider-topright" transform="matrix(0.75,0,0,0.75,19.25,13.75)">
+   <rect id="rect3852" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="26" y="15" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-18.333333)"/>
+   <path id="rect3840" style="opacity:1;fill:#767b87;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+  </g>
+  <g id="slider-bottomright" transform="matrix(0.75,0,0,0.75,19.25,18.25)">
+   <rect id="rect3862" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="26" y="31" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-24.333333)"/>
+   <path id="path3871" style="opacity:1;fill:#767b87;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+  </g>
+  <g id="slider-left" transform="matrix(-0.75,0,0,1,29.75,13)">
+   <path id="path3891" style="opacity:1;fill:#767b87;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect id="rect3854" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="19" y="20" transform="matrix(-1.3333333,0,0,1,39.666667,-13)"/>
+  </g>
+  <g id="slider-topleft" transform="matrix(-0.75,0,0,0.75,29.75,13.75)">
+   <rect id="rect3848" style="fill:#e4e6e8;fill-opacity:1;stroke:none;opacity:0" width="4" height="4" x="19" y="15" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-18.333333)"/>
+   <path id="path3895" style="opacity:1;fill:#767b87;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+  </g>
+  <g id="slider-bottomleft" transform="matrix(-0.75,0,0,0.75,29.75,18.25)">
+   <rect id="rect3858" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="19" y="31" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-24.333333)"/>
+   <path id="path3901" style="opacity:1;fill:#767b87;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+  </g>
+  <g id="slider-top" transform="matrix(0,-0.75,-0.1,0,25.7,25.75)">
+   <rect id="rect3850" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="24" y="15" transform="matrix(0,-10,-1.3333333,0,34.333333,257)"/>
+   <path id="path3909" style="opacity:1;fill:#767b87;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+  </g>
+  <g id="slider-bottom" transform="matrix(0,0.75,-0.1,0,25.7,24.25)">
+   <rect id="rect3860" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="24" y="31" transform="matrix(0,-10,1.3333333,0,-32.333333,257)"/>
+   <path id="path3915" style="opacity:1;fill:#767b87;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+  </g>
+  <rect id="hint-scrollbar-size" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="8" height="8" x="4" y="25" rx="0" ry="8"/>
+  <rect id="hint-tile-center" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2.033" height="2.077" x="7.26" y="11.66" rx="0" ry="2.077"/>
+  <rect id="background-vertical-center" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  width="1" height="10" x="38" y="20"/>
+  <g id="background-vertical-right" transform="matrix(0.75,0,0,1,33.25,13)">
+   <path id="rect3838-1" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect id="rect3872" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="43" y="20" transform="matrix(1.3333333,0,0,1,-44.333333,-13)"/>
+  </g>
+  <g id="background-vertical-topright" transform="matrix(0.75,0,0,0.75,33.25,13.75)">
+   <rect id="rect3868" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="40" y="15" transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-18.333333)"/>
+   <path id="rect3840-1" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+  </g>
+  <g id="background-vertical-bottomright" transform="matrix(0.75,0,0,0.75,33.25,18.25)">
+   <rect id="rect3878" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="40" y="31" transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-24.333333)"/>
+   <path id="path3871-2" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+  </g>
+  <g id="background-vertical-left" transform="matrix(-0.75,0,0,1,43.75,13)">
+   <path id="path3891-2" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect id="rect3870" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="33" y="20" transform="matrix(-1.3333333,0,0,1,58.333333,-13)"/>
+  </g>
+  <g id="background-vertical-topleft" transform="matrix(-0.75,0,0,0.75,43.75,13.75)">
+   <rect id="rect3864" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="33" y="15" transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-18.333333)"/>
+   <path id="path3895-9" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+  </g>
+  <g id="background-vertical-bottomleft" transform="matrix(-0.75,0,0,0.75,43.75,18.25)">
+   <rect id="rect3874" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="33" y="31" transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-24.333333)"/>
+   <path id="path3901-7" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+  </g>
+  <g id="background-vertical-top" transform="matrix(0,-0.75,-0.1,0,39.7,25.75)">
+   <rect id="rect3866" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="38" y="15" transform="matrix(0,-10,-1.3333333,0,34.333333,397)"/>
+   <path id="path3909-8" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+  </g>
+  <g id="background-vertical-bottom" transform="matrix(0,0.75,-0.1,0,39.7,24.25)">
+   <rect id="rect3876" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="38" y="31" transform="matrix(0,-10,1.3333333,0,-32.333333,397)"/>
+   <path id="path3915-5" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+  </g>
+  <rect id="mouseover-slider-center" style="fill:#8f939d;fill-rule:evenodd;stroke:none;fill-opacity:1"  width="1" height="10" x="24" y="42"/>
+  <g id="mouseover-slider-right" transform="matrix(0.75,0,0,1,19.25,35)">
+   <path id="rect3838-4" style="fill:#8f939d;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect id="rect3904" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="29" y="42" transform="matrix(1.3333333,0,0,1,-25.666667,-35)"/>
+  </g>
+  <g id="mouseover-slider-topright" transform="matrix(0.75,0,0,0.75,19.25,35.75)">
+   <rect id="rect3894" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="26" y="37" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-47.666667)"/>
+   <path id="rect3840-2" style="fill:#8f939d;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+  </g>
+  <g id="mouseover-slider-bottomright" style="fill:#939393;fill-opacity:1" transform="matrix(0.75,0,0,0.75,19.25,40.25)">
+   <path id="path3871-1" style="fill:#8f939d;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+   <rect id="rect3908" style="opacity:0;fill:#939393;fill-opacity:1;stroke:none" width="4" height="4" x="26" y="53" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-53.666667)"/>
+  </g>
+  <g id="mouseover-slider-left" transform="matrix(-0.75,0,0,1,29.75,35)">
+   <path id="path3891-9" style="opacity:1;fill:#8f939d;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect id="rect3902" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="19" y="42" transform="matrix(-1.3333333,0,0,1,39.666667,-35)"/>
+  </g>
+  <g id="mouseover-slider-topleft" transform="matrix(-0.75,0,0,0.75,29.75,35.75)">
+   <rect id="rect3880" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="19" y="37" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-47.666667)"/>
+   <path id="path3895-2" style="fill:#8f939d;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+  </g>
+  <g id="mouseover-slider-bottomleft" transform="matrix(-0.75,0,0,0.75,29.75,40.25)">
+   <rect id="rect3890" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="19" y="53" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-53.666667)"/>
+   <path id="path3901-9" style="fill:#8f939d;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+  </g>
+  <g id="mouseover-slider-top" transform="matrix(0,-0.75,-0.1,0,25.7,47.75)">
+   <rect id="rect3892" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="24" y="37" transform="matrix(0,-10,-1.3333333,0,63.666667,257)"/>
+   <path id="path3909-6" style="fill:#8f939d;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+  </g>
+  <g id="mouseover-slider-bottom" transform="matrix(0,0.75,-0.1,0,25.7,46.25)">
+   <rect id="rect3906" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="24" y="53" transform="matrix(0,-10,1.3333333,0,-61.666667,257)"/>
+   <path id="path3915-6" style="fill:#8f939d;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+  </g>
+  <rect id="sunken-slider-center" style="fill:#5294e2;fill-rule:evenodd;stroke:none;fill-opacity:1"  width="1" height="10" x="24" y="64"/>
+  <g id="sunken-slider-right" transform="matrix(0.75,0,0,1,19.25,57)">
+   <path id="rect3838-4-8" style="fill:#5294e2;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect id="rect3924" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="29" y="64" transform="matrix(1.3333333,0,0,1,-25.666667,-57)"/>
+  </g>
+  <g id="sunken-slider-topright" transform="matrix(0.75,0,0,0.75,19.25,57.75)">
+   <rect id="rect3920" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="26" y="59" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-77)"/>
+   <path id="rect3840-2-9" style="fill:#5294e2;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+  </g>
+  <g id="sunken-slider-bottomright" transform="matrix(0.75,0,0,0.75,19.25,62.25)">
+   <rect id="rect3930" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="26" y="75" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-83)"/>
+   <path id="path3871-1-7" style="fill:#5294e2;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+  </g>
+  <g id="sunken-slider-left" transform="matrix(-0.75,0,0,1,29.75,57)">
+   <path id="path3891-9-4" style="fill:#5294e2;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect id="rect3922" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="19" y="64" transform="matrix(-1.3333333,0,0,1,39.666667,-57)"/>
+  </g>
+  <g id="sunken-slider-topleft" transform="matrix(-0.75,0,0,0.75,29.75,57.75)">
+   <rect id="rect3916" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="19" y="59" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-77)"/>
+   <path id="path3895-2-1" style="fill:#5294e2;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+  </g>
+  <g id="sunken-slider-bottomleft" transform="matrix(-0.75,0,0,0.75,29.75,62.25)">
+   <rect id="rect3926" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="19" y="75" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-83)"/>
+   <path id="path3901-9-9" style="fill:#5294e2;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+  </g>
+  <g id="sunken-slider-top" transform="matrix(0,-0.75,-0.1,0,25.7,69.75)">
+   <rect id="rect3918" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="24" y="59" transform="matrix(0,-10,-1.3333333,0,93,257)"/>
+   <path id="path3909-6-1" style="fill:#5294e2;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+  </g>
+  <g id="sunken-slider-bottom" transform="matrix(0,0.75,-0.1,0,25.7,68.25)">
+   <rect id="rect3928" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="24" y="75" transform="matrix(0,-10,1.3333333,0,-91,257)"/>
+   <path id="path3915-6-3" style="fill:#5294e2;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+  </g>
+  <rect id="background-horizontal-center" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  width="1" height="10" x="38" y="42"/>
+  <g id="background-horizontal-right" transform="matrix(0.75,0,0,1,33.25,35)">
+   <path id="rect3838-1-3" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect id="rect3888" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="43" y="42" transform="matrix(1.3333333,0,0,1,-44.333333,-35)"/>
+  </g>
+  <g id="background-horizontal-topright" transform="matrix(0.75,0,0,0.75,33.25,35.75)">
+   <rect id="rect3884" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="40" y="37" transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-47.666667)"/>
+   <path id="rect3840-1-0" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+  </g>
+  <g id="background-horizontal-bottomright" transform="matrix(0.75,0,0,0.75,33.25,40.25)">
+   <rect id="rect3914" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="40" y="53" transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-53.666667)"/>
+   <path id="path3871-2-0" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+  </g>
+  <g id="background-horizontal-left" transform="matrix(-0.75,0,0,1,43.75,35)">
+   <path id="path3891-2-6" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect id="rect3886" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="33" y="42" transform="matrix(-1.3333333,0,0,1,58.333333,-35)"/>
+  </g>
+  <g id="background-horizontal-topleft" transform="matrix(-0.75,0,0,0.75,43.75,35.75)">
+   <rect id="rect3896" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="33" y="37" transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-47.666667)"/>
+   <path id="path3895-9-8" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+  </g>
+  <g id="background-horizontal-bottomleft" transform="matrix(-0.75,0,0,0.75,43.75,40.25)">
+   <rect id="rect3910" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="33" y="53" transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-53.666667)"/>
+   <path id="path3901-7-8" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+  </g>
+  <g id="background-top-7" transform="matrix(0,-0.75,-0.1,0,39.7,47.75)">
+   <rect id="rect3898" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="38" y="37" transform="matrix(0,-10,-1.3333333,0,63.666667,397)"/>
+   <path id="path3909-8-0" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+  </g>
+  <g id="background-horizontal-bottom" transform="matrix(0,0.75,-0.1,0,39.7,46.25)">
+   <rect id="rect3912" style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="38" y="53" transform="matrix(0,-10,1.3333333,0,-61.666667,397)"/>
+   <path id="path3915-5-7" style="opacity:1;fill:#3e434f;fill-rule:evenodd;stroke:none;fill-opacity:1"  d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+  </g>
+ </g>
+</svg>
