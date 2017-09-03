@@ -302,7 +302,7 @@
        d="m 200.00001,249.99982 0,7 -7,0 0,-2 c 0,-2.77 2.23,-5 5,-5 z"
        id="path63" />
     <path
-       style="opacity:1;fill:#272c35;fill-opacity:1;stroke:none"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
        d="m 198,249.99988 c -2.77,0 -5,2.23 -5,5 l 0,2 1,0 0,-1 c 0,-3 2,-5 5,-5 l 1,0 0,-1 z"
        id="path65" />
   </g>
@@ -323,7 +323,7 @@
        d="m 193.00002,256.99981 0,50 7,10e-6 0,-50 z"
        id="path71" />
     <path
-       style="opacity:1;fill:#272c35;fill-opacity:1;stroke:none"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
        d="m 193,256.99988 0,50 1,0 0,-50 -1,0 z"
        id="path73" />
   </g>
@@ -344,7 +344,7 @@
        d="m 257,256.99982 0,50 -7,10e-6 0,-50 z"
        id="path79" />
     <path
-       style="opacity:1;fill:#272c35;fill-opacity:1;stroke:none"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
        d="m 256,306.99988 1,0 0,-50 -1,0 0,50 z"
        id="path81" />
   </g>
@@ -361,7 +361,7 @@
        d="m 200.00001,313.99991 0,-7 -7,0 0,2 c 0,2.77 2.23,5 5,5 z"
        id="path87" />
     <path
-       style="opacity:1;fill:#272c35;fill-opacity:1;stroke:none"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
        d="m 193,308.99988 c 0,2.77 2.23,5 5,5 l 2,0 0,-1 -1,0 c -3,0 -5,-2 -5,-5 l 0,-1 -1,0 z"
        id="path89" />
   </g>
@@ -381,7 +381,7 @@
        d="m 199.99998,313.99995 50.00002,0 0,-7 -50.00001,0 z"
        id="path95" />
     <path
-       style="opacity:1;fill:#272c35;fill-opacity:1;stroke:none"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
        d="m 200,313.99988 50,0 0,-1 -50,0 0,1 z"
        id="path97" />
   </g>
@@ -398,7 +398,7 @@
        d="m 250,313.99991 0,-7 7,0 0,2 c 0,2.77 -2.23,5 -5,5 z"
        id="path103" />
     <path
-       style="opacity:1;fill:#272c35;fill-opacity:1;stroke:none"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
        d="m 257,308.99988 c 0,2.77 -2.23,5 -5,5 l -2,0 0,-1 1,0 c 3,0 5,-2 5,-5 l 0,-1 1,0 z"
        id="path105" />
   </g>
@@ -415,7 +415,7 @@
        d="m 199.99998,249.99982 50.00002,0 0,7 -50.00001,0 z"
        id="path111" />
     <path
-       style="opacity:1;fill:#272c35;fill-opacity:1;stroke:none"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
        d="m 200,249.99988 0,1 50,0 0,-1 -50,0 z"
        id="path113" />
     <rect
@@ -436,7 +436,7 @@
        d="m 250,249.99982 0,7 7,0 0,-2 c 0,-2.77 -2.23,-5 -5,-5 z"
        id="path119" />
     <path
-       style="opacity:1;fill:#272c35;fill-opacity:1;stroke:none"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"
        d="m 252,249.99988 c 2.77,0 5,2.23 5,5 l 0,2 -1,0 0,-1 c 0,-3 -2,-5 -5,-5 l -1,0 0,-1 z"
        id="path121" />
     <path
