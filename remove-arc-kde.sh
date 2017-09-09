@@ -26,8 +26,6 @@ echo "=> Removing $gh_desc ..."
 # root
 sudo rm -rf /usr/share/aurorae/themes/Arc
 sudo rm -rf /usr/share/aurorae/themes/Arc-Dark
-sudo rm -rf /usr/share/aurorae/themes/Arc-Transparent
-sudo rm -rf /usr/share/aurorae/themes/Arc-Dark-Transparent
 sudo rm -f /usr/share/color-schemes/Arc.colors
 sudo rm -f /usr/share/color-schemes/ArcDark.colors
 sudo rm -f /usr/share/konsole/Arc.colorscheme
@@ -36,8 +34,7 @@ sudo rm -rf /usr/share/konversation/themes/papirus
 sudo rm -rf /usr/share/konversation/themes/papirus-dark
 sudo rm -rf /usr/share/Kvantum/Arc
 sudo rm -rf /usr/share/Kvantum/ArcDark
-sudo rm -rf /usr/share/Kvantum/ArcDarkTransparent
-sudo rm -rf /usr/share/Kvantum/ArcTransparent
+sudo rm -rf /usr/share/Kvantum/ArcDarker
 sudo rm -rf /usr/share/plasma/desktoptheme/Arc-Dark
 sudo rm -rf /usr/share/plasma/desktoptheme/Arc-Color
 sudo rm -rf /usr/share/plasma/look-and-feel/com.github.varlesh.arc-dark
@@ -48,8 +45,6 @@ sudo rm -rf /usr/share/yakuake/skins/arc-dark
 # home
 rm -rf ~/.local/share/aurorae/themes/Arc
 rm -rf ~/.local/share/aurorae/themes/Arc-Dark
-rm -rf ~/.local/share/aurorae/themes/Arc-Transparent
-rm -rf ~/.local/share/aurorae/themes/Arc-Dark-Transparent
 rm -f ~/.local/share/color-schemes/Arc.colors
 rm -f ~/.local/share/color-schemes/ArcDark.colors
 rm -f ~/.local/share/konsole/Arc.colorscheme
@@ -58,8 +53,7 @@ rm -rf ~/.local/share/konversation/themes/papirus
 rm -rf ~/.local/share/konversation/themes/papirus-dark
 rm -rf ~/.config/Kvantum/Arc
 rm -rf ~/.config/Kvantum/ArcDark
-rm -rf ~/.config/Kvantum/ArcDarkTransparent
-rm -rf ~/.config/Kvantum/ArcTransparent
+rm -rf ~/.config/Kvantum/ArcDarker
 rm -rf ~/.local/share/plasma/desktoptheme/Arc-Dark
 rm -rf ~/.local/share/plasma/desktoptheme/Arc-Color
 rm -rf ~/.local/share/plasma/look-and-feel/com.github.varlesh.arc-dark

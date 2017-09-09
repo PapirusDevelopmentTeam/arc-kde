@@ -22,7 +22,7 @@ cat <<- EOF
 
 EOF
 
-temp_dir=$(mktemp -d)
+temp_dir="$(mktemp -d)"
 
 echo "=> Getting the latest version from GitHub ..."
 wget -O "/tmp/$gh_repo.tar.gz" \
@@ -32,8 +32,6 @@ tar -xzf "/tmp/$gh_repo.tar.gz" -C "$temp_dir"
 echo "=> Deleting old $gh_desc ..."
 sudo rm -rf /usr/share/aurorae/themes/Arc
 sudo rm -rf /usr/share/aurorae/themes/Arc-Dark
-sudo rm -rf /usr/share/aurorae/themes/Arc-Transparent
-sudo rm -rf /usr/share/aurorae/themes/Arc-Dark-Transparent
 sudo rm -f /usr/share/color-schemes/Arc.colors
 sudo rm -f /usr/share/color-schemes/ArcDark.colors
 sudo rm -f /usr/share/konsole/Arc.colorscheme
@@ -42,8 +40,7 @@ sudo rm -rf /usr/share/konversation/themes/papirus
 sudo rm -rf /usr/share/konversation/themes/papirus-dark
 sudo rm -rf /usr/share/Kvantum/Arc
 sudo rm -rf /usr/share/Kvantum/ArcDark
-sudo rm -rf /usr/share/Kvantum/ArcDarkTransparent
-sudo rm -rf /usr/share/Kvantum/ArcTransparent
+sudo rm -rf /usr/share/Kvantum/ArcDarker
 sudo rm -rf /usr/share/plasma/desktoptheme/Arc-Dark
 sudo rm -rf /usr/share/plasma/desktoptheme/Arc-Color
 sudo rm -rf /usr/share/plasma/look-and-feel/com.github.varlesh.arc-dark
@@ -52,7 +49,7 @@ sudo rm -rf /usr/share/wallpapers/Arc-Dark
 sudo rm -rf /usr/share/yakuake/skins/arc
 sudo rm -rf /usr/share/yakuake/skins/arc-dark
 echo "=> Installing ..."
-sudo cp --no-preserve=mode,ownership -r \
+sudo cp -R \
   "$temp_dir/$gh_repo-master/aurorae" \
   "$temp_dir/$gh_repo-master/color-schemes" \
   "$temp_dir/$gh_repo-master/konsole" \
@@ -62,7 +59,7 @@ sudo cp --no-preserve=mode,ownership -r \
   "$temp_dir/$gh_repo-master/Kvantum" \
   /usr/share/
 sudo mkdir -p /usr/share/yakuake/skins/
-sudo cp --no-preserve=mode,ownership -r \
+sudo cp -R \
   "$temp_dir/$gh_repo-master/yakuake/kns_skins/arc" \
   "$temp_dir/$gh_repo-master/yakuake/kns_skins/arc-dark" \
   /usr/share/yakuake/skins/
