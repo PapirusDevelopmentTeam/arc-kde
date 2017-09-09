@@ -42,12 +42,12 @@
   <g id="horizontal-slider-hover" transform="matrix(1.2,0,0,1.2,27.8,63.2)">
    <rect id="rect4204" style="opacity:0.00100002;fill:#000000;fill-opacity:0.00392157;stroke:none" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
    <circle id="path4206" style="color:#31363b;opacity:0.2;fill:#000000;fill-opacity:1"  cx="14" cy="40" r="4" transform="matrix(2.0833333,0,0,2.0833333,-13.166666,-44.333332)"/>
-   <circle id="path4208" style="color:#eff0f1;opacity:1;fill:#505766;fill-opacity:1"  cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
+   <circle id="path4208" style="color:#eff0f1;opacity:1;fill:#414857;fill-opacity:1"  cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
   </g>
   <g id="vertical-slider-hover" transform="matrix(1.2,0,0,1.2,27.8,27.2)">
    <rect id="rect4212" style="opacity:0.00100002;fill:#000000;fill-opacity:0.00392157;stroke:none" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>
    <circle id="path4214" style="color:#31363b;opacity:0.2;fill:#000000;fill-opacity:1"  cx="14" cy="40" r="4" transform="matrix(2.0833333,0,0,2.0833333,-13.166666,-44.333332)"/>
-   <circle id="path4216" style="color:#eff0f1;opacity:1;fill:#505766;fill-opacity:1"  cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
+   <circle id="path4216" style="color:#eff0f1;opacity:1;fill:#414857;fill-opacity:1"  cx="14" cy="40" r="4" transform="matrix(1.875,0,0,1.875,-10.25,-36)"/>
   </g>
   <g id="horizontal-slider-focus" transform="matrix(1.2,0,0,1.2,57.8,63.2)">
    <rect id="rect4220" style="opacity:0.00100002;fill:#000000;fill-opacity:0.00392157;stroke:none" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"/>

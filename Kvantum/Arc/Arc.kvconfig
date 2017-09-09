@@ -72,7 +72,7 @@ inherits=PanelButtonCommand
 frame=true
 interior=true
 text.iconspacing=3
-text.toggle.color=#5c616c 
+text.toggle.color=#ffffff
 
 [RadioButton]
 inherits=PanelButtonCommand
@@ -100,8 +100,8 @@ Interior=true
 indicator.size=0
 text.normal.color=#5c616c
 text.focus.color=#5c616c
-text.press.color=#5c616c 
-text.toggle.color=#5c616c
+text.press.color=#ffffff 
+text.toggle.color=#ffffff
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
@@ -265,11 +265,17 @@ indicator.size=0
 [Toolbar]
 inherits=PanelButtonCommand
 frame=true
-interior.element=menubar
-frame.element=menubar
 frame.bottom=4
 frame.left=4
 frame.right=4
+
+[ToolbarButton]
+frame.element=tbutton
+interior.element=tbutton
+indicator.element=tarrow
+text.press.color=#ffffff
+text.toggle.color=#ffffff
+text.bold=false
 
 [Scrollbar]
 inherits=PanelButtonCommand
@@ -333,13 +339,14 @@ frame.right=3
 
 [MenuItem]
 inherits=PanelButtonCommand
+interior.element=menuitem
 indicator.size=8
-text.focus.color=#5c616c
+text.focus.color=#ffffff
 text.press.color=#ffffff
 
 [MenuBarItem]
 inherits=PanelButtonCommand
-interior.element=menuitem
+interior.element=menubaritem
 frame=false
 text.margin.top=3
 text.margin.bottom=3
@@ -378,6 +385,12 @@ text.margin.left=3
 text.margin.right=3
 text.toggle.color=#5c616c
 
+[ToolboxTab]
+inherits=PanelButtonCommand
+text.normal.color=#5c616c
+text.press.color=#5c616c
+text.focus.color=#5c616c
+
 [Hacks]
 transparent_dolphin_view=false
 blur_konsole=true
@@ -399,3 +412,7 @@ transparent_pcmanfm_view=false
 [Window]
 interior=true
 interior.element=window
+frame.top=0
+frame.bottom=0
+frame.left=0
+frame.right=0

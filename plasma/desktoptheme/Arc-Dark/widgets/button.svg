@@ -48,35 +48,35 @@
   <rect id="rect3123" style="fill:#5294e2;fill-opacity:1;stroke:none;opacity:1"  width="105" height="1" x="110" y="106"/>
  </g>
  <g id="normal-topleft" transform="translate(829.80716,-769.58398)">
-  <path id="path4101" style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none"  d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 l 1,0 c 0,-0.55228 0.44772,-1 1,-1 l 0,-1 z"/>
+  <path id="path4101" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"  d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 l 1,0 c 0,-0.55228 0.44772,-1 1,-1 l 0,-1 z"/>
   <path id="path3967" style="color:#eff0f1;fill:#414857;fill-opacity:1;stroke:none;opacity:1"  d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)"/>
  </g>
  <g id="normal-bottomleft" transform="translate(829.80716,-765.58399)">
-  <path id="path4111" style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none"  d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 l 1,0 c 0,0.55228 0.44772,1 1,1 l 0,1 z"/>
+  <path id="path4111" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"  d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 l 1,0 c 0,0.55228 0.44772,1 1,1 l 0,1 z"/>
   <path id="path3919" style="color:#eff0f1;fill:#414857;fill-opacity:1;stroke:none;opacity:1" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)"/>
  </g>
  <g id="normal-left" transform="matrix(1,0,0,1.666664,829.80716,-1305.9712)">
-  <rect id="rect4108" style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none"  width="1" height="21" x="-721.81" y="789.58"/>
+  <rect id="rect4108" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"  width="1" height="21" x="-721.81" y="789.58"/>
   <rect id="rect3943" style="color:#eff0f1;fill:#414857;fill-opacity:1;stroke:none;opacity:1"  width="1" height="21" x="-720.81" y="789.58"/>
  </g>
  <g id="normal-top" transform="matrix(1.9090909,0,0,1,1484.1774,-769.58398)">
-  <rect id="rect3329" style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none"  width="55" height="1" x="-719.81" y="777.58"/>
+  <rect id="rect3329" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"  width="55" height="1" x="-719.81" y="777.58"/>
   <rect id="rect3965" style="color:#eff0f1;fill:#414857;fill-opacity:1;stroke:none;opacity:1"  width="55" height="1" x="-719.81" y="778.58"/>
  </g>
  <g id="normal-bottom" transform="matrix(1.9090909,0,0,1,1484.1774,-765.58399)">
-  <rect id="rect4099" style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none"  width="55" height="1" x="-719.81" y="811.58"/>
+  <rect id="rect4099" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"  width="55" height="1" x="-719.81" y="811.58"/>
   <rect id="rect3149" style="color:#eff0f1;fill:#414857;fill-opacity:1;stroke:none;opacity:1" width="55" height="1" x="-719.81" y="810.58"/>
  </g>
  <g id="normal-topright" transform="translate(879.80713,-769.58398)">
   <path id="path3963" style="color:#eff0f1;fill:#414857;fill-opacity:1;stroke:none;opacity:1"  d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)"/>
-  <path id="path4121" style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none"  d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 l -1,0 c 0,-0.55228 -0.44772,-1 -1,-1 l 0,-1 z"/>
+  <path id="path4121" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"  d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 l -1,0 c 0,-0.55228 -0.44772,-1 -1,-1 l 0,-1 z"/>
  </g>
  <g id="normal-bottomright" transform="translate(879.80713,-765.58399)">
-  <path id="path4127" style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none"  d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 l 0,1 z"/>
+  <path id="path4127" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"  d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 l 0,1 z"/>
   <path id="path3921" style="color:#eff0f1;fill:#414857;fill-opacity:1;stroke:none;opacity:1"  d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)"/>
  </g>
  <g id="normal-right" transform="matrix(1,0,0,1.666664,879.80713,-1305.9712)">
-  <rect id="rect4125" style="opacity:0.16;fill:#000000;fill-opacity:1;stroke:none"  width="1" height="21" x="662.81" y="789.58" transform="scale(-1,1)"/>
+  <rect id="rect4125" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"  width="1" height="21" x="662.81" y="789.58" transform="scale(-1,1)"/>
   <rect id="rect3953" style="color:#eff0f1;fill:#414857;fill-opacity:1;stroke:none;opacity:1"  width="1" height="21" x="-664.81" y="789.58"/>
  </g>
  <g id="normal-center" transform="translate(0,58)">
@@ -84,38 +84,38 @@
  </g>
  <rect id="pressed-center" style="fill:#5294e2;fill-opacity:1;stroke:none;opacity:1"  width="105" height="35" x="110" y="-203" transform="scale(1,-1)"/>
  <g id="hover-topleft" transform="translate(829.80716,-713.58398)">
-  <path id="path3376" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"  d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 l 1,0 c 0,-0.55228 0.44772,-1 1,-1 l 0,-1 z"/>
-  <path id="path3378" style="opacity:1;fill:#505766;fill-opacity:1;stroke:none" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)"/>
+  <path id="path3376" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"  d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 l 1,0 c 0,-0.55228 0.44772,-1 1,-1 l 0,-1 z"/>
+  <path id="path3378" style="opacity:1;fill:#414857;fill-opacity:1;stroke:none" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)"/>
  </g>
  <g id="hover-bottomleft" transform="translate(829.80716,-709.58399)">
-  <path id="path3382" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"  d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 l 1,0 c 0,0.55228 0.44772,1 1,1 l 0,1 z"/>
-  <path id="path3384" style="opacity:1;fill:#505766;fill-opacity:1;stroke:none" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)"/>
+  <path id="path3382" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"  d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 l 1,0 c 0,0.55228 0.44772,1 1,1 l 0,1 z"/>
+  <path id="path3384" style="opacity:1;fill:#414857;fill-opacity:1;stroke:none" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)"/>
  </g>
  <g id="hover-left" transform="matrix(1,0,0,1.666664,829.80716,-1249.9712)">
-  <rect id="rect3388" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"  width="1" height="21" x="-721.81" y="789.58"/>
-  <rect id="rect3390" style="opacity:1;fill:#505766;fill-opacity:1;stroke:none" width="1" height="21" x="-720.81" y="789.58"/>
+  <rect id="rect3388" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"  width="1" height="21" x="-721.81" y="789.58"/>
+  <rect id="rect3390" style="opacity:1;fill:#414857;fill-opacity:1;stroke:none" width="1" height="21" x="-720.81" y="789.58"/>
  </g>
  <g id="hover-top" transform="matrix(1.9090909,0,0,1,1484.1774,-713.58398)">
-  <rect id="rect3394" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"  width="55" height="1" x="-719.81" y="777.58"/>
-  <rect id="rect3396" style="opacity:1;fill:#505766;fill-opacity:1;stroke:none" width="55" height="1" x="-719.81" y="778.58"/>
+  <rect id="rect3394" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"  width="55" height="1" x="-719.81" y="777.58"/>
+  <rect id="rect3396" style="opacity:1;fill:#414857;fill-opacity:1;stroke:none" width="55" height="1" x="-719.81" y="778.58"/>
  </g>
  <g id="hover-bottom" transform="matrix(1.9090909,0,0,1,1484.1774,-709.58399)">
-  <rect id="rect3400" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"  width="55" height="1" x="-719.81" y="811.58"/>
-  <rect id="rect3402" style="opacity:1;fill:#505766;fill-opacity:1;stroke:none" width="55" height="1" x="-719.81" y="810.58"/>
+  <rect id="rect3400" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"  width="55" height="1" x="-719.81" y="811.58"/>
+  <rect id="rect3402" style="opacity:1;fill:#414857;fill-opacity:1;stroke:none" width="55" height="1" x="-719.81" y="810.58"/>
  </g>
  <g id="hover-topright" transform="translate(879.80713,-713.58398)">
-  <path id="path3406" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"  d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 l -1,0 c 0,-0.55228 -0.44772,-1 -1,-1 l 0,-1 z"/>
-  <path id="path3408" style="opacity:1;fill:#505766;fill-opacity:1;stroke:none" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)"/>
+  <path id="path3406" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"  d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 l -1,0 c 0,-0.55228 -0.44772,-1 -1,-1 l 0,-1 z"/>
+  <path id="path3408" style="opacity:1;fill:#414857;fill-opacity:1;stroke:none" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)"/>
  </g>
  <g id="hover-bottomright" transform="translate(879.80713,-709.58399)">
-  <path id="path3412" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"  d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 l 0,1 z"/>
-  <path id="path3414" style="opacity:1;fill:#505766;fill-opacity:1;stroke:none" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)"/>
+  <path id="path3412" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"  d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 l -1,0 c 0,0.55228 -0.44772,1 -1,1 l 0,1 z"/>
+  <path id="path3414" style="opacity:1;fill:#414857;fill-opacity:1;stroke:none" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)"/>
  </g>
  <g id="hover-right" transform="matrix(1,0,0,1.666664,879.80713,-1249.9712)">
-  <rect id="rect3418" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.16"  width="1" height="21" x="662.81" y="789.58" transform="scale(-1,1)"/>
-  <rect id="rect3420" style="opacity:1;fill:#505766;fill-opacity:1;stroke:none" width="1" height="21" x="-664.81" y="789.58"/>
+  <rect id="rect3418" style="fill:#000000;fill-opacity:1;stroke:none;opacity:0.1"  width="1" height="21" x="662.81" y="789.58" transform="scale(-1,1)"/>
+  <rect id="rect3420" style="opacity:1;fill:#414857;fill-opacity:1;stroke:none" width="1" height="21" x="-664.81" y="789.58"/>
  </g>
- <rect id="hover-center" style="fill:#505766;fill-opacity:1;stroke:none;opacity:1"  width="105" height="35" x="110" y="66"/>
+ <rect id="hover-center" style="fill:#414857;fill-opacity:1;stroke:none;opacity:1"  width="105" height="35" x="110" y="66"/>
  <g id="focus-topleft" transform="translate(829.80716,-665.58398)">
   <path id="path3432" style="opacity:1;fill:#5294e2;stroke:none;fill-opacity:1"  d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 l 1,0 c 0,-0.55228 0.44772,-1 1,-1 l 0,-1 z"/>
   <path id="path3434" style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none" d="m 162,-159 a 2,2 0 0 1 -2,2 l 0,-2 z" transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)"/>
