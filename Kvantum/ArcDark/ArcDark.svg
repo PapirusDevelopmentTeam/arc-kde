@@ -1482,4 +1482,8 @@
  <rect id="menubaritem-normal" style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" width="30" height="10" x="680.28" y="155.17"/>
  <rect id="menubaritem-toggled" style="opacity:0.05;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" width="30" height="10" x="765.88" y="155.17"/>
  <rect id="menubaritem-pressed" style="opacity:1;fill:#5294e2;fill-opacity:1;fill-rule:evenodd;stroke:none" width="30" height="10" x="803.48" y="155.17"/>
+ <g id="button-default-indicator" style="stroke:none" transform="translate(-363.9397,-69.924619)">
+  <rect id="rect5404" style="opacity:0;fill:#7b7b7b" width="25" height="25" x="375" y="87.5"/>
+  <path id="path5406-3" style="opacity:0.00100002;stroke-width:0.935" d="m 396.25,86.25 -17.5,17.5 17.5,0 z"/>
+ </g>
 </svg>

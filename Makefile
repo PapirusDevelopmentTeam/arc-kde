@@ -20,8 +20,6 @@ install:
 uninstall:
 	-rm -rf $(DESTDIR)/usr/share/aurorae/themes/Arc
 	-rm -rf $(DESTDIR)/usr/share/aurorae/themes/Arc-Dark
-	-rm -rf $(DESTDIR)/usr/share/aurorae/themes/Arc-Dark-Transparent
-	-rm -rf $(DESTDIR)/usr/share/aurorae/themes/Arc-Transparent
 	-rm -r  $(DESTDIR)/usr/share/color-schemes/Arc.colors
 	-rm -r  $(DESTDIR)/usr/share/color-schemes/ArcDark.colors
 	-rm -r  $(DESTDIR)/usr/share/konsole/Arc.colorscheme
@@ -30,8 +28,7 @@ uninstall:
 	-rm -rf $(DESTDIR)/usr/share/konversation/themes/papirus-dark
 	-rm -rf $(DESTDIR)/usr/share/Kvantum/Arc
 	-rm -rf $(DESTDIR)/usr/share/Kvantum/ArcDark
-	-rm -rf $(DESTDIR)/usr/share/Kvantum/ArcDarkTransparent
-	-rm -rf $(DESTDIR)/usr/share/Kvantum/ArcTransparent
+	-rm -rf $(DESTDIR)/usr/share/Kvantum/ArcDarker
 	-rm -rf $(DESTDIR)/usr/share/plasma/desktoptheme/Arc-Color
 	-rm -rf $(DESTDIR)/usr/share/plasma/desktoptheme/Arc-Dark
 	-rm -rf $(DESTDIR)/usr/share/plasma/look-and-feel/com.github.varlesh.arc-dark

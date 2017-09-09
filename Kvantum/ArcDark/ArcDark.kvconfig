@@ -17,15 +17,15 @@ slider_handle_length=18
 textless_progressbar=true
 menubar_mouse_tracking=true
 slim_toolbars=false
-toolbutton_style=2
-x11drag=true
+toolbutton_style=1
+x11drag=menubar_and_primary_toolbar
 double_click=false
 translucent_windows=false
 blurring=false
 popup_blurring=true
-opaque=
+opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,vlc,smplayer,smplayer2,avidemux,avidemux2_qt4,avidemux3_qt4,avidemux3_qt5,kamoso,QtCreator,VirtualBox,trojita,dragon,digikam,qmplay2
 group_toolbar_buttons=false
-vertical_spin_indicators=true
+vertical_spin_indicators=false
 fill_rubberband=false
 spread_progressbar=true
 merge_menubar_with_toolbar=true
@@ -36,14 +36,26 @@ scroll_arrows=false
 iconless_pushbutton=true
 toolbar_icon_size=16
 combo_as_lineedit=true
-button_contents_shift=true
-groupbox_top_label=false
-inline_spin_indicators=false
+button_contents_shift=false
+groupbox_top_label=true
+inline_spin_indicators=true
 joined_inactive_tabs=true
 layout_spacing=2
 submenu_overlap=-1
 tooltip_delay=-1
+animate_states=false
 transient_scrollbar=true
+alt_mnemonic=true
+combo_menu=true
+layout_margin=4
+no_window_pattern=false
+respect_DE=true
+scroll_min_extent=36
+scrollable_menu=false
+scrollbar_in_view=false
+spin_button_width=16
+submenu_delay=250
+tree_branch_line=true
 
 [GeneralColors]
 window.color=#353945
@@ -95,7 +107,6 @@ frame=true
 
 [PanelButtonCommand]
 Interior=true
-indicator.size=0
 text.normal.color=#d3dae3
 text.focus.color=#d3dae3
 text.press.color=#d3dae3 
@@ -103,8 +114,12 @@ text.toggle.color=#d3dae3
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
-interior.element=tbutton
-frame.element=tbutton
+interior.element=button
+frame.element=button
+text.normal.color=#d3dae3
+text.focus.color=#d3dae3
+text.press.color=#d3dae3
+text.toggle.color=#d3dae3
 
 [DockTitle]
 inherits=PanelButtonCommand

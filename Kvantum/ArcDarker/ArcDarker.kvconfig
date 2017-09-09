@@ -109,7 +109,6 @@ frame=true
 
 [PanelButtonCommand]
 Interior=true
-indicator.size=0
 text.normal.color=#5c616c
 text.focus.color=#5c616c
 text.press.color=#ffffff 
@@ -366,7 +365,7 @@ frame.right=3
 [MenuItem]
 inherits=PanelButtonCommand
 interior.element=menuitem
-indicator.size=8
+indicator.element=marrow
 text.focus.color=#ffffff
 text.press.color=#ffffff
 
@@ -395,7 +394,7 @@ font.bold=true
 text.normal.color=#5c616c
 frame=true
 frame.top=1
-frame=bottom=1
+frame.bottom=1
 
 [TitleBar]
 inherits=PanelButtonCommand
@@ -432,7 +431,7 @@ transparent_ktitle_label=true
 transparent_menutitle=true
 respect_darkness=false
 kcapacitybar_as_progressbar=true
-force_size_grip=true
+force_size_grip=false
 iconless_pushbutton=true
 iconless_menu=false
 disabled_icon_opacity=100
