@@ -78,17 +78,8 @@ Packages in this section are not part of the official repositories. If you have 
 
 - Install [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for a more consistent and beautiful experience.
 
-- Fix the color of the menubar on Arc Dark GTK theme:
-
-  ```
-  sudo sh ~/.local/share/plasma/desktoptheme/Arc-Dark/fix-menubar.sh
-  ```
-
-  ![Screenshot](fix-menubar.png)
-
 ## Extras
 
-- [Firefox Theme](https://github.com/PapirusDevelopmentTeam/arc-kde/tree/master/extra/firefox) — patch for [Arc Dark Firefox Theme](https://github.com/horst3180/arc-firefox-theme#arc-dark-firefox)
 - [Telegram Themes](https://github.com/PapirusDevelopmentTeam/arc-kde/tree/master/extra/telegram) - Arc KDE & Arc Dark KDE themes for [Telegram](https://desktop.telegram.org)
 - [Nylas Skin](https://github.com/varlesh/Nylas-Arc-Dark-Theme) — Arc Dark theme for mail client [Nylas N1](https://github.com/nylas/nylas-mail)
 - [VLC Skin](https://github.com/varlesh/VLC-Arc-Dark) — Arc Dark skin for [VLC](http://www.videolan.org/vlc/)
@@ -100,7 +91,7 @@ If you like my project, you can donate at:
 
 <span class="paypal"><a href="https://www.paypal.me/varlesh" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
 
-<span class="Yandex.Money"><a href="http://yasobe.ru/na/varlesh#form_submit" title="Donate to this project using Yandex.Money"><img src="https://money.yandex.ru/img/ym_logo.gif" alt="Yandex.Money donate button" /></a></span>
+BTC: `1HwE62Zb8PyyY1XAR6Ykweix2ht8NAjvf5`
 
 ## License
 
