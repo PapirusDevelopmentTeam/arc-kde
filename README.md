@@ -76,7 +76,7 @@ Packages in this section are not part of the official repositories. If you have 
 
 - For better looking please use this pack with [Kvantum engine](https://github.com/tsujan/Kvantum/tree/master/Kvantum).
 
-  Run `kvantummanager` to choose and apply **Arc Dark Transparent** (or another) theme.
+  Run `kvantummanager` to choose and apply **Arc Darker** (or any other Arc) theme.
 
 - Install [Papirus icon theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) for a more consistent and beautiful experience.
 
