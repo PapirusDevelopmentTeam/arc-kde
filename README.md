@@ -63,10 +63,12 @@ Packages in this section are not part of the official repositories. If you have 
 
 | **Distro** | **Maintainer**    | **Package** |
 |:-----------|:------------------|:------------|
-| Arch Linux | Marcus Behrendt   | [arc-kde-git](https://aur.archlinux.org/packages/arc-kde-git/) <sup>AUR</sup> |
-| Arch Linux | Josip Ponjavic    | [arc-kde-git](https://software.opensuse.org/download.html?project=home:metakcahura&package=arc-kde-git) <sup>OBS [[link](https://build.opensuse.org/package/show/home:metakcahura/arc-kde-git)]</sub> |
-| Manjaro    | Nikola Yanev      | [arc-kde](http://download.tuxfamily.org/gericom/README.html) |
-| openSUSE   | Konstantin Voinov | [arc-kde](https://software.opensuse.org/download.html?project=home:kill_it&package=arc-kde) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/arc-kde)]</sub> |
+| Arch Linux | Bruno Pagani | [arc-kde](https://www.archlinux.org/packages/community/any/arc-kde/) |
+| Arch Linux | Marcus Behrendt | [arc-kde-git](https://aur.archlinux.org/packages/arc-kde-git/) <sup>AUR</sup> |
+| Manjaro | Nikola Yanev | [arc-kde](http://download.tuxfamily.org/gericom/README.html) |
+| openSUSE | Konstantin Voinov | [arc-kde](https://software.opensuse.org/download.html?project=home:kill_it&package=arc-kde) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/arc-kde)]</sub> |
+| openSUSE | Josip Ponjavic | [arc-kde-git](https://software.opensuse.org/download.html?project=home:metakcahura&package=arc-kde-git) <sup>OBS [[link](https://build.opensuse.org/package/show/home:metakcahura/arc-kde-git)]</sub> |
+
 
 **NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
 
