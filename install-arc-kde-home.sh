@@ -46,8 +46,8 @@ rm -rf ~/.local/share/plasma/desktoptheme/Arc-Color
 rm -rf ~/.local/share/plasma/look-and-feel/com.github.varlesh.arc-dark
 rm -rf ~/.local/share/wallpapers/Arc
 rm -rf ~/.local/share/wallpapers/Arc-Dark
-rm -rf ~/.local/share/yakuake/kns_skins/arc
-rm -rf ~/.local/share/yakuake/kns_skins/arc-dark
+rm -rf ~/.local/share/yakuake/skins/arc
+rm -rf ~/.local/share/yakuake/skins/arc-dark
 echo "=> Installing ..."
 mkdir -p ~/.local/share
 cp -R \

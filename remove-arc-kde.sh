@@ -59,8 +59,8 @@ rm -rf ~/.local/share/plasma/desktoptheme/Arc-Color
 rm -rf ~/.local/share/plasma/look-and-feel/com.github.varlesh.arc-dark
 rm -rf ~/.local/share/wallpapers/Arc
 rm -rf ~/.local/share/wallpapers/Arc-Dark
-rm -rf ~/.local/share/yakuake/kns_skins/arc
-rm -rf ~/.local/share/yakuake/kns_skins/arc-dark
+rm -rf ~/.local/share/yakuake/skins/arc
+rm -rf ~/.local/share/yakuake/skins/arc-dark
 # Clean up
 rm -f ~/.cache/plasma-svgelements-Arc*
 rm -f ~/.cache/plasma_theme_Arc*.kcache

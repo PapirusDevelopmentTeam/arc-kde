@@ -57,12 +57,8 @@ sudo cp -R \
   "$temp_dir/$gh_repo-master/plasma" \
   "$temp_dir/$gh_repo-master/wallpapers" \
   "$temp_dir/$gh_repo-master/Kvantum" \
+  "$temp_dir/$gh_repo-master/yakuake" \
   /usr/share/
-sudo mkdir -p /usr/share/yakuake/skins/
-sudo cp -R \
-  "$temp_dir/$gh_repo-master/yakuake/kns_skins/arc" \
-  "$temp_dir/$gh_repo-master/yakuake/kns_skins/arc-dark" \
-  /usr/share/yakuake/skins/
 echo "=> Clearing cache ..."
 rm -rf "/tmp/$gh_repo.tar.gz" "$temp_dir" \
   ~/.cache/plasma-svgelements-Arc* \

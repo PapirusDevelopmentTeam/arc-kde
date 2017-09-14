@@ -12,12 +12,8 @@ install:
 		Kvantum \
 		plasma \
 		wallpapers \
+		yakuake \
 		$(DESTDIR)$(PREFIX)/share
-	mkdir -p $(DESTDIR)$(PREFIX)/share/yakuake/skins
-	cp -R \
-		yakuake/kns_skins/arc \
-		yakuake/kns_skins/arc-dark \
-		$(DESTDIR)$(PREFIX)/share/yakuake/skins
 
 uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Arc
