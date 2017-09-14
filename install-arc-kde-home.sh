@@ -48,6 +48,9 @@ rm -rf ~/.local/share/wallpapers/Arc
 rm -rf ~/.local/share/wallpapers/Arc-Dark
 rm -rf ~/.local/share/yakuake/skins/arc
 rm -rf ~/.local/share/yakuake/skins/arc-dark
+# Remove from old location
+rm -rf ~/.local/share/yakuake/kns_skins/arc
+rm -rf ~/.local/share/yakuake/kns_skins/arc-dark
 echo "=> Installing ..."
 mkdir -p ~/.local/share
 cp -R \
