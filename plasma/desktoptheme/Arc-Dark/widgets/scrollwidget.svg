@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg2396" width="128" height="128" version="1">
  <g id="layer1">
   <g id="border-top" transform="matrix(0.1444413,0,0,1,7.6889401,-99.922096)">
-   <rect id="rect2419" style="opacity:0.2;fill:#000000;fill-opacity:1"  width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
+   <rect id="rect2419" style="opacity:0.01;fill:#000000;fill-opacity:1"  width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
    <rect id="rect3201" style="opacity:0;fill:#000000;fill-opacity:1;stroke:none" width="747.709" height="1" x="16" y="-110" transform="scale(1,-1)"/>
   </g>
   <rect id="border-center" style="opacity:0.6;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:20;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" width="64.25" height="61.5" x="33.5" y="33.5"/>
@@ -10,15 +10,15 @@
   <rect id="border-topright" style="opacity:0.6;fill:#ffffff;fill-opacity:0;stroke:none;stroke-width:20;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" width="8.582" height="9.211" x="-126.13" y="-11.23" transform="scale(-1,-1)"/>
   <rect id="border-bottomright" style="opacity:0.59999999999999998;fill:#8b8b8b;fill-opacity:0;stroke:none;stroke-width:20;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" width="8.582" height="9.211" x="-126.13" y="-126.84" transform="scale(-1,-1)"/>
   <g id="border-left" transform="matrix(0,-0.1444413,1,0,-100.15432,123.01818)">
-   <rect id="rect4096" style="opacity:0.2;fill:#000000;fill-opacity:1"  width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
+   <rect id="rect4096" style="opacity:0.01;fill:#000000;fill-opacity:1"  width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
    <rect id="rect4098" style="opacity:0;fill:#000000;fill-opacity:1;stroke:none" width="747.709" height="1" x="16" y="-110" transform="scale(1,-1)"/>
   </g>
   <g id="border-bottom" transform="matrix(-0.1444413,0,0,-1,118.89686,231.56855)">
-   <rect id="rect4104" style="opacity:0.2;fill:#000000;fill-opacity:1"  width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
+   <rect id="rect4104" style="opacity:0.01;fill:#000000;fill-opacity:1"  width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
    <rect id="rect4106" style="opacity:0;fill:#000000;fill-opacity:1;stroke:none" width="747.709" height="1" x="16" y="-110" transform="scale(1,-1)"/>
   </g>
   <g id="border-right" transform="matrix(0,0.1444413,-1,0,227.80078,12.163813)">
-   <rect id="rect4112" style="opacity:0.2;fill:#000000;fill-opacity:1"  width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
+   <rect id="rect4112" style="opacity:0.01;fill:#000000;fill-opacity:1"  width="747.709" height="1" x="16" y="-109" transform="scale(1,-1)"/>
    <rect id="rect4114" style="opacity:0;fill:#000000;fill-opacity:1;stroke:none" width="747.709" height="1" x="16" y="-110" transform="scale(1,-1)"/>
   </g>
  </g>
