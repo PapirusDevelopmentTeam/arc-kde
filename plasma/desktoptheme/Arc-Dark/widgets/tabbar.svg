@@ -1,9 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="744.094" height="1052.362" version="1.1">
- <defs id="defs4">
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#31363b; } .ColorScheme-Background{ color:#eff0f1; } .ColorScheme-ViewText { color:#31363b; } .ColorScheme-ViewBackground{ color:#fcfcfc; } .ColorScheme-ViewHover { color:#3daee9; } .ColorScheme-ViewFocus{ color:#3daee9; } .ColorScheme-ButtonText { color:#31363b; } .ColorScheme-ButtonBackground{ color:#eff0f1; } .ColorScheme-ButtonHover { color:#3daee9; } .ColorScheme-ButtonFocus{ color:#3daee9; }
-  </style>
- </defs>
  <g id="layer1">
   <rect id="hint-tile-center" style="opacity:0.875;fill:#008000;fill-opacity:1;stroke:none" width="41.363" height="41.121" x="-233.82" y="467.13"/>
   <g id="south-active-tab-top" transform="translate(236.00001,71.99998)">
