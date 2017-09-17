@@ -35,14 +35,14 @@ Image {
         id: topRect
         anchors.horizontalCenter: parent.horizontalCenter
         y: root.height
-        source: "images/rectangle.png"
+        source: "images/rectangle.svg"
         Image {
-            source: "images/kde.png"
+            source: "images/kde.svg"
             anchors.centerIn: parent
         }
         Rectangle {
-            radius: 3
-            color: "#292d3d"
+            radius: 4
+            color: "#252a35"
             anchors {
                 bottom: parent.bottom
                 bottomMargin: 50
@@ -78,7 +78,7 @@ Image {
                 property: "y"
                 target: topRect
                 to: root.height / 3
-                duration: 1000
+                duration: 1500
                 easing.type: Easing.InOutBack
                 easing.overshoot: 1.0
             }
