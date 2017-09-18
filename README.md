@@ -24,15 +24,15 @@ In this repository you'll find:
 
 ### Ubuntu and derivatives
 
-You can install arc-kde from our official [PPA](https://launchpad.net/~papirus/+archive/ubuntu/arc-kde):
+You can install arc-kde from our official [PPA](https://launchpad.net/~papirus/+archive/ubuntu/papirus):
 
 ```
-sudo add-apt-repository ppa:papirus/arc-kde
+sudo add-apt-repository ppa:papirus/papirus
 sudo apt-get update
-sudo apt-get install arc-kde
+sudo apt-get install --install-recommends arc-kde
 ```
 
-or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ubuntu/arc-kde/+packages).
+or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ubuntu/papirus/+packages?field.name_filter=arc-kde).
 
 ### Arc KDE Installer
 
