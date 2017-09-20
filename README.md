@@ -67,6 +67,7 @@ Packages in this section are not part of the official repositories. If you have 
 | Arch Linux | Marcus Behrendt | [arc-kde-git](https://aur.archlinux.org/packages/arc-kde-git/) <sup>AUR</sup> |
 | Manjaro | Nikola Yanev | [arc-kde](http://download.tuxfamily.org/gericom/README.html) |
 | openSUSE | Konstantin Voinov | [arc-kde](https://software.opensuse.org/download.html?project=home:kill_it&package=arc-kde) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/arc-kde)]</sub> |
+| Arch Linux | Piotr Górski   | [arc-kde-git](https://github.com/sirlucjan/archlinux-plasma-papirus/tree/master/arc-kde-git/) <sup>GIT</sup> |
 
 **<sup>[1]</sup>** This package does not contain Konversation themes.
 
