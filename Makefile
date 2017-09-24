@@ -1,19 +1,15 @@
 PREFIX ?= /usr
+IGNORE ?=
+THEMES ?= aurorae color-schemes konsole konversation Kvantum plasma wallpapers yakuake
+
+# excludes IGNORE from THEMES list
+THEMES := $(filter-out $(IGNORE), $(THEMES))
 
 all:
 
 install:
 	mkdir -p $(DESTDIR)$(PREFIX)/share
-	cp -R \
-		aurorae \
-		color-schemes \
-		konsole \
-		konversation \
-		Kvantum \
-		plasma \
-		wallpapers \
-		yakuake \
-		$(DESTDIR)$(PREFIX)/share
+	cp -R $(THEMES) $(DESTDIR)$(PREFIX)/share
 
 uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Arc
@@ -39,11 +35,12 @@ _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
 	@echo $(VERSION)
 
-push:
-	git push origin
+dist: _get_version
+	git archive --format=tar.gz -o $(notdir $(CURDIR))-$(VERSION).tar.gz master -- $(THEMES)
 
 release: _get_version push
 	git tag -f $(VERSION)
+	git push origin
 	git push origin --tags
 
 undo_release: _get_version
@@ -51,4 +48,4 @@ undo_release: _get_version
 	-git push --delete origin $(VERSION)
 
 
-.PHONY: all install uninstall _get_version push release undo_release
+.PHONY: all install uninstall _get_version dist release undo_release
