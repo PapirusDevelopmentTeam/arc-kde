@@ -1,3 +1,6 @@
+# GNU make is required to run this file. To install on *BSD, run:
+#   gmake PREFIX=/usr/local install
+
 PREFIX ?= /usr
 IGNORE ?=
 THEMES ?= aurorae color-schemes konsole konversation Kvantum plasma wallpapers yakuake
@@ -49,3 +52,8 @@ undo_release: _get_version
 
 
 .PHONY: all install uninstall _get_version dist release undo_release
+
+# .BEGIN is ignored by GNU make so we can use it as a guard
+.BEGIN:
+	@head -3 Makefile
+	@false
