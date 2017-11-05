@@ -1,24 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg3613" width="32" height="32" version="1.1">
- <defs id="defs3615">
- </defs>
  <g id="applications-other">
-  <rect id="rect2994" style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none" width="32" height="32" x="0" y="0"/>
+  <rect id="rect2994" width="32" height="32" x="0" y="0" style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none"/>
   <g id="g5994">
-   <path id="rect4203-0" style="fill:#6993c4" d="m 29.9998,26.611 0,-22.222 C 29.9998,3.6194 29.3758,3 28.5998,3 l -25.2,0 c -0.7756,0 -1.4,0.6194 -1.4,1.3889 l 0,22.222 c 0,0.77 0.6244,1.389 1.4,1.389 l 25.2,0 c 0.7756,0 1.4,-0.61944 1.4,-1.3889 z"/>
-   <rect id="rect4577" style="fill:#000000;fill-opacity:1;opacity:0.2" width="13" height="2" x="12" y="9" rx="1" ry="1"/>
-   <rect id="rect4581" style="fill:#000000;fill-opacity:1;opacity:0.2" width="13" height="2" x="12" y="16" rx="1" ry="1"/>
-   <circle id="circle4583" style="fill:#000000;fill-opacity:1;opacity:0.2" cx="7.996" cy="17" r="1"/>
-   <rect id="rect4587" style="fill:#000000;fill-opacity:1;opacity:0.2" width="13" height="2" x="12" y="22" rx="1" ry="1"/>
-   <circle id="circle4589" style="fill:#000000;fill-opacity:1;opacity:0.2" cx="7.996" cy="23" r="1"/>
-   <rect id="rect4599" style="fill:#ffdd73" width="13" height="2" x="12" y="8" rx="1" ry="1"/>
-   <rect id="rect4601" style="fill:#ffdd73" width="13" height="2" x="12" y="15" rx="1" ry="1"/>
-   <circle id="circle4605" style="fill:#ffdd73" cx="7.996" cy="16" r="1"/>
-   <rect id="rect4603" style="fill:#ffdd73" width="13" height="2" x="12" y="21" rx="1" ry="1"/>
-   <circle id="circle4607" style="fill:#ffdd73" cx="7.996" cy="22" r="1"/>
-   <path id="path4505" style="opacity:0.2" d="m 1.9998,26.611 0,1 c 0,0.77 0.6248,1.389 1.4004,1.389 l 25.2,0 c 0.775,0 1.4,-0.619 1.4,-1.389 l 0,-1 c 0,0.77 -0.625,1.389 -1.4,1.389 l -25.2,0 c -0.7752,0 -1.4,-0.619 -1.4,-1.389 z"/>
-   <path id="path4566" style="opacity:0.2;fill:#d3dae3" d="M 3.4002,3 C 2.6246,3 1.9998,3.6192 1.9998,4.3887 l 0,1 C 1.9998,4.6192 2.6246,4 3.4002,4 l 25.2,0 c 0.776,0 1.4,0.6191 1.4,1.3887 l 0,-1 C 30.0002,3.6191 29.3762,3 28.6002,3 l -25.2,0 z"/>
-   <circle id="circle5990" style="fill:#000000;fill-opacity:1;opacity:0.2" cx="7.996" cy="10" r="1"/>
-   <circle id="circle5992" style="fill:#ffdd73" cx="7.996" cy="9" r="1"/>
+   <path id="rect4203-0" d="m 29.9998,26.611 0,-22.222 C 29.9998,3.6194 29.3758,3 28.5998,3 l -25.2,0 c -0.7756,0 -1.4,0.6194 -1.4,1.3889 l 0,22.222 c 0,0.77 0.6244,1.389 1.4,1.389 l 25.2,0 c 0.7756,0 1.4,-0.61944 1.4,-1.3889 z" style="fill:#4789d2;fill-opacity:1"/>
+   <rect id="rect4577" width="13" height="2" x="12" y="9" rx="1" ry="1" style="fill:#000000;fill-opacity:1;opacity:0.2"/>
+   <rect id="rect4581" width="13" height="2" x="12" y="16" rx="1" ry="1" style="fill:#000000;fill-opacity:1;opacity:0.2"/>
+   <circle id="circle4583" cx="7.996" cy="17" r="1" style="fill:#000000;fill-opacity:1;opacity:0.2"/>
+   <rect id="rect4587" width="13" height="2" x="12" y="22" rx="1" ry="1" style="fill:#000000;fill-opacity:1;opacity:0.2"/>
+   <circle id="circle4589" cx="7.996" cy="23" r="1" style="fill:#000000;fill-opacity:1;opacity:0.2"/>
+   <rect id="rect4599" width="13" height="2" x="12" y="8" rx="1" ry="1" style="fill:#ffdd73"/>
+   <rect id="rect4601" width="13" height="2" x="12" y="15" rx="1" ry="1" style="fill:#ffdd73"/>
+   <circle id="circle4605" cx="7.996" cy="16" r="1" style="fill:#ffdd73"/>
+   <rect id="rect4603" width="13" height="2" x="12" y="21" rx="1" ry="1" style="fill:#ffdd73"/>
+   <circle id="circle4607" cx="7.996" cy="22" r="1" style="fill:#ffdd73"/>
+   <path id="path4505" d="m 1.9998,26.611 0,1 c 0,0.77 0.6248,1.389 1.4004,1.389 l 25.2,0 c 0.775,0 1.4,-0.619 1.4,-1.389 l 0,-1 c 0,0.77 -0.625,1.389 -1.4,1.389 l -25.2,0 c -0.7752,0 -1.4,-0.619 -1.4,-1.389 z" style="opacity:0.2"/>
+   <path id="path4566" d="M 3.4002,3 C 2.6246,3 1.9998,3.6192 1.9998,4.3887 l 0,1 C 1.9998,4.6192 2.6246,4 3.4002,4 l 25.2,0 c 0.776,0 1.4,0.6191 1.4,1.3887 l 0,-1 C 30.0002,3.6191 29.3762,3 28.6002,3 l -25.2,0 z" style="opacity:0.2;fill:#d3dae3"/>
+   <circle id="circle5990" cx="7.996" cy="10" r="1" style="fill:#000000;fill-opacity:1;opacity:0.2"/>
+   <circle id="circle5992" cx="7.996" cy="9" r="1" style="fill:#ffdd73"/>
   </g>
  </g>
 </svg>

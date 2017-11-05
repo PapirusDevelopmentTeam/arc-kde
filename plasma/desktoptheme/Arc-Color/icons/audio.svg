@@ -1,29 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg7384" style="enable-background:new" width="22" height="22" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg7384" width="22" height="22" version="1.1" style="enable-background:new">
  <defs id="defs8">
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
  </defs>
  <g id="audio-volume-muted" transform="translate(-325.0004,419)">
-  <path id="rect4182" style="opacity:0.001;fill:currentColor" d="m 325.0004,-419 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z"/>
-  <path id="path5105" opacity=".3" style="fill:currentColor" class="ColorScheme-Text" d="m 335.0004,-416 -5,5 -3,0 0,6 3,0 5,5 z m 2,0 0,2 c 2.86838,0.84571 5,3.06286 5,6 0,2.93714 -2.13163,5.15429 -5,6 l 0,2 c 3.89455,-0.89143 7,-4.11429 7,-8 0,-3.88571 -3.10545,-7.10857 -7,-8 z m 0,4 0,8 c 0,0 3.0002,-1 3,-4 -2e-4,-3 -3,-4 -3,-4 z"/>
+  <path id="rect4182" d="m 325.0004,-419 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z" style="opacity:0.001;fill:currentColor"/>
+  <path id="path5105" opacity=".3" class="ColorScheme-Text" d="m 335.0004,-416 -5,5 -3,0 0,6 3,0 5,5 z m 2,0 0,2 c 2.86838,0.84571 5,3.06286 5,6 0,2.93714 -2.13163,5.15429 -5,6 l 0,2 c 3.89455,-0.89143 7,-4.11429 7,-8 0,-3.88571 -3.10545,-7.10857 -7,-8 z m 0,4 0,8 c 0,0 3.0002,-1 3,-4 -2e-4,-3 -3,-4 -3,-4 z" style="fill:currentColor"/>
  </g>
  <g id="audio-volume-low" transform="translate(-300.0004,419)">
-  <path id="path4176" style="opacity:0.001;fill:currentColor" d="m 325.0004,-419 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z"/>
-  <path id="path4196" opacity="1" style="fill:currentColor" class="ColorScheme-Text" d="m 335.0004,-416 -5,5 -3,0 0,6 3,0 5,5 z"/>
-  <path id="path4194" opacity=".3" style="fill:currentColor" class="ColorScheme-Text" d="m 337.0004,-416 0,2 c 2.86838,0.84571 5,3.06286 5,6 0,2.93714 -2.13163,5.15429 -5,6 l 0,2 c 3.89455,-0.89143 7,-4.11429 7,-8 0,-3.88571 -3.10545,-7.10857 -7,-8 z"/>
-  <path id="path4178" opacity=".3" style="fill:currentColor" class="ColorScheme-Text" d="m 337.0004,-412 0,8 c 0,0 3.0002,-1 3,-4 -2e-4,-3 -3,-4 -3,-4 z"/>
+  <path id="path4176" d="m 325.0004,-419 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z" style="opacity:0.001;fill:currentColor"/>
+  <path id="path4196" opacity="1" class="ColorScheme-Text" d="m 335.0004,-416 -5,5 -3,0 0,6 3,0 5,5 z" style="fill:currentColor"/>
+  <path id="path4194" opacity=".3" class="ColorScheme-Text" d="m 337.0004,-416 0,2 c 2.86838,0.84571 5,3.06286 5,6 0,2.93714 -2.13163,5.15429 -5,6 l 0,2 c 3.89455,-0.89143 7,-4.11429 7,-8 0,-3.88571 -3.10545,-7.10857 -7,-8 z" style="fill:currentColor"/>
+  <path id="path4178" opacity=".3" class="ColorScheme-Text" d="m 337.0004,-412 0,8 c 0,0 3.0002,-1 3,-4 -2e-4,-3 -3,-4 -3,-4 z" style="fill:currentColor"/>
  </g>
  <g id="audio-volume-medium" transform="translate(-275.0004,419)">
-  <path id="path4182" style="opacity:0.001;fill:currentColor" d="m 325.0004,-419 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z"/>
-  <path id="path4202" opacity="1" style="fill:currentColor" class="ColorScheme-Text" d="m 335.0004,-416 -5,5 -3,0 0,6 3,0 5,5 z"/>
-  <path id="path4200" opacity=".3" style="fill:currentColor" class="ColorScheme-Text" d="m 337.0004,-416 0,2 c 2.86838,0.84571 5,3.06286 5,6 0,2.93714 -2.13163,5.15429 -5,6 l 0,2 c 3.89455,-0.89143 7,-4.11429 7,-8 0,-3.88571 -3.10545,-7.10857 -7,-8 z"/>
-  <path id="path4184" opacity="1" style="fill:currentColor" class="ColorScheme-Text" d="m 337.0004,-412 0,8 c 0,0 3.0002,-1 3,-4 -2e-4,-3 -3,-4 -3,-4 z"/>
+  <path id="path4182" d="m 325.0004,-419 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z" style="opacity:0.001;fill:currentColor"/>
+  <path id="path4202" opacity="1" class="ColorScheme-Text" d="m 335.0004,-416 -5,5 -3,0 0,6 3,0 5,5 z" style="fill:currentColor"/>
+  <path id="path4200" opacity=".3" class="ColorScheme-Text" d="m 337.0004,-416 0,2 c 2.86838,0.84571 5,3.06286 5,6 0,2.93714 -2.13163,5.15429 -5,6 l 0,2 c 3.89455,-0.89143 7,-4.11429 7,-8 0,-3.88571 -3.10545,-7.10857 -7,-8 z" style="fill:currentColor"/>
+  <path id="path4184" opacity="1" class="ColorScheme-Text" d="m 337.0004,-412 0,8 c 0,0 3.0002,-1 3,-4 -2e-4,-3 -3,-4 -3,-4 z" style="fill:currentColor"/>
  </g>
  <g id="audio-volume-high" transform="translate(-250.0004,419)">
-  <path id="path4188" style="opacity:0.001;fill:currentColor" d="m 325.0004,-419 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z"/>
-  <path id="path4208" opacity="1" style="fill:currentColor" class="ColorScheme-Text" d="m 335.0004,-416 -5,5 -3,0 0,6 3,0 5,5 z"/>
-  <path id="path4206" opacity="1" style="fill:currentColor" class="ColorScheme-Text" d="m 337.0004,-416 0,2 c 2.86838,0.84571 5,3.06286 5,6 0,2.93714 -2.13163,5.15429 -5,6 l 0,2 c 3.89455,-0.89143 7,-4.11429 7,-8 0,-3.88571 -3.10545,-7.10857 -7,-8 z"/>
-  <path id="path4190" opacity="1" style="fill:currentColor" class="ColorScheme-Text" d="m 337.0004,-412 0,8 c 0,0 3.0002,-1 3,-4 -2e-4,-3 -3,-4 -3,-4 z"/>
+  <path id="path4188" d="m 325.0004,-419 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z" style="opacity:0.001;fill:currentColor"/>
+  <path id="path4208" opacity="1" class="ColorScheme-Text" d="m 335.0004,-416 -5,5 -3,0 0,6 3,0 5,5 z" style="fill:currentColor"/>
+  <path id="path4206" opacity="1" class="ColorScheme-Text" d="m 337.0004,-416 0,2 c 2.86838,0.84571 5,3.06286 5,6 0,2.93714 -2.13163,5.15429 -5,6 l 0,2 c 3.89455,-0.89143 7,-4.11429 7,-8 0,-3.88571 -3.10545,-7.10857 -7,-8 z" style="fill:currentColor"/>
+  <path id="path4190" opacity="1" class="ColorScheme-Text" d="m 337.0004,-412 0,8 c 0,0 3.0002,-1 3,-4 -2e-4,-3 -3,-4 -3,-4 z" style="fill:currentColor"/>
  </g>
 </svg>

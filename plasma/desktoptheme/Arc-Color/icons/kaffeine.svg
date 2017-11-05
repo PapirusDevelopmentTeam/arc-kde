@@ -5,7 +5,7 @@
   </style>
  </defs>
  <g id="kaffeine">
-  <path id="rect4148" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;" d="m 0,0 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 L 0,22 c 0,0 0,0 0,0 L 0,0 c 0,0 0,0 0,0 z"/>
-  <path style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;" class="ColorScheme-Text" d="M 3.1992188,3 C 1.9992188,3 2,4.2304688 2,4.2304688 L 2,17.769531 C 2,17.769531 1.9992187,19 3.1992188,19 L 18.800781,19 C 18.800781,19 20,19.000301 20,17.769531 L 20,4.2304688 C 20,2.9996987 18.800781,3 18.800781,3 L 3.1992188,3 Z M 8,6 12,8.5 16,11 12,13.5 8,16 8,11 8,6 Z"/>
+  <path id="rect4148" d="m 0,0 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 L 0,22 c 0,0 0,0 0,0 L 0,0 c 0,0 0,0 0,0 z" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <path style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text" d="M 3.1992188,3 C 1.9992188,3 2,4.2304688 2,4.2304688 L 2,17.769531 C 2,17.769531 1.9992187,19 3.1992188,19 L 18.800781,19 C 18.800781,19 20,19.000301 20,17.769531 L 20,4.2304688 C 20,2.9996987 18.800781,3 18.800781,3 L 3.1992188,3 Z M 8,6 12,8.5 16,11 12,13.5 8,16 8,11 8,6 Z"/>
  </g>
 </svg>

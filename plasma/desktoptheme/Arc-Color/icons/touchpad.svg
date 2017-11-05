@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg7384" style="enable-background:new" width="22" height="22" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg7384" width="22" height="22" version="1.1" style="enable-background:new">
  <defs id="defs7386">
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
  </defs>
- <g id="touchpad_enabled" style="display:inline;filter:url(#filter7554);enable-background:new" transform="translate(-425.0002,165.00336)">
-  <path id="rect4148" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 425.0002,-165.00336 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z"/>
-  <path id="path5073" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text" d="m 428.19942,-162.00336 c -1.2,0 -1.19922,1.23047 -1.19922,1.23047 l 0,13.53906 c 0,0 -7.8e-4,1.23047 1.19922,1.23047 l 15.60156,0 c 0,0 1.19922,3e-4 1.19922,-1.23047 l 0,-13.53906 c 0,-1.23077 -1.19922,-1.23047 -1.19922,-1.23047 l -15.60156,0 z m 12.80078,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m -12,3 6,0 0,3 -6,0 0,-3 z m 8,0 6,0 0,3 -6,0 0,-3 z"/>
+ <g id="touchpad_enabled" transform="translate(-425.0002,165.00336)" style="display:inline;filter:url(#filter7554);enable-background:new">
+  <path id="rect4148" d="m 425.0002,-165.00336 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <path id="path5073" class="ColorScheme-Text" d="m 428.19942,-162.00336 c -1.2,0 -1.19922,1.23047 -1.19922,1.23047 l 0,13.53906 c 0,0 -7.8e-4,1.23047 1.19922,1.23047 l 15.60156,0 c 0,0 1.19922,3e-4 1.19922,-1.23047 l 0,-13.53906 c 0,-1.23077 -1.19922,-1.23047 -1.19922,-1.23047 l -15.60156,0 z m 12.80078,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m -12,3 6,0 0,3 -6,0 0,-3 z m 8,0 6,0 0,3 -6,0 0,-3 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"/>
  </g>
- <g id="touchpad_disabled" style="display:inline;filter:url(#filter7554);enable-background:new" transform="translate(-425.0002,165.00336)">
-  <path id="path4172" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 447.0002,-165.00336 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z"/>
-  <path id="222" style="opacity:0.3;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text" d="m 450.19942,-162.00336 c -1.2,0 -1.19922,1.23047 -1.19922,1.23047 l 0,13.53906 c 0,0 -7.8e-4,1.23047 1.19922,1.23047 l 15.60156,0 c 0,0 1.19922,3e-4 1.19922,-1.23047 l 0,-13.53906 c 0,-1.23077 -1.19922,-1.23047 -1.19922,-1.23047 l -15.60156,0 z m 12.80078,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m -12,3 6,0 0,3 -6,0 0,-3 z m 8,0 6,0 0,3 -6,0 0,-3 z"/>
+ <g id="touchpad_disabled" transform="translate(-425.0002,165.00336)" style="display:inline;filter:url(#filter7554);enable-background:new">
+  <path id="path4172" d="m 447.0002,-165.00336 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <path id="222" class="ColorScheme-Text" d="m 450.19942,-162.00336 c -1.2,0 -1.19922,1.23047 -1.19922,1.23047 l 0,13.53906 c 0,0 -7.8e-4,1.23047 1.19922,1.23047 l 15.60156,0 c 0,0 1.19922,3e-4 1.19922,-1.23047 l 0,-13.53906 c 0,-1.23077 -1.19922,-1.23047 -1.19922,-1.23047 l -15.60156,0 z m 12.80078,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m 0,2 2,0 0,1 -2,0 0,-1 z m -12,3 6,0 0,3 -6,0 0,-3 z m 8,0 6,0 0,3 -6,0 0,-3 z" style="opacity:0.3;fill:currentColor;fill-opacity:1;stroke:none"/>
  </g>
 </svg>

@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg4168" width="55" height="32" version="1.1" viewBox="0 0 55 32">
-    <defs id="defs4157">
+ <defs id="defs4157">
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
  </defs>
- <g id="22-22-plasmavault" style="enable-background:new" transform="translate(-347,267)">
-  <rect id="rect4192" style="opacity:0;fill:#2b0000;fill-opacity:0.40392157;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" width="22" height="22" x="347" y="-257"/>
-  <path id="path5975" class="ColorScheme-Text" style="fill:currentColor;display:inline;overflow:visible;visibility:visible;opacity:1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" d="m 357.99758,-254.00336 c -5.00262,-0.003 -4.99999,4.64286 -4.99999,4.64286 l 0,2.35714 -0.83333,0 c -0.64633,0 -1.16667,0.36686 -1.16667,1 l 0,6.85714 c 0,0.63315 0.52034,1.14286 1.16667,1.14286 l 11.66666,0 c 0.64633,0 1.16667,-0.50971 1.16667,-1.14286 l 0,-6.85714 c 0,-0.63314 -0.52963,-0.89079 -1.16667,-1 l -0.83333,0 0,-2.35714 c 0,0 0.003,-4.6395 -5.00001,-4.64286 z m 0,3 c 2.00262,-0.003 2.00001,1.57143 2.00001,1.57143 l 0,2.42857 -4,0 0,-2.42857 c 0,0 0.003,-1.56807 1.99999,-1.57143 z"/>
+ <g id="22-22-plasmavault" transform="translate(-347,267)" style="enable-background:new">
+  <rect id="rect4192" width="22" height="22" x="347" y="-257" style="opacity:0;fill:#2b0000;fill-opacity:0.40392157;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <path id="path5975" class="ColorScheme-Text" d="m 357.99758,-254.00336 c -5.00262,-0.003 -4.99999,4.64286 -4.99999,4.64286 l 0,2.35714 -0.83333,0 c -0.64633,0 -1.16667,0.36686 -1.16667,1 l 0,6.85714 c 0,0.63315 0.52034,1.14286 1.16667,1.14286 l 11.66666,0 c 0.64633,0 1.16667,-0.50971 1.16667,-1.14286 l 0,-6.85714 c 0,-0.63314 -0.52963,-0.89079 -1.16667,-1 l -0.83333,0 0,-2.35714 c 0,0 0.003,-4.6395 -5.00001,-4.64286 z m 0,3 c 2.00262,-0.003 2.00001,1.57143 2.00001,1.57143 l 0,2.42857 -4,0 0,-2.42857 c 0,0 0.003,-1.56807 1.99999,-1.57143 z" style="fill:currentColor;display:inline;overflow:visible;visibility:visible;opacity:1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"/>
  </g>
  <g id="plasmavault" transform="translate(23,0)">
-  <rect id="rect4187" style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" width="32" height="32" x="0" y="0"/>
-  <path id="path4" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1" d="m 39,2 c -4.432,0 -8,3.568 -8,8 l 0,3 -1.599609,0 C 28.624791,13 28,13.624791 28,14.400391 l 0,14.199218 C 28,29.375209 28.624791,30 29.400391,30 l 19.199218,0 C 49.375209,30 50,29.375209 50,28.599609 L 50,14.400391 C 50,13.624791 49.375209,13 48.599609,13 L 47,13 47,10 C 47,5.568 43.432,2 39,2 Z m 0,3 c 2.77,0 5,2.23 5,5 l 0,3 -10,0 0,-3 c 0,-2.77 2.23,-5 5,-5 z" transform="translate(-23,0)"/>
+  <rect id="rect4187" width="32" height="32" x="0" y="0" style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <path id="path4" class="ColorScheme-Text" d="m 39,2 c -4.432,0 -8,3.568 -8,8 l 0,3 -1.599609,0 C 28.624791,13 28,13.624791 28,14.400391 l 0,14.199218 C 28,29.375209 28.624791,30 29.400391,30 l 19.199218,0 C 49.375209,30 50,29.375209 50,28.599609 L 50,14.400391 C 50,13.624791 49.375209,13 48.599609,13 L 47,13 47,10 C 47,5.568 43.432,2 39,2 Z m 0,3 c 2.77,0 5,2.23 5,5 l 0,3 -10,0 0,-3 c 0,-2.77 2.23,-5 5,-5 z" transform="translate(-23,0)" style="fill:currentColor;fill-opacity:1"/>
  </g>
 </svg>

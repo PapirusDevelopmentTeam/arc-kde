@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg7384" style="enable-background:new" width="22" height="22" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" id="svg7384" width="22" height="22" version="1.1" style="enable-background:new">
  <defs id="defs7386">
   <style id="current-color-scheme" type="text/css">
    .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
  </defs>
  <g id="qbittorrent" transform="translate(-504.00018,-200)">
-  <path id="rect4152" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" d="m 504.00018,200 22,0 0,22 -22,0 z"/>
-  <path id="path4230" style="opacity:1;fill:currentColor;fill-opacity:1" class="ColorScheme-Text" d="m 515.00018,203 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 1,2 1,0 0,4.50391 a 2.5,2.5 0 0 1 1.5,-0.50391 2.5,2.5 0 0 1 2.5,2.5 2.5,2.5 0 0 1 -2.5,2.5 2.5,2.5 0 0 1 -1.5,-0.50195 l 0,0.50195 -1,0 0,-2.5 0,-6.5 z m -4.5,4 a 2.5,2.5 0 0 1 1.5,0.50195 l 0,-0.50195 1,0 0,2.5 0,6.5 -1,0 0,-4.50391 a 2.5,2.5 0 0 1 -1.5,0.50391 2.5,2.5 0 0 1 -2.5,-2.5 2.5,2.5 0 0 1 2.5,-2.5 z m 0,1 a 1.5,1.5 0 0 0 -1.5,1.5 1.5,1.5 0 0 0 1.5,1.5 1.5,1.5 0 0 0 1.5,-1.5 1.5,1.5 0 0 0 -1.5,-1.5 z m 7,0 a 1.5,1.5 0 0 0 -1.5,1.5 1.5,1.5 0 0 0 1.5,1.5 1.5,1.5 0 0 0 1.5,-1.5 1.5,1.5 0 0 0 -1.5,-1.5 z"/>
+  <path id="rect4152" d="m 504.00018,200 22,0 0,22 -22,0 z" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+  <path id="path4230" class="ColorScheme-Text" d="m 515.00018,203 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 1,2 1,0 0,4.50391 a 2.5,2.5 0 0 1 1.5,-0.50391 2.5,2.5 0 0 1 2.5,2.5 2.5,2.5 0 0 1 -2.5,2.5 2.5,2.5 0 0 1 -1.5,-0.50195 l 0,0.50195 -1,0 0,-2.5 0,-6.5 z m -4.5,4 a 2.5,2.5 0 0 1 1.5,0.50195 l 0,-0.50195 1,0 0,2.5 0,6.5 -1,0 0,-4.50391 a 2.5,2.5 0 0 1 -1.5,0.50391 2.5,2.5 0 0 1 -2.5,-2.5 2.5,2.5 0 0 1 2.5,-2.5 z m 0,1 a 1.5,1.5 0 0 0 -1.5,1.5 1.5,1.5 0 0 0 1.5,1.5 1.5,1.5 0 0 0 1.5,-1.5 1.5,1.5 0 0 0 -1.5,-1.5 z m 7,0 a 1.5,1.5 0 0 0 -1.5,1.5 1.5,1.5 0 0 0 1.5,1.5 1.5,1.5 0 0 0 1.5,-1.5 1.5,1.5 0 0 0 -1.5,-1.5 z" style="opacity:1;fill:currentColor;fill-opacity:1"/>
  </g>
 </svg>
