@@ -28,22 +28,24 @@
   <rect id="rect4419" width="32" height="32" x="0" y="-34" style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none"/>
   <g id="g4385" transform="translate(2e-4,-35)">
    <rect id="rect4777" width="21" height="16" x="-28" y="-24" rx="1.313" ry="1.333" transform="matrix(0,-1,-1,0,0,0)" style="fill:#8e8e8e;fill-opacity:1"/>
-   <rect id="rect4203-7" width="20" height="26" x="-25" y="-29" rx="1.25" ry="1.3" transform="matrix(0,-1,-1,0,0,0)" style="fill:#8e8e8e;fill-opacity:1"/>
+   <rect id="rect4203-7" width="20" height="26" x="-25" y="-29" rx="1.25" ry="1.3" transform="matrix(0,-1,-1,0,0,0)" style="fill:#4f4f4f;fill-opacity:1"/>
    <rect id="rect3282" width="16" height="22" x="-23" y="-27" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)" style="fill:#000000;opacity:0.4"/>
    <path id="rect4498" d="M 4.3008,5 C 3.5806,5 3,5.5575 3,6.25 l 0,1 C 3,6.5575 3.5806,6 4.3008,6 l 23.398,0 c 0.72,0 1.301,0.5575 1.301,1.25 l 0,-1 C 28.9998,5.5575 28.4188,5 27.6988,5 L 4.3008,5 Z" style="opacity:0.1;fill:#d3dae3"/>
    <path id="rect4505" d="m 8,26.688 0,1 C 8,28.415 8.5953,29 9.334,29 l 13.332,0 C 23.405,29 24,28.415 24,27.688 l 0,-1 C 24,27.415 23.405,28 22.666,28 L 9.334,28 C 8.5953,28 8,27.415 8,26.688 Z" style="opacity:0.2"/>
    <path id="rect4448" d="m 3,23.75 0,1 C 3,25.442 3.5806,26 4.3008,26 l 23.398,0 c 0.72,0 1.301,-0.558 1.301,-1.25 l 0,-1 c 0,0.692 -0.581,1.25 -1.301,1.25 l -23.398,0 c -0.7204,0 -1.301,-0.558 -1.301,-1.25 z" style="opacity:0.2"/>
+   <rect style="opacity:0.1;fill:#ffffff" id="rect4168" width="1" height="22" x="-24" y="-27" rx="0" ry="0" transform="matrix(0,-1,-1,0,0,0)"/>
   </g>
  </g>
  <g id="computer-laptop">
   <rect id="rect4393" width="32" height="32" x="36" y="-34" style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none"/>
   <g id="g5042" transform="translate(36,-35)">
    <rect id="rect4777-4" width="3" height="30" x="-27" y="-31" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)" style="fill:#8e8e8e;fill-opacity:1"/>
-   <path id="rect4203-7-6" d="M 29,22.75 29,7.25 C 29,6.5575 28.42,6 27.7,6 L 4.3,6 C 3.5798,6 3,6.5575 3,7.25 l 0,15.5 C 3,23.442 3.5798,24 4.3,24 l 23.4,0 c 0.7202,0 1.3,-0.5575 1.3,-1.25 z" style="fill:#8e8e8e;fill-opacity:1"/>
+   <path id="rect4203-7-6" d="M 29,22.75 29,7.25 C 29,6.5575 28.42,6 27.7,6 L 4.3,6 C 3.5798,6 3,6.5575 3,7.25 l 0,15.5 C 3,23.442 3.5798,24 4.3,24 l 23.4,0 c 0.7202,0 1.3,-0.5575 1.3,-1.25 z" style="fill:#4f4f4f;fill-opacity:1"/>
    <path id="rect3282-9" d="M 27,22 27,8 5,8 5,22 Z" style="fill:#000000;opacity:0.4"/>
    <path id="rect4498-2" d="M 4.3008,6 C 3.5806,6 3,6.5575 3,7.25 l 0,1 C 3,7.5575 3.5806,7 4.3008,7 l 23.398,0 c 0.72,0 1.301,0.5575 1.301,1.25 l 0,-1 C 28.9998,6.5575 28.4188,6 27.6988,6 Z" style="opacity:0.1;fill:#d3dae3"/>
    <path id="rect4448-2" d="m 3,22.75 0,1 C 3,24.442 3.5806,25 4.3008,25 l 23.398,0 c 0.72,0 1.301,-0.558 1.301,-1.25 l 0,-1 c 0,0.692 -0.581,1.25 -1.301,1.25 l -23.398,0 c -0.7204,0 -1.301,-0.558 -1.301,-1.25 z" style="opacity:0.2"/>
    <path id="rect4352" d="m 1,26 0,1 c 0,0.554 0.446,1 1,1 l 28,0 c 0.554,0 1,-0.446 1,-1 l 0,-1 c 0,0.554 -0.446,1 -1,1 L 2,27 C 1.446,27 1,26.554 1,26 Z" style="opacity:0.2"/>
+   <path style="opacity:0.1;fill:#ffffff" id="path4170" d="m 27,23 0,-1 -22,0 0,1 z"/>
   </g>
  </g>
 </svg>
