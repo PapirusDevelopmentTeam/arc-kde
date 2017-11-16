@@ -78,7 +78,7 @@ Image {
                 property: "y"
                 target: topRect
                 to: root.height / 3
-                duration: 1500
+                duration: 1000
                 easing.type: Easing.InOutBack
                 easing.overshoot: 1.0
             }
