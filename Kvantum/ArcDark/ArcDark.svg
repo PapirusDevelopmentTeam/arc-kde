@@ -1348,7 +1348,6 @@
  <g id="toolbar-normal-bottomleft" transform="matrix(4.999997,0,0,1,-55.999946,0)">
   <path id="path4111-7-25" d="m 12.999997,131.02899 4e-6,4.99996 0.999996,2e-5 0,-2.49999 0,-2.49999 -0.501109,0 z" style="color:#31363b;opacity:1;fill:#2f343f;fill-opacity:1;stroke:none"/>
   <path id="path5220" d="m 12.999997,135.02899 4e-6,0.99998 0.999996,1e-5 0,-0.5 0,-0.49999 -0.501109,0 z" style="color:#31363b;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"/>
-  <path id="path5340" d="m 13.199993,131.02897 -0.199996,2e-5 -2e-6,4 0.1,0 0.1,0 0,-1.50557 z" style="color:#31363b;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"/>
  </g>
  <g id="toolbar-normal-bottom">
   <path id="rect4099-1-5" d="m 13.999999,131.02895 0,2.49998 0,2.49998 45.999999,0 0,-2.49998 0,-2.49998 -45.999999,0 z" style="color:#31363b;opacity:1;fill:#2f343f;fill-opacity:1;stroke:none"/>
@@ -1357,7 +1356,6 @@
  <g id="toolbar-normal-bottomright" transform="matrix(5.000004,0,0,1,-240.00022,0)">
   <path id="path4127-5-35" d="m 59.999996,131.02901 0,2.49999 0,2.49998 c 0.26796,0 1.000004,0 1.000004,0 0,0 -4e-6,-3.57838 -4e-6,-4.99997 l -0.5,0 z" style="color:#31363b;opacity:1;fill:#2f343f;fill-opacity:1;stroke:none"/>
   <path id="path5224" d="m 59.999996,135.02899 0,0.5 0,0.49999 c 0.26796,0 1.000004,0 1.000004,0 0,0 -4e-6,-0.71567 -4e-6,-0.99999 l -0.5,0 z" style="color:#31363b;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"/>
-  <path id="path5343" d="m 60.999995,131.02899 -0.1,0 -0.1,0 0,4.00001 0.199998,-2e-5 0,-1.49999 z" style="color:#31363b;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"/>
  </g>
  <g id="menuitem-normal-top" transform="matrix(0.83636363,0,0,0.5,677.0229,-304.76102)">
   <path id="path5252" d="m 15,84.029297 0,0.5 0,0.5 44,0 0,-0.5 0,-0.5 -44,0 z" transform="matrix(1.25,0,0,2,-738.56,609.52204)" style="color:#31363b;opacity:1;fill:#2f343f;fill-opacity:1;stroke:none"/>
@@ -1379,19 +1377,15 @@
  </g>
  <g id="toolbar-normal-topleft" transform="matrix(0,1,-1,0,145.02898,71.028993)">
   <path id="path5225" d="m 12.999997,131.02899 4e-6,4.99996 0.999996,2e-5 0,-2.49999 0,-2.49999 -0.501109,0 z" style="color:#31363b;opacity:1;fill:#2f343f;fill-opacity:1;stroke:none"/>
-  <path id="path5227" d="m 12.999997,135.02899 4e-6,0.99998 0.999996,1e-5 0,-0.5 0,-0.49999 -0.501109,0 z" style="color:#31363b;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"/>
  </g>
  <g id="toolbar-normal-left" transform="matrix(0,1,-1,0,145.02898,71.028993)">
   <path id="path5231" d="m 13.999999,131.02895 0,2.49998 0,2.49998 45.999999,0 0,-2.49998 0,-2.49998 -45.999999,0 z" style="color:#31363b;opacity:1;fill:#2f343f;fill-opacity:1;stroke:none"/>
-  <path id="path5233" d="m 13.999999,135.02898 0,0.49999 0,0.5 45.999999,0 0,-0.5 0,-0.49999 -45.999999,0 z" style="color:#31363b;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"/>
  </g>
  <g id="toolbar-normal-topright" transform="matrix(0,1,1,0,-71.02899,71.028995)">
   <path id="path5317" d="m 12.999997,131.02899 4e-6,4.99996 0.999996,2e-5 0,-2.49999 0,-2.49999 -0.501109,0 z" style="color:#31363b;opacity:1;fill:#2f343f;fill-opacity:1;stroke:none"/>
-  <path id="path5319" d="m 12.999997,135.02899 4e-6,0.99998 0.999996,1e-5 0,-0.5 0,-0.49999 -0.501109,0 z" style="color:#31363b;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"/>
  </g>
  <g id="toolbar-normal-right" transform="matrix(0,1,1,0,-71.02899,71.028995)">
   <path id="path5323" d="m 13.999999,131.02895 0,2.49998 0,2.49998 45.999999,0 0,-2.49998 0,-2.49998 -45.999999,0 z" style="color:#31363b;opacity:1;fill:#2f343f;fill-opacity:1;stroke:none"/>
-  <path id="path5326" d="m 13.999999,135.02898 0,0.49999 0,0.5 45.999999,0 0,-0.5 0,-0.49999 -45.999999,0 z" style="color:#31363b;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"/>
  </g>
  <g id="menuitem-normal-topleft" transform="matrix(0,1,-1,0,206.02895,71.029298)">
   <path id="path5347" d="m 12.999997,131.02899 4e-6,4.99996 0.999996,2e-5 0,-2.49999 0,-2.49999 -0.501109,0 z" style="color:#31363b;opacity:1;fill:#2f343f;fill-opacity:1;stroke:none"/>
