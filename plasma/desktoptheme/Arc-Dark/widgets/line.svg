@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="128" height="128" version="1">
  <defs id="defs4">
   <linearGradient id="linearGradient4213">
-   <stop id="stop4215" style="stop-color:#000000;stop-opacity:1;" offset="0"/>
-   <stop id="stop4217" style="stop-color:#000000;stop-opacity:0;" offset="1"/>
+   <stop id="stop4215" offset="0" style="stop-color:#000000;stop-opacity:1"/>
+   <stop id="stop4217" offset="1" style="stop-color:#000000;stop-opacity:0"/>
   </linearGradient>
   <linearGradient id="linearGradient3272">
-   <stop id="stop3274" style="stop-color:white;stop-opacity:1;" offset="0"/>
-   <stop id="stop3276" style="stop-color:white;stop-opacity:0;" offset="1"/>
+   <stop id="stop3274" offset="0" style="stop-color:white;stop-opacity:1"/>
+   <stop id="stop3276" offset="1" style="stop-color:white;stop-opacity:0"/>
   </linearGradient>
  </defs>
  <g id="layer1">
   <g id="vertical-line" transform="translate(-4.96875,0.40625)">
-   <path id="path2993" style="opacity:0.01000001;fill:#000000;fill-opacity:0.2;stroke:none"  d="m 32.96875,13.59375 0,40 3,0 0,-40 -3,0 z"/>
-   <path id="path3785" style="fill:#000000;fill-opacity:0.1;stroke:none"  d="m 33.96875,13.59375 0,40 1,0 0,-40 -1,0 z"/>
-   <path id="path2998" style="fill:#000000;fill-opacity:0.15;stroke:none"  d="m 33.96875,13.59375 0,40 1,0 0,-40 -1,0 z"/>
+   <path id="path2993" d="m 32.96875,13.59375 0,40 3,0 0,-40 -3,0 z" style="opacity:0.01000001;fill:#000000;fill-opacity:0.2;stroke:none"/>
+   <path id="path3785" d="m 33.96875,13.59375 0,40 1,0 0,-40 -1,0 z" style="fill:#000000;fill-opacity:0.1;stroke:none"/>
+   <path id="path2998" d="m 33.96875,13.59375 0,40 1,0 0,-40 -1,0 z" style="fill:#000000;fill-opacity:0.15;stroke:none"/>
   </g>
   <g id="horizontal-line" transform="translate(-0.690972,0.471)">
-   <path id="path3767" style="opacity:0.01000001;fill:#000000;fill-opacity:0.2;stroke:none"  d="m 75.690972,55.529 -40,0 0,3 40,0 0,-3 z"/>
-   <path id="path2992" style="fill:#000000;fill-opacity:0.1;stroke:none"  d="m 75.690972,56.529 -40,0 0,1 40,0 0,-1 z"/>
-   <path id="path3787" style="fill:#000000;fill-opacity:0.15;stroke:none"  d="m 75.690972,56.529 -40,0 0,1 40,0 0,-1 z"/>
+   <path id="path3767" d="m 75.690972,55.529 -40,0 0,3 40,0 0,-3 z" style="opacity:0.01000001;fill:#000000;fill-opacity:0.2;stroke:none"/>
+   <path id="path2992" d="m 75.690972,56.529 -40,0 0,1 40,0 0,-1 z" style="fill:#000000;fill-opacity:0.1;stroke:none"/>
+   <path id="path3787" d="m 75.690972,56.529 -40,0 0,1 40,0 0,-1 z" style="fill:#000000;fill-opacity:0.15;stroke:none"/>
   </g>
  </g>
 </svg>
