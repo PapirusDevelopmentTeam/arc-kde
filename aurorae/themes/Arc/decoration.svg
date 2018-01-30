@@ -13,7 +13,7 @@
   <radialGradient id="radialGradient4255" cx="982.909" cy="906.453" r="8.5" fx="982.909" fy="906.453" gradientTransform="matrix(1.4117577,5.5406049e-6,-5.5406032e-6,1.4117573,-1320.6245,-1262.6973)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
   <radialGradient id="radialGradient4263" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-1.411767,-9.899721e-6,9.8996845e-6,-1.4117618,1406.1698,1345.1655)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4215-49"/>
  </defs>
- <rect style="opacity:1;fill:#e7e8eb;fill-opacity:1;stroke:none" id="decoration-center" class="ColorScheme-Background" width="50" height="50" x="17" y="17"/>
+ <rect style="opacity:1;fill:#e7e8eb;fill-opacity:1;stroke:none" id="decoration-center" width="50" height="50" x="17" y="17"/>
  <g id="decoration-bottomleft">
   <path id="shadow-bottomleft" d="m 17,84 0,-10 -2,0 c -2.77,0 -5,-2.23 -5,-5 l 0,-2 -10,0 0,17 z" style="opacity:1;fill:url(#radialGradient4263);fill-opacity:1;stroke:none"/>
   <path style="color:#383c4a;opacity:1;fill:#e7e8eb;fill-opacity:1;stroke:none" id="path87" d="M 11 67 L 11 69 C 11 71.233297 12.766703 73 15 73 L 17 73 L 17 67 L 11 67 z"/>
