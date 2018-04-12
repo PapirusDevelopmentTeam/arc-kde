@@ -34,6 +34,14 @@ sudo apt-get install --install-recommends arc-kde
 
 or download .deb packages from [here](https://launchpad.net/~papirus/+archive/ubuntu/papirus/+packages?field.name_filter=arc-kde).
 
+### Arch and derivatives
+
+You can install adapta-kde from the official arch repo:
+
+```
+sudo pacman -S arc-kde kvantum-theme-arc
+```
+
 ### Arc KDE Installer
 
 Use the scripts to install the latest version directly from this repo (independently on your distro):
@@ -63,7 +71,6 @@ Packages in this section are not part of the official repositories. If you have 
 
 | **Distro** | **Maintainer**    | **Package** |
 |:-----------|:------------------|:------------|
-| Arch Linux | Bruno Pagani | `sudo pacman -S arc-kde kvantum-theme-arc` <sup>[[link](https://www.archlinux.org/packages/community/any/arc-kde/)]</sup> **<sup>[1]</sup>** |
 | Arch Linux | Marcus Behrendt | [arc-kde-git](https://aur.archlinux.org/packages/arc-kde-git/) <sup>AUR</sup> |
 | Manjaro | Nikola Yanev | [arc-kde](http://download.tuxfamily.org/gericom/README.html) |
 | openSUSE | Konstantin Voinov | [arc-kde](https://software.opensuse.org/download.html?project=home:kill_it&package=arc-kde) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/arc-kde)]</sub> |
