@@ -79,10 +79,12 @@ link.visited.color=#7247b1
 
 [ItemView]
 inherits=PanelButtonCommand
+frame.element=itemview
+interior.element=itemview
 frame=true
 interior=true
 text.iconspacing=3
-text.toggle.color=#d3dae3 
+text.toggle.color=#ffffff 
 
 [RadioButton]
 inherits=PanelButtonCommand
@@ -109,8 +111,8 @@ frame=true
 Interior=true
 text.normal.color=#d3dae3
 text.focus.color=#d3dae3
-text.press.color=#d3dae3 
-text.toggle.color=#d3dae3
+text.press.color=#ffffff 
+text.toggle.color=#ffffff
 
 [PanelButtonTool]
 inherits=PanelButtonCommand
@@ -118,8 +120,8 @@ interior.element=button
 frame.element=button
 text.normal.color=#d3dae3
 text.focus.color=#d3dae3
-text.press.color=#d3dae3
-text.toggle.color=#d3dae3
+text.press.color=#ffffff
+text.toggle.color=#ffffff
 
 [DockTitle]
 inherits=PanelButtonCommand
@@ -224,9 +226,9 @@ frame=true
 interior=false
 indicator.size=8
 text.normal.color=#898d99
-text.press.color=#d3dae3
-text.press.color=#d3dae3
-text.toggle.color=#d3dae3
+text.press.color=#ffffff
+text.press.color=#ffffff
+text.toggle.color=#ffffff
 
 [TabFrame]
 inherits=PanelButtonCommand
@@ -281,6 +283,21 @@ frame=true
 frame.bottom=4
 frame.left=4
 frame.right=4
+text.normal.color=#d3dae3
+text.focus.color=#d3dae3
+text.press.color=#ffffff
+text.toggle.color=#ffffff
+text.bold=false
+
+[ToolbarButton]
+frame.element=tbutton
+interior.element=tbutton
+indicator.element=arrow
+text.normal.color=#d3dae3
+text.focus.color=#d3dae3
+text.press.color=#ffffff
+text.toggle.color=#ffffff
+text.bold=false
 
 [Scrollbar]
 inherits=PanelButtonCommand
@@ -322,8 +339,8 @@ frame.right=2
 text.margin=0
 text.normal.color=#d3dae3
 text.focus.color=#d3dae3
-text.press.color=#d3dae3
-text.toggle.color=#d3dae3
+text.press.color=#ffffff
+text.toggle.color=#ffffff
 text.bold=false
 
 [RadioButton]
@@ -336,7 +353,7 @@ frame.right=3
 [Menu]
 inherits=PanelButtonCommand
 text.focus.color=#d3dae3
-text.press.color=#d3dae3
+text.press.color=#ffffff
 frame.top=3
 frame.bottom=3
 frame.left=3
@@ -346,7 +363,7 @@ frame.right=3
 inherits=PanelButtonCommand
 indicator.size=8
 text.focus.color=#d3dae3
-text.press.color=#d3dae3
+text.press.color=#ffffff
 
 [MenuBarItem]
 inherits=PanelButtonCommand
@@ -386,12 +403,12 @@ text.margin.top=1
 text.margin.bottom=1
 text.margin.left=3
 text.margin.right=3
-text.toggle.color=#d3dae3
+text.toggle.color=#ffffff
 
 [ToolboxTab]
 inherits=PanelButtonCommand
 text.normal.color=#d3dae3
-text.press.color=#d3dae3
+text.press.color=#ffffff
 text.focus.color=#d3dae3
 
 [Hacks]
