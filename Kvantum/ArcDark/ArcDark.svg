@@ -583,20 +583,20 @@
   <rect id="rect4946" width="30" height="1" x="65" y="-129" transform="scale(1,-1)" style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none"/>
  </g>
  <g id="itemview-focused-left" transform="matrix(0.44036689,0,0,-1.999996,448.85999,2181.7933)">
-  <rect id="rect6260" class="ColorScheme-ButtonFocus" width="2" height="21" x="-721.81" y="789.58" style="color:#3daee9;fill:#404552;fill-opacity:1;stroke:none"/>
+  <rect id="rect6260" class="ColorScheme-ButtonFocus" width="2" height="21" x="-721.81" y="789.58" style="color:#3daee9;fill:#5294e2;fill-opacity:1;stroke:none;opacity:0.2"/>
  </g>
  <g id="itemview-focused-bottom" transform="matrix(0.84070043,0,0,-1.1999995,737.02299,1538.1291)">
-  <rect id="rect6264" class="ColorScheme-ButtonFocus" width="55" height="2" x="-719.81" y="777.58" style="color:#3daee9;fill:#404552;fill-opacity:1;stroke:none"/>
+  <rect id="rect6264" class="ColorScheme-ButtonFocus" width="55" height="2" x="-719.81" y="777.58" style="color:#3daee9;fill:#5294e2;fill-opacity:1;stroke:none;opacity:0.2"/>
  </g>
- <rect id="itemview-focused-top" width="46.239" height="3.6" x="131.88" y="-560.63" transform="scale(1,-1)" style="fill:#404552;fill-opacity:1;stroke:none"/>
+ <rect id="itemview-focused-top" width="46.239" height="3.6" x="131.88" y="-560.63" transform="scale(1,-1)" style="fill:#5294e2;fill-opacity:1;stroke:none;opacity:0.2"/>
  <g id="itemview-focused-right" transform="matrix(0.44036689,0,0,-1.999996,470.87829,2181.7933)">
-  <rect id="rect6270" class="ColorScheme-ButtonFocus" width="2" height="21" x="-664.81" y="789.58" style="color:#3daee9;fill:#404552;fill-opacity:1;stroke:none"/>
+  <rect id="rect6270" class="ColorScheme-ButtonFocus" width="2" height="21" x="-664.81" y="789.58" style="color:#3daee9;fill:#5294e2;fill-opacity:1;stroke:none;opacity:0.2"/>
  </g>
- <rect id="itemview-focused" class="ColorScheme-ButtonFocus" width="46.239" height="42" x="131.88" y="-602.63" transform="scale(1,-1)" style="color:#3daee9;fill:#404552;fill-opacity:1;stroke:none"/>
- <path id="itemview-focused-topleft" d="m 131.88074,557.02872 c -0.48641,0 -0.88073,1.0745 -0.88073,2.4 l 0,1.2 0.88073,0 0,-1.2 0,-2.4 z" style="fill:#404552;fill-opacity:1;stroke:none"/>
- <path id="itemview-focused-bottomright" class="ColorScheme-ButtonFocus" d="m -179,-602.6286 a 0.88073379,2.3999989 0 0 1 0.88074,-2.4 l 0,2.4 z" transform="scale(-1,-1)" style="color:#3daee9;fill:#404552;fill-opacity:1;stroke:none"/>
- <path id="itemview-focused-bottomleft" class="ColorScheme-ButtonFocus" d="m 131,-602.6286 a 0.88073379,2.3999989 0 0 1 0.88074,-2.4 l 0,2.4 z" transform="scale(1,-1)" style="color:#3daee9;fill:#404552;fill-opacity:1;stroke:none"/>
- <path id="itemview-focused-topright" d="m 178.11927,557.02872 c 0.48641,0 0.88073,1.0745 0.88073,2.4 l 0,1.2 -0.88073,0 0,-1.2 0,-2.4 z" style="fill:#404552;fill-opacity:1;stroke:none"/>
+ <rect id="itemview-focused" class="ColorScheme-ButtonFocus" width="46.239" height="42" x="131.88" y="-602.63" transform="scale(1,-1)" style="color:#3daee9;fill:#5294e2;fill-opacity:1;stroke:none;opacity:0.2"/>
+ <path id="itemview-focused-topleft" d="m 131.88074,557.02872 c -0.48641,0 -0.88073,1.0745 -0.88073,2.4 l 0,1.2 0.88073,0 0,-1.2 0,-2.4 z" style="fill:#5294e2;fill-opacity:1;stroke:none;opacity:0.2"/>
+ <path id="itemview-focused-bottomright" class="ColorScheme-ButtonFocus" d="m -179,-602.6286 a 0.88073379,2.3999989 0 0 1 0.88074,-2.4 l 0,2.4 z" transform="scale(-1,-1)" style="color:#3daee9;fill:#5294e2;fill-opacity:1;stroke:none;opacity:0.2"/>
+ <path id="itemview-focused-bottomleft" class="ColorScheme-ButtonFocus" d="m 131,-602.6286 a 0.88073379,2.3999989 0 0 1 0.88074,-2.4 l 0,2.4 z" transform="scale(1,-1)" style="color:#3daee9;fill:#5294e2;fill-opacity:1;stroke:none;opacity:0.2"/>
+ <path id="itemview-focused-topright" d="m 178.11927,557.02872 c 0.48641,0 0.88073,1.0745 0.88073,2.4 l 0,1.2 -0.88073,0 0,-1.2 0,-2.4 z" style="fill:#5294e2;fill-opacity:1;stroke:none;opacity:0.2"/>
  <path id="menu-normal" d="m 588,95.028741 48,0 0,47.999999 -48,0 z" style="opacity:1;fill:#353945;fill-opacity:1;fill-rule:evenodd;stroke:none"/>
  <g id="radio-focused" transform="matrix(1.2,0,0,1.2,83.8,124.22875)">
   <rect id="rect6817" width="24" height="24" x="14" y="42" transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)" style="opacity:0.00100002;fill:#000000;fill-opacity:0.00392157;stroke:none"/>

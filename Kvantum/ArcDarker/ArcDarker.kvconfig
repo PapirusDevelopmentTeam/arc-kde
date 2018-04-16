@@ -80,6 +80,8 @@ progress.indicator.text.color=#ffffff
 
 [ItemView]
 inherits=PanelButtonCommand
+frame.element=itemview
+interior.element=itemview
 frame=true
 interior=true
 text.iconspacing=3
