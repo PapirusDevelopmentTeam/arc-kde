@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" id="svg" width="100%" height="100%" version="1.1" viewBox="0 0 22 22">
  <g id="kpackagekit-security">
-  <rect id="rect4163" width="22" height="22" x="0" y="0" style="opacity:0;fill:#7a0000;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4163" d="M 10.761719,3.0136719 A 8,8 0 0 0 4.0722656,7 8,8 0 0 0 5.3984375,16.703125 L 6.4433594,14.892578 A 6,6 0 0 1 5.8046875,8 6,6 0 0 1 12.09375,5.1074219 L 13.134766,3.3027344 A 8,8 0 0 0 10.761719,3.0136719 Z" style="opacity:0.99999999;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4161" d="M 16.601562,5.296875 15.556641,7.1074219 A 6,6 0 0 1 16.195312,14 6,6 0 0 1 9.90625,16.892578 L 8.8652344,18.697266 A 8,8 0 0 0 17.927734,15 8,8 0 0 0 16.601562,5.296875 Z" style="opacity:0.99999999;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4159" d="m 10,7 0,5 2,0 0,-5 -2,0 z" style="opacity:0.99999999;fill:#5294e2;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4148" d="m 11,13 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" style="opacity:0.99999999;fill:#5294e2;fill-opacity:1;stroke:none;stroke-opacity:1"/>
+  <rect width="22" height="22" x="0" y="0" style="opacity:0;fill:#7a0000"/>
+  <path d="M 10.761719,3.0136719 A 8,8 0 0 0 4.0722656,7 8,8 0 0 0 5.3984375,16.703125 L 6.4433594,14.892578 A 6,6 0 0 1 5.8046875,8 6,6 0 0 1 12.09375,5.1074219 L 13.134766,3.3027344 A 8,8 0 0 0 10.761719,3.0136719 Z" style="opacity:0.99999999;fill:#d3dae3"/>
+  <path d="M 16.601562,5.296875 15.556641,7.1074219 A 6,6 0 0 1 16.195312,14 6,6 0 0 1 9.90625,16.892578 L 8.8652344,18.697266 A 8,8 0 0 0 17.927734,15 8,8 0 0 0 16.601562,5.296875 Z" style="opacity:0.99999999;fill:#d3dae3"/>
+  <path d="m 10,7 0,5 2,0 0,-5 -2,0 z" style="opacity:0.99999999;fill:#5294e2"/>
+  <path d="m 11,13 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" style="opacity:0.99999999;fill:#5294e2"/>
  </g>
  <g id="kpackagekit-updates" transform="translate(-27,0)">
-  <rect id="rect4172" width="22" height="22" x="0" y="0" style="opacity:0;fill:#7a0000;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4155" d="M 10.761719,3.0136719 A 8,8 0 0 0 4.072266,7 8,8 0 0 0 5.398438,16.703125 L 6.443359,14.892578 A 6,6 0 0 1 5.804688,8 6,6 0 0 1 12.09375,5.1074219 L 13.134766,3.3027344 A 8,8 0 0 0 10.761719,3.0136719 Z" style="opacity:0.99999999;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4153" d="M 16.601562,5.296875 15.556641,7.1074219 A 6,6 0 0 1 16.195312,14 6,6 0 0 1 9.90625,16.892578 L 8.865234,18.697266 A 8,8 0 0 0 17.927734,15 8,8 0 0 0 16.601562,5.296875 Z" style="opacity:0.99999999;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4151" d="M 8,10 A 1,1 0 0 0 7,11 1,1 0 0 0 8,12 1,1 0 0 0 9,11 1,1 0 0 0 8,10 Z" style="opacity:0.99999999;fill:#5294e2;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4149" d="m 11,10 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" style="opacity:0.99999999;fill:#5294e2;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4174" d="m 14,10 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" style="opacity:0.99999999;fill:#5294e2;fill-opacity:1;stroke:none;stroke-opacity:1"/>
+  <rect width="22" height="22" x="0" y="0" style="opacity:0;fill:#7a0000"/>
+  <path d="M 10.761719,3.0136719 A 8,8 0 0 0 4.072266,7 8,8 0 0 0 5.398438,16.703125 L 6.443359,14.892578 A 6,6 0 0 1 5.804688,8 6,6 0 0 1 12.09375,5.1074219 L 13.134766,3.3027344 A 8,8 0 0 0 10.761719,3.0136719 Z" style="opacity:0.99999999;fill:#d3dae3"/>
+  <path d="M 16.601562,5.296875 15.556641,7.1074219 A 6,6 0 0 1 16.195312,14 6,6 0 0 1 9.90625,16.892578 L 8.865234,18.697266 A 8,8 0 0 0 17.927734,15 8,8 0 0 0 16.601562,5.296875 Z" style="opacity:0.99999999;fill:#d3dae3"/>
+  <path d="M 8,10 A 1,1 0 0 0 7,11 1,1 0 0 0 8,12 1,1 0 0 0 9,11 1,1 0 0 0 8,10 Z" style="opacity:0.99999999;fill:#5294e2"/>
+  <path d="m 11,10 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" style="opacity:0.99999999;fill:#5294e2"/>
+  <path d="m 14,10 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" style="opacity:0.99999999;fill:#5294e2"/>
  </g>
  <g id="kpackagekit-important" transform="translate(27,0)">
-  <rect id="rect4204" width="22" height="22" x="0" y="0" style="opacity:0;fill:#7a0000;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4171" d="M 10.761719,3.0136719 A 8,8 0 0 0 4.0722656,7 8,8 0 0 0 5.3984375,16.703125 L 6.4433594,14.892578 A 6,6 0 0 1 5.8046875,8 6,6 0 0 1 12.09375,5.1074219 L 13.134766,3.3027344 A 8,8 0 0 0 10.761719,3.0136719 Z" style="opacity:0.99999999;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4169" d="M 16.601562,5.296875 15.556641,7.1074219 A 6,6 0 0 1 16.195312,14 6,6 0 0 1 9.90625,16.892578 L 8.8652344,18.697266 A 8,8 0 0 0 17.927734,15 8,8 0 0 0 16.601562,5.296875 Z" style="opacity:0.99999999;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4167" d="m 10,7 0,5 2,0 0,-5 -2,0 z" style="opacity:0.99999999;fill:#5294e2;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4206" d="m 11,13 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" style="opacity:0.99999999;fill:#5294e2;fill-opacity:1;stroke:none;stroke-opacity:1"/>
+  <rect width="22" height="22" x="0" y="0" style="opacity:0;fill:#7a0000"/>
+  <path d="M 10.761719,3.0136719 A 8,8 0 0 0 4.0722656,7 8,8 0 0 0 5.3984375,16.703125 L 6.4433594,14.892578 A 6,6 0 0 1 5.8046875,8 6,6 0 0 1 12.09375,5.1074219 L 13.134766,3.3027344 A 8,8 0 0 0 10.761719,3.0136719 Z" style="opacity:0.99999999;fill:#d3dae3"/>
+  <path d="M 16.601562,5.296875 15.556641,7.1074219 A 6,6 0 0 1 16.195312,14 6,6 0 0 1 9.90625,16.892578 L 8.8652344,18.697266 A 8,8 0 0 0 17.927734,15 8,8 0 0 0 16.601562,5.296875 Z" style="opacity:0.99999999;fill:#d3dae3"/>
+  <path d="m 10,7 0,5 2,0 0,-5 -2,0 z" style="opacity:0.99999999;fill:#5294e2"/>
+  <path d="m 11,13 a 1,1 0 0 0 -1,1 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 1,1 0 0 0 -1,-1 z" style="opacity:0.99999999;fill:#5294e2"/>
  </g>
  <g id="kpackagekit-inactive" transform="translate(55.3,0)">
-  <rect id="rect4210" width="22" height="22" x="0" y="0" style="opacity:0;fill:#7a0000;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4220" d="M 66.0625 3.0136719 A 8 8 0 0 0 59.373047 7 A 8 8 0 0 0 60.699219 16.703125 L 61.744141 14.892578 A 6 6 0 0 1 61.105469 8 A 6 6 0 0 1 67.394531 5.1074219 L 68.435547 3.3027344 A 8 8 0 0 0 66.0625 3.0136719 z M 71.902344 5.296875 L 70.857422 7.1074219 A 6 6 0 0 1 71.496094 14 A 6 6 0 0 1 65.207031 16.892578 L 64.166016 18.697266 A 8 8 0 0 0 73.228516 15 A 8 8 0 0 0 71.902344 5.296875 z" transform="translate(-55.3,0)" style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-opacity:1"/>
+  <rect width="22" height="22" x="0" y="0" style="opacity:0;fill:#7a0000"/>
+  <path d="M 66.0625 3.0136719 A 8 8 0 0 0 59.373047 7 A 8 8 0 0 0 60.699219 16.703125 L 61.744141 14.892578 A 6 6 0 0 1 61.105469 8 A 6 6 0 0 1 67.394531 5.1074219 L 68.435547 3.3027344 A 8 8 0 0 0 66.0625 3.0136719 z M 71.902344 5.296875 L 70.857422 7.1074219 A 6 6 0 0 1 71.496094 14 A 6 6 0 0 1 65.207031 16.892578 L 64.166016 18.697266 A 8 8 0 0 0 73.228516 15 A 8 8 0 0 0 71.902344 5.296875 z" transform="translate(-55.3,0)" style="fill:#d3dae3"/>
  </g>
 </svg>

@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg" width="100%" height="100%" version="1.1" viewBox="0 0 22 22">
- <defs id="defs81">
+ <defs>
   <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000;stop-opacity:1"/>
+   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
   </linearGradient>
  </defs>
  <g id="22-22-phone">
-  <rect id="rect7689" width="22" height="22" x="0" y="0" rx="0" ry="0" style="opacity:0;fill:#111213;fill-opacity:1;stroke:none"/>
-  <path id="path6665" d="M 7 3 C 6 3 6 4 6 4 L 6 18 C 6 18 6 19 7 19 L 15 19 C 16 19 16 18 16 18 L 16 4 C 16 4 16 3 15 3 L 7 3 z M 14 6 L 14 15 L 8 15 L 8 6.0019531 L 14 6 z M 11 16 A 1 1 0 0 1 12 17 A 1 1 0 0 1 11 18 A 1 1 0 0 1 10 17 A 1 1 0 0 1 11 16 z" style="display:inline;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new"/>
+  <rect width="22" height="22" x="0" y="0" rx="0" ry="0" style="opacity:0;fill:#111213"/>
+  <path d="M 7 3 C 6 3 6 4 6 4 L 6 18 C 6 18 6 19 7 19 L 15 19 C 16 19 16 18 16 18 L 16 4 C 16 4 16 3 15 3 L 7 3 z M 14 6 L 14 15 L 8 15 L 8 6.0019531 L 14 6 z M 11 16 A 1 1 0 0 1 12 17 A 1 1 0 0 1 11 18 A 1 1 0 0 1 10 17 A 1 1 0 0 1 11 16 z" style="fill:#d3dae3;filter:url(#filter7554)"/>
  </g>
  <g id="phone">
-  <rect id="rect2988" width="32" height="32" x="0" y="-34" rx="0" ry="0" style="opacity:0;fill:#6b727a;fill-opacity:1;stroke:none"/>
-  <path id="path4215" d="M 10.400391 -30 C 9.0003907 -30 9 -28.5 9 -28.5 L 9 -7.5 C 9 -7.5 9.0003907 -6 10.400391 -6 L 21.599609 -6 C 22.999609 -6 23 -7.5 23 -7.5 L 23 -28.5 C 23 -28.5 22.999609 -30 21.599609 -30 L 10.400391 -30 z M 12 -26 L 20 -26 L 20 -12 L 12 -12 L 12 -26 z M 16 -11 A 2 2 0 0 1 18 -9 A 2 2 0 0 1 16 -7 A 2 2 0 0 1 14 -9 A 2 2 0 0 1 16 -11 z" style="display:inline;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new"/>
+  <rect width="32" height="32" x="0" y="-34" rx="0" ry="0" style="opacity:0;fill:#6b727a"/>
+  <path d="M 10.400391 -30 C 9.0003907 -30 9 -28.5 9 -28.5 L 9 -7.5 C 9 -7.5 9.0003907 -6 10.400391 -6 L 21.599609 -6 C 22.999609 -6 23 -7.5 23 -7.5 L 23 -28.5 C 23 -28.5 22.999609 -30 21.599609 -30 L 10.400391 -30 z M 12 -26 L 20 -26 L 20 -12 L 12 -12 L 12 -26 z M 16 -11 A 2 2 0 0 1 18 -9 A 2 2 0 0 1 16 -7 A 2 2 0 0 1 14 -9 A 2 2 0 0 1 16 -11 z" style="fill:#d3dae3;filter:url(#filter7554)"/>
  </g>
  <g id="22-22-phone-battery">
-  <rect id="rect4152" width="22" height="22" x="30" y="0" rx="0" ry="0" style="opacity:0;fill:#111213;fill-opacity:1;stroke:none"/>
-  <path id="path4154" d="m 37,3 c -1,0 -1,1 -1,1 l 0,14 c 0,0 0,1 1,1 l 8,0 c 1,0 1,-1 1,-1 L 46,4 c 0,0 0,-1 -1,-1 l -8,0 z m 4,3 3,0 0,9 -6,0 0,-8.9980469 3,0 L 41,6 Z M 41,6.00195 39,10 l 2,0 0,4 2,-5 -2,0 0,-2.9980469 z M 41.300781,16 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z" style="display:inline;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new"/>
+  <rect width="22" height="22" x="30" y="0" rx="0" ry="0" style="opacity:0;fill:#111213"/>
+  <path d="m 37,3 c -1,0 -1,1 -1,1 l 0,14 c 0,0 0,1 1,1 l 8,0 c 1,0 1,-1 1,-1 L 46,4 c 0,0 0,-1 -1,-1 l -8,0 z m 4,3 3,0 0,9 -6,0 0,-8.9980469 3,0 L 41,6 Z M 41,6.00195 39,10 l 2,0 0,4 2,-5 -2,0 0,-2.9980469 z M 41.300781,16 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z" style="fill:#d3dae3;filter:url(#filter7554)"/>
  </g>
  <g id="phone-battery" transform="translate(30.000052,0)">
-  <rect id="rect4164" width="32" height="32" x="0" y="-34" rx="0" ry="0" style="opacity:0;fill:#6b727a;fill-opacity:1;stroke:none"/>
-  <path id="path4166" d="M 40.400391 -30 C 39.000391 -30 39 -28.5 39 -28.5 L 39 -7.5 C 39 -7.5 39.000391 -6 40.400391 -6 L 51.599609 -6 C 52.999609 -6 53 -7.5 53 -7.5 L 53 -28.5 C 53 -28.5 52.999609 -30 51.599609 -30 L 40.400391 -30 z M 42 -26 L 46 -26 L 50 -26 L 50 -12 L 42 -12 L 42 -26 z M 46 -26 L 43 -20 L 46 -20 L 46 -14 L 49 -21.5 L 46 -21.5 L 46 -26 z M 46 -11 A 2 2 0 0 1 48 -9 A 2 2 0 0 1 46 -7 A 2 2 0 0 1 44 -9 A 2 2 0 0 1 46 -11 z" transform="translate(-30.000052,0)" style="display:inline;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new"/>
+  <rect width="32" height="32" x="0" y="-34" rx="0" ry="0" style="opacity:0;fill:#6b727a"/>
+  <path d="M 40.400391 -30 C 39.000391 -30 39 -28.5 39 -28.5 L 39 -7.5 C 39 -7.5 39.000391 -6 40.400391 -6 L 51.599609 -6 C 52.999609 -6 53 -7.5 53 -7.5 L 53 -28.5 C 53 -28.5 52.999609 -30 51.599609 -30 L 40.400391 -30 z M 42 -26 L 46 -26 L 50 -26 L 50 -12 L 42 -12 L 42 -26 z M 46 -26 L 43 -20 L 46 -20 L 46 -14 L 49 -21.5 L 46 -21.5 L 46 -26 z M 46 -11 A 2 2 0 0 1 48 -9 A 2 2 0 0 1 46 -7 A 2 2 0 0 1 44 -9 A 2 2 0 0 1 46 -11 z" transform="translate(-30.000052,0)" style="fill:#d3dae3;filter:url(#filter7554)"/>
  </g>
  <g id="16-16-phone-battery">
-  <rect id="rect4253" width="16" height="16" x="33" y="26" rx="0" ry="0" style="opacity:0;fill:#6b727a;fill-opacity:1;stroke:none"/>
-  <path id="path4267" d="M 37.798828 28 C 36.998828 28 37 28.75 37 28.75 L 37 39.25 C 37 39.25 36.9988 40 37.798828 40 L 44.199219 40 C 44.999219 40 45 39.25 45 39.25 L 45 28.75 C 45 28.75 44.999158 28 44.199219 28 L 37.798828 28 z M 39 30 L 41 30 L 43 30 L 43 36 L 41 36 L 39 36 L 39 30 z M 41 36 L 42.5 32.25 L 41 32.25 L 41 30 L 39.5 33 L 41 33 L 41 36 z M 41 37 C 41.552285 37 42 37.447715 42 38 C 42 38.552285 41.552285 39 41 39 C 40.447715 39 40 38.552285 40 38 C 40 37.447715 40.447715 37 41 37 z" style="display:inline;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new"/>
+  <rect width="16" height="16" x="33" y="26" rx="0" ry="0" style="opacity:0;fill:#6b727a"/>
+  <path d="M 37.798828 28 C 36.998828 28 37 28.75 37 28.75 L 37 39.25 C 37 39.25 36.9988 40 37.798828 40 L 44.199219 40 C 44.999219 40 45 39.25 45 39.25 L 45 28.75 C 45 28.75 44.999158 28 44.199219 28 L 37.798828 28 z M 39 30 L 41 30 L 43 30 L 43 36 L 41 36 L 39 36 L 39 30 z M 41 36 L 42.5 32.25 L 41 32.25 L 41 30 L 39.5 33 L 41 33 L 41 36 z M 41 37 C 41.552285 37 42 37.447715 42 38 C 42 38.552285 41.552285 39 41 39 C 40.447715 39 40 38.552285 40 38 C 40 37.447715 40.447715 37 41 37 z" style="fill:#d3dae3;filter:url(#filter7554)"/>
  </g>
  <g id="16-16-phone">
-  <rect id="rect2996" width="16" height="16" x="0" y="26" rx="0" ry="0" style="opacity:0;fill:#5f666d;fill-opacity:0.80740739;stroke:none"/>
-  <path id="path4279" d="M 4.798828,28 C 3.998828,28 4,28.75 4,28.75 l 0,10.5 C 4,39.25 3.9988,40 4.798828,40 l 6.400391,0 C 11.999219,40 12,39.25 12,39.25 l 0,-10.5 C 12,28.75 11.999158,28 11.199219,28 Z M 6,30 l 2,0 2,0 0,6 -4,0 z m 2,7 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z" style="display:inline;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new"/>
+  <rect width="16" height="16" x="0" y="26" rx="0" ry="0" style="opacity:0;fill:#5f666d;fill-opacity:0.80740739"/>
+  <path d="M 4.798828,28 C 3.998828,28 4,28.75 4,28.75 l 0,10.5 C 4,39.25 3.9988,40 4.798828,40 l 6.400391,0 C 11.999219,40 12,39.25 12,39.25 l 0,-10.5 C 12,28.75 11.999158,28 11.199219,28 Z M 6,30 l 2,0 2,0 0,6 -4,0 z m 2,7 c 0.552285,0 1,0.447715 1,1 0,0.552285 -0.447715,1 -1,1 -0.552285,0 -1,-0.447715 -1,-1 0,-0.552285 0.447715,-1 1,-1 z" style="fill:#d3dae3;filter:url(#filter7554)"/>
  </g>
 </svg>

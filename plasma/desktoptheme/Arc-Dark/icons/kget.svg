@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg7384" width="22" height="22" version="1.1" style="enable-background:new">
- <defs id="defs7386">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="22" height="22" version="1.1" style="enable-background:new">
+ <defs>
   <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000;stop-opacity:1"/>
+   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
   </linearGradient>
  </defs>
  <g id="kget" transform="translate(-305.00291,86.019038)">
-  <path id="rect4139" d="m 305.25291,-86.019038 21.5,0 c 0.1385,0 0.25,0.111499 0.25,0.250001 l 0,21.499999 c 0,0.1385 -0.11151,0.25 -0.25,0.25 l -21.5,0 c -0.1385,0 -0.25,-0.111499 -0.25,-0.25 l 0,-21.499999 c 0,-0.138501 0.11151,-0.250001 0.25,-0.250001 z" style="opacity:0;fill:#00000f;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path5972" d="m 314.00291,-83.019038 0,7 -3,0 4.99999,6 5.00001,-6 -3,0 0,-7 z m -6,16 16,0 0,-2 -15.99926,0 z" style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke:none"/>
+  <path d="m 305.25291,-86.019038 21.5,0 c 0.1385,0 0.25,0.111499 0.25,0.250001 l 0,21.499999 c 0,0.1385 -0.11151,0.25 -0.25,0.25 l -21.5,0 c -0.1385,0 -0.25,-0.111499 -0.25,-0.25 l 0,-21.499999 c 0,-0.138501 0.11151,-0.250001 0.25,-0.250001 z" style="opacity:0;fill:#00000f"/>
+  <path d="m 314.00291,-83.019038 0,7 -3,0 4.99999,6 5.00001,-6 -3,0 0,-7 z m -6,16 16,0 0,-2 -15.99926,0 z" style="fill:#d3dae3"/>
  </g>
 </svg>

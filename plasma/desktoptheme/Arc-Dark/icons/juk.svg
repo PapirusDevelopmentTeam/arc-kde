@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2817" width="22" height="22" version="1">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
  <g id="juk">
-  <rect id="rect4552" width="22" height="22" x="0" y="0" style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-  <g id="g4560" transform="translate(0,7)">
-   <path id="path4351" d="M 8,-1 8,1 8,7.050781 C 7.8354622,7.017102 7.6679493,7.000089 7.5,7 6.1192881,7 5,8.119288 5,9.5 5,10.880712 6.1192881,12 7.5,12 8.8807119,12 10,10.880712 10,9.5 L 10,1 15,0 15,4.0507812 C 14.835462,4.0171022 14.667949,4.0000892 14.5,4 13.119288,4 12,5.1192881 12,6.5 12,7.880712 13.119288,9 14.5,9 15.880712,9 17,7.880712 17,6.5 L 17,0 17,-3 Z" style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
+  <rect width="22" height="22" x="0" y="0" style="opacity:0.001"/>
+  <g transform="translate(0,7)">
+   <path d="M 8,-1 8,1 8,7.050781 C 7.8354622,7.017102 7.6679493,7.000089 7.5,7 6.1192881,7 5,8.119288 5,9.5 5,10.880712 6.1192881,12 7.5,12 8.8807119,12 10,10.880712 10,9.5 L 10,1 15,0 15,4.0507812 C 14.835462,4.0171022 14.667949,4.0000892 14.5,4 13.119288,4 12,5.1192881 12,6.5 12,7.880712 13.119288,9 14.5,9 15.880712,9 17,7.880712 17,6.5 L 17,0 17,-3 Z" style="fill:#d3dae3"/>
   </g>
  </g>
 </svg>

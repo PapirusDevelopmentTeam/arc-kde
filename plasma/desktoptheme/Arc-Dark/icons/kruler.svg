@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" version="1.1" viewBox="0 0 22 22">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 22 22">
  <g id="kruler" transform="translate(-326,-534.3622)">
-  <rect id="rect4165" width="22" height="22" x="326" y="534.36" style="opacity:1;fill:none;fill-opacity:1;stroke:none"/>
-  <path id="path6" d="m 328,538.3622 0,3 0,11 2,0 16,0 0,-2 -16,0 0,-9 16,0 0,-3 z m 3,4 0,3 1,0 0,-3 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,6 1,0 0,-6 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,6 1,0 0,-6 z m 2,0 0,3 1,0 0,-3 z" style="color:#31363b;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none"/>
+  <rect width="22" height="22" x="326" y="534.36" style="fill:none"/>
+  <path d="m 328,538.3622 0,3 0,11 2,0 16,0 0,-2 -16,0 0,-9 16,0 0,-3 z m 3,4 0,3 1,0 0,-3 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,6 1,0 0,-6 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,6 1,0 0,-6 z m 2,0 0,3 1,0 0,-3 z" style="fill:#d3dae3"/>
  </g>
 </svg>
