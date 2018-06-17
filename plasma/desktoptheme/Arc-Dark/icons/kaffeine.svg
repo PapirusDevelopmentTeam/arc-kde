@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg7384" width="22" height="22" version="1.1" style="enable-background:new">
- <defs id="defs7386">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="22" height="22" version="1.1" style="enable-background:new">
+ <defs>
   <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000;stop-opacity:1"/>
+   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
   </linearGradient>
  </defs>
  <g id="kaffeine">
-  <path id="rect4148" d="m 0,0 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 L 0,22 c 0,0 0,0 0,0 L 0,0 c 0,0 0,0 0,0 z" style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-  <path id="path4165" d="M 3.1992188,3 C 1.9992188,3 2,4.2304688 2,4.2304688 L 2,17.769531 C 2,17.769531 1.9992187,19 3.1992188,19 L 18.800781,19 C 18.800781,19 20,19.000301 20,17.769531 L 20,4.2304688 C 20,2.9996987 18.800781,3 18.800781,3 L 3.1992188,3 Z M 8,6 12,8.5 16,11 12,13.5 8,16 8,11 8,6 Z" style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none"/>
+  <path d="m 0,0 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 L 0,22 c 0,0 0,0 0,0 L 0,0 c 0,0 0,0 0,0 z" style="opacity:0"/>
+  <path d="M 3.1992188,3 C 1.9992188,3 2,4.2304688 2,4.2304688 L 2,17.769531 C 2,17.769531 1.9992187,19 3.1992188,19 L 18.800781,19 C 18.800781,19 20,19.000301 20,17.769531 L 20,4.2304688 C 20,2.9996987 18.800781,3 18.800781,3 L 3.1992188,3 Z M 8,6 12,8.5 16,11 12,13.5 8,16 8,11 8,6 Z" style="fill:#d3dae3"/>
  </g>
 </svg>

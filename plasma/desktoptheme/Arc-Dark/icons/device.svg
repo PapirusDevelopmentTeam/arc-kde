@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg" width="100%" height="100%" version="1.1" viewBox="0 0 22 22">
- <defs id="defs81">
+ <defs>
   <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000;stop-opacity:1"/>
+   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
   </linearGradient>
  </defs>
- <rect id="rect3011-4" width="22" height="22" x="0" y="0" style="fill:#d3dae3;fill-opacity:0;stroke:none"/>
- <g id="g2991" transform="translate(25,-2)">
-  <rect id="rect2993" width="24" height="24" x="0" y="0" style="fill:#d3dae3;fill-opacity:0;stroke:none"/>
-  <g id="g2995" transform="translate(-508,-1036.3622)">
-   <path id="path2997" d="m 2,2 0,20 11,0 0,-3 -4,0 0,-6 4,0 0,-2 -4,0 0,-6 4,0 0,-3 z m 20,0.78125 c 0,0 -0.47953,1.5907 -1.890625,3.09375 C 18.894025,7.0386 18.83249,7.5 15.90625,7.5 l 0,-1.5 L 10,6 l 0,4 5.90625,0 0,-1.5 c 3.07376,0 3.591795,-0.66275 4.890625,-1.90625 C 22.165585,5.28315 22.90625,3.1875 22.90625,3.1875 z M 14,12 l 0,0.5 0,1.5 -4,0 0,4 4,0 0,1.5 0,0.5 0.5,0 7,0 0.5,0 0,-0.5 0,-7 0,-0.5 -0.5,0 -7,0 z m 1,1 6,0 0,6 -6,0 z" transform="translate(508,1036.3622)" style="fill:#d3dae3;fill-opacity:1;stroke:none;opacity:1"/>
+ <rect width="22" height="22" x="0" y="0" style="fill:#d3dae3;fill-opacity:0"/>
+ <g transform="translate(25,-2)">
+  <rect width="24" height="24" x="0" y="0" style="fill:#d3dae3;fill-opacity:0"/>
+  <g transform="translate(-508,-1036.3622)">
+   <path d="m 2,2 0,20 11,0 0,-3 -4,0 0,-6 4,0 0,-2 -4,0 0,-6 4,0 0,-3 z m 20,0.78125 c 0,0 -0.47953,1.5907 -1.890625,3.09375 C 18.894025,7.0386 18.83249,7.5 15.90625,7.5 l 0,-1.5 L 10,6 l 0,4 5.90625,0 0,-1.5 c 3.07376,0 3.591795,-0.66275 4.890625,-1.90625 C 22.165585,5.28315 22.90625,3.1875 22.90625,3.1875 z M 14,12 l 0,0.5 0,1.5 -4,0 0,4 4,0 0,1.5 0,0.5 0.5,0 7,0 0.5,0 0,-0.5 0,-7 0,-0.5 -0.5,0 -7,0 z m 1,1 6,0 0,6 -6,0 z" transform="translate(508,1036.3622)" style="fill:#d3dae3"/>
   </g>
  </g>
  <g id="16-16-device-notifier">
-  <rect id="rect4188" width="16" height="16" x="0" y="26" style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-  <rect id="rect3823" width="16" height="16" x="0" y="26" style="fill:#d3dae3;fill-opacity:0;stroke:none"/>
-  <path id="rect9463" d="M 4.84375,27.00693 C 4.5625,27.05381 4,27.256806 4,28.006435 l 0,8.995545 c 0,0 0,0.999505 1,0.999505 l 6,0 c 1,0 1,-0.999505 1,-0.999505 l 0,-8.995545 C 12,27.00693 11,27.00693 11,27.00693 l -6,0 c 0,0 -0.0625,-0.01559 -0.15625,0 z M 5,39.00099 5,41 l 6,0 0,-1.99901 z" style="display:inline;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new"/>
+  <rect width="16" height="16" x="0" y="26" style="opacity:0"/>
+  <rect width="16" height="16" x="0" y="26" style="fill:#d3dae3;fill-opacity:0"/>
+  <path d="M 4.84375,27.00693 C 4.5625,27.05381 4,27.256806 4,28.006435 l 0,8.995545 c 0,0 0,0.999505 1,0.999505 l 6,0 c 1,0 1,-0.999505 1,-0.999505 l 0,-8.995545 C 12,27.00693 11,27.00693 11,27.00693 l -6,0 c 0,0 -0.0625,-0.01559 -0.15625,0 z M 5,39.00099 5,41 l 6,0 0,-1.99901 z" style="fill:#d3dae3;filter:url(#filter7554)"/>
  </g>
  <g id="22-22-device-notifier" transform="translate(28,4)">
-  <rect id="rect4243" width="22" height="22" x="-28" y="-4" style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-  <rect id="rect4245" width="22" height="22" x="-28" y="-4" style="fill:#d3dae3;fill-opacity:0;stroke:none"/>
-  <path id="path4254" d="M -20.945312,-1.9911827 C -21.296875,-1.9315254 -22,-1.6732017 -22,-0.71925708 l 0,11.44733208 c 0,0 0,1.271925 1.25,1.271925 l 7.5,0 C -12,12 -12,10.728075 -12,10.728075 l 0,-11.44733208 c 0,-1.27192562 -1.25,-1.27192562 -1.25,-1.27192562 l -7.5,0 c 0,0 -0.07813,-0.019839 -0.195312,0 z" style="display:inline;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new"/>
-  <path id="path4247" d="m -21,13 0,3 8,0 0,-3 z" style="display:inline;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new"/>
+  <rect width="22" height="22" x="-28" y="-4" style="opacity:0"/>
+  <rect width="22" height="22" x="-28" y="-4" style="fill:#d3dae3;fill-opacity:0"/>
+  <path d="M -20.945312,-1.9911827 C -21.296875,-1.9315254 -22,-1.6732017 -22,-0.71925708 l 0,11.44733208 c 0,0 0,1.271925 1.25,1.271925 l 7.5,0 C -12,12 -12,10.728075 -12,10.728075 l 0,-11.44733208 c 0,-1.27192562 -1.25,-1.27192562 -1.25,-1.27192562 l -7.5,0 c 0,0 -0.07813,-0.019839 -0.195312,0 z" style="fill:#d3dae3;filter:url(#filter7554)"/>
+  <path d="m -21,13 0,3 8,0 0,-3 z" style="fill:#d3dae3;filter:url(#filter7554)"/>
  </g>
  <g id="device-notifier" transform="translate(40,4)">
-  <rect id="rect4264" width="32" height="32" x="-40" y="-38" style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-  <rect id="rect4266" width="32" height="32" x="-40" y="-38" style="fill:#d3dae3;fill-opacity:0;stroke:none"/>
-  <path id="path4268" d="M -29.523437,-34.987402 C -30.015625,-34.902182 -31,-34.533144 -31,-33.170366 l 0,16.35333 c 0,0 0,1.817036 1.75,1.817036 l 10.5,0 c 1.75,0 1.75,-1.817036 1.75,-1.817036 l 0,-16.35333 c 0,-1.817036 -1.75,-1.817036 -1.75,-1.817036 l -10.5,0 c 0,0 -0.109382,-0.02834 -0.273437,0 z" style="display:inline;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new"/>
-  <path id="path4270" d="m -29,-13 0,4 10,0 0,-4 z" style="display:inline;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;filter:url(#filter7554);enable-background:new"/>
+  <rect width="32" height="32" x="-40" y="-38" style="opacity:0"/>
+  <rect width="32" height="32" x="-40" y="-38" style="fill:#d3dae3;fill-opacity:0"/>
+  <path d="M -29.523437,-34.987402 C -30.015625,-34.902182 -31,-34.533144 -31,-33.170366 l 0,16.35333 c 0,0 0,1.817036 1.75,1.817036 l 10.5,0 c 1.75,0 1.75,-1.817036 1.75,-1.817036 l 0,-16.35333 c 0,-1.817036 -1.75,-1.817036 -1.75,-1.817036 l -10.5,0 c 0,0 -0.109382,-0.02834 -0.273437,0 z" style="fill:#d3dae3;filter:url(#filter7554)"/>
+  <path d="m -29,-13 0,4 10,0 0,-4 z" style="fill:#d3dae3;filter:url(#filter7554)"/>
  </g>
 </svg>

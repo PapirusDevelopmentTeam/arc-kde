@@ -1,26 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg" width="100%" height="100%" version="1.1" viewBox="0 0 22 22">
- <defs id="defs81">
+ <defs>
   <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000;stop-opacity:1"/>
+   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
   </linearGradient>
  </defs>
  <g id="window-pin" transform="translate(31,-30)">
-  <rect id="rect3022" width="8" height="8" x="-46" y="44" style="fill:#d3dae3;fill-opacity:0;stroke:none"/>
-  <path id="rect3845" d="m -41,44 c -0.389252,0.389252 -0.468353,1.084344 -0.01563,1.84375 l -2.125,1.421875 c -0.264203,-0.106604 -0.547797,-0.186091 -0.828125,-0.1875 C -44.33313,47.076275 -44.6875,47.1875 -45,47.5 l 1.5,1.5 -2,2 -0.5,1 1,-0.5 2,-2 1.5,1.5 c 0.553482,-0.553482 0.482374,-1.253884 0.234375,-1.859375 l 1.421875,-2.125 C -39.084344,47.468353 -38.389252,47.389252 -38,47 z" style="fill:#d3dae3;fill-opacity:1;opacity:1"/>
+  <rect width="8" height="8" x="-46" y="44" style="fill:#d3dae3;fill-opacity:0"/>
+  <path d="m -41,44 c -0.389252,0.389252 -0.468353,1.084344 -0.01563,1.84375 l -2.125,1.421875 c -0.264203,-0.106604 -0.547797,-0.186091 -0.828125,-0.1875 C -44.33313,47.076275 -44.6875,47.1875 -45,47.5 l 1.5,1.5 -2,2 -0.5,1 1,-0.5 2,-2 1.5,1.5 c 0.553482,-0.553482 0.482374,-1.253884 0.234375,-1.859375 l 1.421875,-2.125 C -39.084344,47.468353 -38.389252,47.389252 -38,47 z" style="fill:#d3dae3"/>
  </g>
  <g id="window-unpin" transform="translate(31,-30)">
-  <path id="path3024" d="m -61,44 c -0.389252,0.389252 -0.468353,1.084344 -0.01563,1.84375 l -2.125,1.421875 c -0.264203,-0.106604 -0.547797,-0.186091 -0.828125,-0.1875 C -64.33313,47.076275 -64.6875,47.1875 -65,47.5 l 1.5,1.5 -2,2 -0.5,1 1,-0.5 2,-2 1.5,1.5 c 0.553482,-0.553482 0.482374,-1.253884 0.234375,-1.859375 l 1.421875,-2.125 C -59.084344,47.468353 -58.389252,47.389252 -58,47 z" style="fill:#5294e2"/>
-  <rect id="rect3030" width="8" height="8" x="-66" y="44" style="fill:#d3dae3;fill-opacity:0;stroke:none"/>
+  <path d="m -61,44 c -0.389252,0.389252 -0.468353,1.084344 -0.01563,1.84375 l -2.125,1.421875 c -0.264203,-0.106604 -0.547797,-0.186091 -0.828125,-0.1875 C -64.33313,47.076275 -64.6875,47.1875 -65,47.5 l 1.5,1.5 -2,2 -0.5,1 1,-0.5 2,-2 1.5,1.5 c 0.553482,-0.553482 0.482374,-1.253884 0.234375,-1.859375 l 1.421875,-2.125 C -59.084344,47.468353 -58.389252,47.389252 -58,47 z" style="fill:#5294e2"/>
+  <rect width="8" height="8" x="-66" y="44" style="fill:#d3dae3;fill-opacity:0"/>
  </g>
  <g id="window-close">
-  <rect id="rect3009" width="22" height="22" x="0" y="0" style="fill:#d3dae3;fill-opacity:0;stroke:none"/>
-  <path id="rect31992" d="M 15.666667,4 11,8.666667 6.333333,4 4,6.3333333 8.666667,11 4,15.666667 6.333333,18 11,13.333333 15.666667,18 18,15.666667 13.333333,11 18,6.3333333 Z" style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:new"/>
+  <rect width="22" height="22" x="0" y="0" style="fill:#d3dae3;fill-opacity:0"/>
+  <path d="M 15.666667,4 11,8.666667 6.333333,4 4,6.3333333 8.666667,11 4,15.666667 6.333333,18 11,13.333333 15.666667,18 18,15.666667 13.333333,11 18,6.3333333 Z" style="fill:#d3dae3"/>
  </g>
  <g id="16-16-window-close">
-  <rect id="rect4173" width="16" height="16" x="3" y="-19" style="opacity:0;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <g id="g4169" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,11.242641,-22.556349)" style="enable-background:new">
-   <g id="layer12" transform="translate(-285.00081,-0.99666)" style="display:inline">
-    <path id="rect31992-9" d="m 292.00081,3.99666 0,4 -4,0 0,2 4,0 0,4 2,0 0,-4 4,0 0,-2 -4,0 0,-4 -2,0 z" style="color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:1;marker:none"/>
+  <rect width="16" height="16" x="3" y="-19" style="opacity:0;fill:#d3dae3"/>
+  <g transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,11.242641,-22.556349)" style="enable-background:new">
+   <g id="layer12" transform="translate(-285.00081,-0.99666)">
+    <path d="m 292.00081,3.99666 0,4 -4,0 0,2 4,0 0,4 2,0 0,-4 4,0 0,-2 -4,0 0,-4 -2,0 z" style="fill:#d3dae3"/>
    </g>
   </g>
  </g>

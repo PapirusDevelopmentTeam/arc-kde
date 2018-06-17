@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2817" width="22" height="22" version="1">
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
  <g id="ktorrent">
-  <rect id="rect4552" width="22" height="22" x="0" y="0" style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-  <path id="path4793" d="M 8.6953125,3 C 8.3523605,3 8.0433531,3.3617296 8,3.8066406 L 8,10 l -4,0 7,7 7,-7 -4,0 0,-6.1933594 C 14,3.3597156 13.64764,3 13.304688,3 L 8.6953125,3 Z M 11,17 3.8007813,17 C 3.3575813,17 3,17.446 3,18 c 0,0.554 0.3575813,1 0.8007813,1 L 18.199219,19 C 18.642419,19 19,18.554 19,18 19,17.446 18.642419,17 18.199219,17 L 11,17 Z" style="fill:#d3dae3;fill-opacity:1;opacity:1"/>
+  <rect width="22" height="22" x="0" y="0" style="opacity:0.00100002"/>
+  <path d="M 8.6953125,3 C 8.3523605,3 8.0433531,3.3617296 8,3.8066406 L 8,10 l -4,0 7,7 7,-7 -4,0 0,-6.1933594 C 14,3.3597156 13.64764,3 13.304688,3 L 8.6953125,3 Z M 11,17 3.8007813,17 C 3.3575813,17 3,17.446 3,18 c 0,0.554 0.3575813,1 0.8007813,1 L 18.199219,19 C 18.642419,19 19,18.554 19,18 19,17.446 18.642419,17 18.199219,17 L 11,17 Z" style="fill:#d3dae3"/>
  </g>
 </svg>

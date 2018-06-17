@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg7384" width="22" height="22" version="1.1" style="enable-background:new">
- <defs id="defs7386">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="22" height="22" version="1.1" style="enable-background:new">
+ <defs>
   <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000;stop-opacity:1"/>
+   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
   </linearGradient>
  </defs>
  <g id="knotes" transform="translate(-425.0002,165.00336)">
-  <path id="rect4148" d="m 425.0002,-165.00336 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z" style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-  <path id="path4167" d="M 4.9335938,3 C 4.0002538,3 4,4.2304688 4,4.2304688 L 4,17.769531 C 4,17.769531 4.0002538,19 4.9335938,19 L 17.066406,19 C 17.066406,19 18,19.000301 18,17.769531 L 18,4.2304688 C 18,2.9996987 17.066406,3 17.066406,3 L 4.9335938,3 Z M 6,6 16,6 16,8 6,8 6,6 Z m 0,4 10,0 0,2 -10,0 0,-2 z m 0,4 6,0 0,2 -6,0 0,-2 z" transform="translate(425.0002,-165.00336)" style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none"/>
+  <path d="m 425.0002,-165.00336 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z" style="opacity:0"/>
+  <path d="M 4.9335938,3 C 4.0002538,3 4,4.2304688 4,4.2304688 L 4,17.769531 C 4,17.769531 4.0002538,19 4.9335938,19 L 17.066406,19 C 17.066406,19 18,19.000301 18,17.769531 L 18,4.2304688 C 18,2.9996987 17.066406,3 17.066406,3 L 4.9335938,3 Z M 6,6 16,6 16,8 6,8 6,6 Z m 0,4 10,0 0,2 -10,0 0,-2 z m 0,4 6,0 0,2 -6,0 0,-2 z" transform="translate(425.0002,-165.00336)" style="fill:#d3dae3"/>
  </g>
 </svg>
