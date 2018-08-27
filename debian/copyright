@@ -9,4 +9,5 @@ License: GPL-3.0
 
 Files: debian/*
 Copyright: 2017 Sergei Eremenko <finalitik@gmail.com>
-License: public-domain
+License: GPL-3.0
+ See /usr/share/common-licenses/GPL-3 for a full copy of the license.

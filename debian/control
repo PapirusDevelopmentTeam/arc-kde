@@ -3,14 +3,14 @@ Section: universe/kde
 Priority: optional
 Maintainer: Sergei Eremenko <finalitik@gmail.com>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.8
+Standards-Version: 4.1.4
 Homepage: https://github.com/PapirusDevelopmentTeam/arc-kde
 
 Package: arc-kde
 Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}, plasma-workspace (>= 4:5.5.0)
-Recommends: kvantum, papirus-icon-theme
+Recommends: qt5-style-kvantum, papirus-icon-theme
 Suggests: konsole, konversation, yakuake (>= 3.0)
 Description: Arc KDE
  This is a Arc KDE port of the popular GTK theme Arc for Plasma 5 desktop.
