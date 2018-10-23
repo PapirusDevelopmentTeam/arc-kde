@@ -41,7 +41,7 @@ _get_version:
 dist: _get_version
 	git archive --format=tar.gz -o $(notdir $(CURDIR))-$(VERSION).tar.gz master -- $(THEMES)
 
-release: _get_version push
+release: _get_version
 	git tag -f $(VERSION)
 	git push origin
 	git push origin --tags
