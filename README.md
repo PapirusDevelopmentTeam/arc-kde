@@ -45,6 +45,12 @@ Use the scripts to install the latest version directly from this repo (independe
 wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/install.sh | sh
 ```
 
+##### HOME directory
+
+```
+wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/arc-kde/master/install.sh | PREFIX="$HOME/.local" sh
+```
+
 #### Uninstall
 
 ```
