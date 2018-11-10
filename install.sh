@@ -32,16 +32,8 @@ _msg() {
 
 _rm() {
     # removes parent directories if empty
-    _sudo rm -rf "$1"
-    _sudo rmdir -p "$(dirname "$1")" 2>/dev/null || true
-}
-
-_sudo() {
-    if [ -w "$PREFIX/share" ]; then
-        "$@"
-    else
-        sudo "$@"
-    fi
+    sudo rm -rf "$1"
+    sudo rmdir -p "$(dirname "$1")" 2>/dev/null || true
 }
 
 _download() {
@@ -76,7 +68,7 @@ _uninstall() {
 
 _install() {
     _msg "Installing ..."
-    _sudo cp -R \
+    sudo cp -R \
         "$temp_dir/$gh_repo-$TAG/aurorae" \
         "$temp_dir/$gh_repo-$TAG/color-schemes" \
         "$temp_dir/$gh_repo-$TAG/konsole" \
