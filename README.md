@@ -79,7 +79,7 @@ Packages in this section are not part of the official repositories. If you have 
 ## Extras
 
 - [VLC Skin](https://github.com/varlesh/VLC-Arc-Dark) — Arc Dark skin for [VLC](http://www.videolan.org/vlc/)
-- [KDE-gaps](http://www.simonizor.gq/kde-gaps) — a modification of Arc-Dark that removes the title, window buttons, and makes the window decorations completely transparent
+- [KDE-gaps](https://simoniz0r.github.io/kde-gaps.html) — a modification of Arc-Dark that removes the title, window buttons, and makes the window decorations completely transparent
 
 ## Donate
 
