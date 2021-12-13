@@ -14,7 +14,7 @@ check_size=16
 slider_width=4
 slider_handle_width=18
 slider_handle_length=18
-textless_progressbar=true
+textless_progressbar=false
 menubar_mouse_tracking=true
 slim_toolbars=false
 toolbutton_style=1
@@ -56,6 +56,7 @@ scrollbar_in_view=false
 spin_button_width=16
 submenu_delay=250
 tree_branch_line=true
+progressbar_thickness=8
 
 [GeneralColors]
 window.color=#353945
@@ -219,14 +220,14 @@ frame.right=1
 [Tab]
 inherits=PanelButtonCommand
 frame.top=1
-frame.bottom=0
+frame.bottom=1
 frame.left=1
 frame.right=1
 frame=true
 interior=false
 indicator.size=8
 text.normal.color=#898d99
-text.press.color=#ffffff
+text.focus.color=#ffffff
 text.press.color=#ffffff
 text.toggle.color=#ffffff
 
@@ -269,6 +270,11 @@ frame.bottom=1
 frame.left=1
 frame.right=1
 frame.expansion=0
+text.normal.color=#d3dae3
+text.focus.color=#5294e2
+text.press.color=#d3dae3
+text.toggle.color=#d3dae3
+indicator.element=harrow
 
 [SizeGrip]
 inherits=PanelButtonCommand
@@ -345,10 +351,6 @@ text.bold=false
 
 [RadioButton]
 inherits=PanelButtonCommand
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
 
 [Menu]
 inherits=PanelButtonCommand
