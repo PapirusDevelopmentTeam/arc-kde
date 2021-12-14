@@ -1,13 +1,14 @@
 [%General]
 author=Alexey Varfolomeev
 comment=Arc Darker style
+spread_menuitems=true
 left_tabs=true
 mirror_doc_tabs=true
 joined_tabs=true
 scroll_width=8
 attach_active_tab=true
 composite=true
-menu_shadow_depth=4
+menu_shadow_depth=7
 tooltip_shadow_depth=0
 splitter_width=7
 check_size=16
@@ -20,7 +21,7 @@ slim_toolbars=false
 toolbutton_style=1
 x11drag=menubar_and_primary_toolbar
 double_click=false
-translucent_windows=false
+translucent_windows=true
 blurring=false
 popup_blurring=true
 opaque=kaffeine,kmplayer,subtitlecomposer,kdenlive,vlc,smplayer,smplayer2,avidemux,avidemux2_qt4,avidemux3_qt4,avidemux3_qt5,kamoso,QtCreator,VirtualBox,trojita,dragon,digikam,qmplay2
@@ -39,9 +40,9 @@ combo_as_lineedit=true
 button_contents_shift=false
 groupbox_top_label=true
 inline_spin_indicators=true
-joined_inactive_tabs=true
+joined_inactive_tabs=false
 layout_spacing=2
-submenu_overlap=-1
+submenu_overlap=0
 tooltip_delay=-1
 animate_states=false
 transient_scrollbar=true
@@ -57,6 +58,18 @@ spin_button_width=16
 submenu_delay=250
 tree_branch_line=true
 progressbar_thickness=8
+click_behavior=0
+contrast=1.00
+dialog_button_layout=0
+drag_from_buttons=false
+hide_combo_checkboxes=false
+intensity=1.00
+no_inactiveness=false
+reduce_menu_opacity=0
+reduce_window_opacity=0
+saturation=1.00
+shadowless_popup=false
+transient_groove=false
 
 [GeneralColors]
 window.color=#ffffff
@@ -222,17 +235,27 @@ frame.right=1
 
 [Tab]
 inherits=PanelButtonCommand
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
-frame=true
-interior=false
-indicator.size=8
+interior.element=tab
+frame.element=tab
+frame.top=2
+frame.bottom=3
+frame.left=3
+frame.right=3
+indicator.size=10
 text.normal.color=#5c616c95
 text.focus.color=#5c616c
 text.press.color=#5c616c
 text.toggle.color=#5c616c
+
+[TabBarFrame]
+inherits=GenericFrame
+frame=true
+frame.element=tabBarFrame
+interior=false
+frame.top=4
+frame.bottom=4
+frame.left=4
+frame.right=4
 
 [TabFrame]
 inherits=PanelButtonCommand
@@ -250,17 +273,6 @@ interior=false
 frame=false
 frame.top=1
 frame.bottom=1
-frame.left=1
-frame.right=1
-
-[TabBarFrame]
-inherits=TabFrame
-interior=true
-interior.element=tabback
-frame.element=tabback
-frame=true
-frame.top=1
-frame.bottom=0
 frame.left=1
 frame.right=1
 
@@ -288,6 +300,8 @@ indicator.size=0
 
 [Toolbar]
 inherits=PanelButtonCommand
+interior.element=menubar
+frame.element=menubar
 frame=true
 frame.bottom=4
 frame.left=4
@@ -346,14 +360,18 @@ text.focus.color=#ffffff
 text.press.color=#ffffff
 text.toggle.color=#ffffff
 text.bold=false
+frame.expansion=18
 
 [RadioButton]
 inherits=PanelButtonCommand
 
 [Menu]
+frame.element=menu
+interior.element=menu
 inherits=PanelButtonCommand
-text.focus.color=#ffffff
 text.press.color=#ffffff
+text.toggle.color=#ffffff
+text.bold=false
 frame.top=3
 frame.bottom=3
 frame.left=3
@@ -388,7 +406,7 @@ frame.bottom=1
 [TitleBar]
 inherits=PanelButtonCommand
 frame=false
-interior.element=titlebar
+interior=false
 text.margin.top=2
 text.margin.bottom=2
 text.margin.left=3
@@ -428,10 +446,15 @@ lxqtmainmenu_iconsize=22
 normal_default_pushbutton=true
 single_top_toolbar=true
 tint_on_mouseover=0
-transparent_pcmanfm_sidepane=false
+transparent_pcmanfm_sidepane=true
 transparent_pcmanfm_view=false
 blur_translucent=true
 no_selection_tint=true
+centered_forms=false
+kinetic_scrolling=false
+middle_click_scroll=false
+noninteger_translucency=false
+style_vertical_toolbars=false
 
 [Window]
 interior=true
