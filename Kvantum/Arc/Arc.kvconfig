@@ -40,7 +40,7 @@ combo_as_lineedit=true
 button_contents_shift=false
 groupbox_top_label=true
 inline_spin_indicators=true
-joined_inactive_tabs=false
+joined_inactive_tabs=true
 layout_spacing=2
 submenu_overlap=0
 tooltip_delay=-1
@@ -66,7 +66,7 @@ hide_combo_checkboxes=false
 intensity=1.00
 no_inactiveness=false
 reduce_menu_opacity=0
-reduce_window_opacity=0
+reduce_window_opacity=5
 saturation=1.00
 shadowless_popup=false
 transient_groove=false
@@ -306,6 +306,15 @@ frame=true
 frame.bottom=4
 frame.left=4
 frame.right=4
+
+[MenuBar]
+inherits=PanelButtonCommand
+frame.element=menubar
+interior.element=menubar
+frame.bottom=0
+text.normal.color=#5c616c
+frame.expansion=0
+text.bold=false
 
 [ToolbarButton]
 frame.element=tbutton
