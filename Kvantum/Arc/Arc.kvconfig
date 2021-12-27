@@ -193,6 +193,7 @@ frame.top=3
 frame.bottom=3
 frame.left=3
 frame.right=3
+focusFrame=true
 
 [SliderCursor]
 inherits=PanelButtonCommand
@@ -245,6 +246,7 @@ text.normal.color=#5c616c95
 text.focus.color=#5c616c
 text.press.color=#5c616c
 text.toggle.color=#5c616c
+focusFrame=true
 
 [TabBarFrame]
 inherits=GenericFrame
