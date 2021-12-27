@@ -4,7 +4,6 @@ comment=Arc Dark style
 spread_menuitems=true
 left_tabs=true
 mirror_doc_tabs=true
-joined_tabs=true
 scroll_width=8
 attach_active_tab=true
 composite=true
@@ -40,7 +39,7 @@ combo_as_lineedit=true
 button_contents_shift=false
 groupbox_top_label=true
 inline_spin_indicators=true
-joined_inactive_tabs=true
+joined_inactive_tabs=false
 layout_spacing=2
 submenu_overlap=0
 tooltip_delay=-1
@@ -257,11 +256,6 @@ frame.right=4
 [TabFrame]
 inherits=PanelButtonCommand
 interior=false
-frame=true
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
 
 [Dialog]
 inherits=TabBarFrame
