@@ -123,13 +123,6 @@ frame.left=4
 frame=true
 
 [PanelButtonCommand]
-Interior=true
-text.normal.color=#5c616c
-text.focus.color=#5c616c
-text.press.color=#ffffff 
-text.toggle.color=#ffffff
-
-[PanelButtonTool]
 inherits=PanelButtonCommand
 interior.element=button
 frame.element=button
@@ -137,6 +130,9 @@ text.normal.color=#5c616c
 text.focus.color=#5c616c
 text.press.color=#ffffff 
 text.toggle.color=#ffffff
+
+[PanelButtonTool]
+inherits=PanelButtonCommand
 
 [DockTitle]
 inherits=PanelButtonCommand

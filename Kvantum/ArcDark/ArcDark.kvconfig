@@ -121,13 +121,6 @@ frame.left=4
 frame=true
 
 [PanelButtonCommand]
-Interior=true
-text.normal.color=#d3dae3
-text.focus.color=#d3dae3
-text.press.color=#ffffff 
-text.toggle.color=#ffffff
-
-[PanelButtonTool]
 inherits=PanelButtonCommand
 interior.element=button
 frame.element=button
@@ -135,6 +128,9 @@ text.normal.color=#d3dae3
 text.focus.color=#d3dae3
 text.press.color=#ffffff
 text.toggle.color=#ffffff
+
+[PanelButtonTool]
+inherits=PanelButtonCommand
 
 [DockTitle]
 inherits=PanelButtonCommand
@@ -461,6 +457,7 @@ middle_click_scroll=false
 no_selection_tint=false
 noninteger_translucency=false
 style_vertical_toolbars=false
+blur_only_active_window=false
 
 [Window]
 interior=true
