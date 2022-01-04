@@ -151,19 +151,10 @@ frame=true
 interior=true
 
 [GroupBox]
-inherits=GenericFrame
-interior.element=tab-focus
-frame.element=tabframe
-frame.top=1
-frame.bottom=1
-frame.left=1
-frame.right=1
+inherits=PanelButtonCommand
+interior.element=tabframe
 interior=true
-frame=true
-text.margin.top=6
-text.margin.bottom=6
-text.margin.left=15
-text.margin.right=15
+frame=false
 
 [Focus]
 inherits=PanelButtonCommand
@@ -177,6 +168,7 @@ frame.patternsize=20
 
 [GenericFrame]
 inherits=PanelButtonCommand
+frame.element=common
 frame.top=1
 frame.bottom=1
 frame.left=1
@@ -185,6 +177,8 @@ frame.right=1
 [Slider]
 inherits=PanelButtonCommand
 interior=true
+frame.element=slider
+interior.element=slider
 frame.top=3
 frame.bottom=3
 frame.left=3
@@ -194,10 +188,8 @@ focusFrame=true
 [SliderCursor]
 inherits=PanelButtonCommand
 interior=true
-frame.top=12
-frame.bottom=12
-frame.left=2
-frame.right=2
+interior.element=slidercursor
+frame=false
 
 [LineEdit]
 inherits=PanelButtonCommand
@@ -265,8 +257,8 @@ frame.right=4
 
 [TabFrame]
 inherits=PanelButtonCommand
-interior=false
-frame=true
+frame.element=tabframe
+interior.element=tabframe
 
 [Dialog]
 inherits=TabBarFrame
@@ -346,7 +338,8 @@ frame=false
 
 [ScrollbarSlider]
 inherits=PanelButtonCommand
-interior=true
+interior=false
+frame.element=scrollbarslider
 frame.top=4
 frame.bottom=4
 frame.left=4
