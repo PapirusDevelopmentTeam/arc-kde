@@ -1,11 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="22" height="22" version="1.1" style="enable-background:new">
- <defs>
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
-  </linearGradient>
- </defs>
- <g id="knotes" transform="translate(-425.0002,165.00336)">
-  <path d="m 425.0002,-165.00336 22,0 c 0,0 0,0 0,0 l 0,22 c 0,0 0,0 0,0 l -22,0 c 0,0 0,0 0,0 l 0,-22 c 0,0 0,0 0,0 z" style="opacity:0"/>
-  <path d="M 4.9335938,3 C 4.0002538,3 4,4.2304688 4,4.2304688 L 4,17.769531 C 4,17.769531 4.0002538,19 4.9335938,19 L 17.066406,19 C 17.066406,19 18,19.000301 18,17.769531 L 18,4.2304688 C 18,2.9996987 17.066406,3 17.066406,3 L 4.9335938,3 Z M 6,6 16,6 16,8 6,8 6,6 Z m 0,4 10,0 0,2 -10,0 0,-2 z m 0,4 6,0 0,2 -6,0 0,-2 z" transform="translate(425.0002,-165.00336)" style="fill:#d3dae3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <g id="22-22-knotes">
+  <path style="opacity:0.001" d="m 32,10 h 22 c 0,0 0,0 0,0 v 22 c 0,0 0,0 0,0 H 32 c 0,0 0,0 0,0 V 10 c 0,0 0,0 0,0 z"/>
+  <path style="fill:#d3dae3" d="M 36.933594,13 C 36.000254,13 36,14.230469 36,14.230469 V 27.769531 C 36,27.769531 36.000254,29 36.933594,29 H 44 l 6,-6 V 14.230469 C 50,12.999699 49.066406,13 49.066406,13 Z M 38,16 h 10 v 2 H 38 Z m 0,4 h 10 v 2 H 38 Z m 0,4 h 6 v 2 h -6 z"/>
+ </g>
+ <g id="knotes">
+  <path style="opacity:0.001" d="m 0,-1e-6 h 32.000001 c 0,0 0,0 0,0 V 32 c 0,0 0,0 0,0 H 0 c 0,0 0,0 0,0 V -1e-6 c 0,0 0,0 0,0 z"/>
+  <path style="fill:#d3dae3" d="M 6.4003906 4 C 5.0003806 4 5 5.8457031 5 5.8457031 L 5 26.154297 C 5 26.154297 5.0003806 28 6.4003906 28 L 17 28 L 26 19 L 26 5.8457031 C 26 3.9995482 24.599609 4 24.599609 4 L 6.4003906 4 z M 8 8 L 23 8 L 23 11 L 8 11 L 8 8 z M 8 14 L 23 14 L 23 17 L 8 17 L 8 14 z M 8 20 L 17 20 L 17 23 L 8 23 L 8 20 z"/>
  </g>
 </svg>

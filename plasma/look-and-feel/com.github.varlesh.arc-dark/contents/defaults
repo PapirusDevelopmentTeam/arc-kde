@@ -2,7 +2,7 @@
 widgetStyle=kvantum
 
 [kdeglobals][General]
-ColorScheme=Arc Dark
+ColorScheme=ArcDark
 
 [kdeglobals][Icons]
 Theme=Papirus-Dark
@@ -11,7 +11,9 @@ Theme=Papirus-Dark
 name=Arc-Dark
 
 [kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Arc-Dark
+BorderSize=None
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="55" version="1.0">
+ <g id="handle-shadow" transform="matrix(1.1,0,0,1.1,112.299,35.101)">
+  <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
+ </g>
+ <path id="groove-bottomright" style="fill:#4b5165" d="M 20.000001,20 V 30 C 30.000002,30 30.000002,20 30.000002,20 Z"/>
+ <path id="groove-right" style="fill:#4b5165" d="m 19.999998,10 v 10 h 10 V 10 Z"/>
+ <path id="groove-topright" style="fill:#4b5165" d="M 20,-1.5e-7 V 10 H 30.000001 C 30.000001,-1.5e-7 20,-1.5e-7 20,-1.5e-7 Z"/>
+ <path id="groove-bottomleft" style="fill:#4b5165" d="m 1e-6,20 c 0,0 0,10 10,10 V 20 Z"/>
+ <path id="groove-left" style="fill:#4b5165" d="M 1e-6,10 V 20 H 10 V 10 Z"/>
+ <path id="groove-topleft" style="fill:#4b5165" d="M 10,-1.5e-7 C 10,-1.5e-7 0,-1.5e-7 0,10 H 10 Z"/>
+ <path id="groove-bottom" style="fill:#4b5165" d="m 10.000001,20 v 10 h 10 V 20 Z"/>
+ <path id="groove-center" style="fill:#4b5165" d="M 19.999998,10 H 10 v 10 h 9.999998 z"/>
+ <path id="groove-top" style="fill:#4b5165" d="M 10,-1.5e-7 V 10 H 20 V -1.5e-7 Z"/>
+ <path id="groove-highlight-bottomright" style="fill:#5294e2" d="M 50.000005,20 V 30 C 60.000008,30 60.000008,20 60.000008,20 Z"/>
+ <path id="groove-highlight-right" style="fill:#5294e2" d="M 49.999996,10 V 20 H 59.999998 V 10 Z"/>
+ <path id="groove-highlight-topright" style="fill:#5294e2" d="m 50.000004,0 v 10 h 10.000003 c 0,0 0,-10 -10.000003,-10 z"/>
+ <path id="groove-highlight-bottomleft" style="fill:#5294e2" d="m 30.000007,20 c 0,0 0,10 10,10 V 20 Z"/>
+ <path id="groove-highlight-left" style="fill:#5294e2" d="m 30.000001,10 v 10 h 9.999998 V 10 Z"/>
+ <path id="groove-highlight-topleft" style="fill:#5294e2" d="m 40.000006,0 c -10,0 -10,10 -10,10 h 10 z"/>
+ <path id="groove-highlight-bottom" style="fill:#5294e2" d="m 40.000007,20 v 10 h 9.999998 V 20 Z"/>
+ <path id="groove-highlight-center" style="fill:#5294e2" d="m 49.999996,10 h -9.999997 v 10 h 9.999997 z"/>
+ <path id="groove-highlight-top" style="fill:#5294e2" d="m 40.000006,0 v 10 h 9.999998 V 0 Z"/>
+ <rect style="fill:#ff0000" id="hint-handle-size" width="20" height="20" x="66" y="7"/>
+ <g id="handle" transform="matrix(1.1,0,0,1.1,46.299171,35.101)">
+  <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
+  <path style="fill:#353a47" d="m -23.453636,8.0899998 a 8.6363636,8.6363636 0 0 1 -8.636363,8.6363642 8.6363636,8.6363636 0 0 1 -8.636364,-8.6363642 8.6363636,8.6363636 0 0 1 8.636364,-8.63636365 8.6363636,8.6363636 0 0 1 8.636363,8.63636365 z"/>
+ </g>
+ <g id="handle-hover" transform="matrix(1.1,0,0,1.1,68.299171,35.101)">
+  <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
+  <path style="fill:#353a47" transform="matrix(0.90909091,0,0,0.90909091,-62.090155,-31.91)" d="M 33 34.5 A 9.5 9.5 0 0 0 23.5 44 A 9.5 9.5 0 0 0 33 53.5 A 9.5 9.5 0 0 0 42.5 44 A 9.5 9.5 0 0 0 33 34.5 z"/>
+ </g>
+ <g id="handle-focus" transform="matrix(1.1,0,0,1.1,90.299171,35.101)">
+  <rect style="opacity:0.001" width="20" height="20" x="-42.09" y="-1.91"/>
+  <path style="fill:#353a47" transform="matrix(0.90909091,0,0,0.90909091,-82.090155,-31.91)" d="M 55 34.5 A 9.5 9.5 0 0 0 45.5 44 A 9.5 9.5 0 0 0 55 53.5 A 9.5 9.5 0 0 0 64.5 44 A 9.5 9.5 0 0 0 55 34.5 z"/>
+ </g>
+</svg>

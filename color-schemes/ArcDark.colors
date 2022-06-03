@@ -24,13 +24,17 @@ BackgroundNormal=65,72,87
 DecorationFocus=82,148,226
 DecorationHover=82,148,226
 ForegroundActive=61,174,233
-ForegroundInactive=102,106,115
-ForegroundLink=41,128,185
+ForegroundInactive=137,141,153
+ForegroundLink=29,153,243
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=211,218,227
 ForegroundPositive=39,174,96
-ForegroundVisited=82,148,226
+ForegroundVisited=155,89,182
+
+[Colors:Complementary]
+ForegroundLink=29,153,243
+ForegroundVisited=155,89,182
 
 [Colors:Selection]
 BackgroundAlternate=29,153,243
@@ -38,13 +42,13 @@ BackgroundNormal=82,148,226
 DecorationFocus=82,148,226
 DecorationHover=82,148,226
 ForegroundActive=252,252,252
-ForegroundInactive=211,218,227
-ForegroundLink=253,188,75
-ForegroundNegative=218,68,83
-ForegroundNeutral=246,116,0
+ForegroundInactive=147,186,227
+ForegroundLink=20,109,172
+ForegroundNegative=160,48,50
+ForegroundNeutral=182,85,0
 ForegroundNormal=211,218,227
-ForegroundPositive=39,174,96
-ForegroundVisited=189,195,199
+ForegroundPositive=27,123,67
+ForegroundVisited=155,89,182
 
 [Colors:Tooltip]
 BackgroundAlternate=47,52,63
@@ -52,13 +56,13 @@ BackgroundNormal=53,57,69
 DecorationFocus=82,148,226
 DecorationHover=82,148,226
 ForegroundActive=61,174,233
-ForegroundInactive=102,106,115
-ForegroundLink=41,128,185
+ForegroundInactive=137,141,153
+ForegroundLink=29,153,243
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=211,218,227
 ForegroundPositive=39,174,96
-ForegroundVisited=82,148,226
+ForegroundVisited=155,89,182
 
 [Colors:View]
 BackgroundAlternate=64,69,82
@@ -66,13 +70,13 @@ BackgroundNormal=64,69,82
 DecorationFocus=82,148,226
 DecorationHover=82,148,226
 ForegroundActive=61,174,233
-ForegroundInactive=102,106,115
-ForegroundLink=41,128,185
+ForegroundInactive=137,141,153
+ForegroundLink=29,153,243
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=211,218,227
 ForegroundPositive=39,174,96
-ForegroundVisited=82,148,226
+ForegroundVisited=155,89,182
 
 [Colors:Window]
 BackgroundAlternate=47,52,63
@@ -80,16 +84,16 @@ BackgroundNormal=47,52,63
 DecorationFocus=82,148,226
 DecorationHover=82,148,226
 ForegroundActive=61,174,233
-ForegroundInactive=102,106,115
-ForegroundLink=41,128,185
+ForegroundInactive=137,141,153
+ForegroundLink=29,153,243
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=211,218,227
 ForegroundPositive=39,174,96
-ForegroundVisited=82,148,226
+ForegroundVisited=155,89,182
 
 [General]
-ColorScheme=Arc Dark
+ColorScheme=ArcDark
 Name=Arc Dark
 shadeSortColumn=true
 

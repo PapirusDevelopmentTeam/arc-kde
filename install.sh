@@ -62,6 +62,7 @@ _uninstall() {
     _rm "$PREFIX/share/plasma/look-and-feel/com.github.varlesh.arc-dark"
     _rm "$PREFIX/share/wallpapers/Arc"
     _rm "$PREFIX/share/wallpapers/Arc-Dark"
+    _rm "$PREFIX/share/wallpapers/Arc-Mountains"
     _rm "$PREFIX/share/yakuake/skins/arc"
     _rm "$PREFIX/share/yakuake/skins/arc-dark"
 }

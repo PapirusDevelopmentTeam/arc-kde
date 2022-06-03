@@ -31,6 +31,7 @@ uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.arc-dark
 	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Arc
 	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Arc-Dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Arc-Mountains
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/arc
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/arc-dark
 

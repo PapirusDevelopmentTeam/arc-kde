@@ -1,39 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="136" height="136" version="1.1" viewBox="0 0 35.98 35.98">
- <g id="layer1" transform="translate(0.52916664,-249.37498)">
-  <g id="add-normal">
-   <rect id="rect4208" width="5.821" height="5.821" x="6.62" y="253.87" style="opacity:0.5;fill:none;fill-opacity:1;stroke:none"/>
-   <ellipse id="path4210" cx="9.525" cy="256.783" rx="2.117" ry="2.117" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"/>
-   <ellipse id="ellipse4212" cx="9.525" cy="256.783" rx="1.852" ry="1.852" style="opacity:1;fill:#414857;fill-opacity:1;stroke:none"/>
-  </g>
-  <g id="add-hover">
-   <rect id="rect4214" width="5.821" height="5.821" x="12.44" y="253.87" style="opacity:0.5;fill:none;fill-opacity:1;stroke:none"/>
-  </g>
-  <g id="add-pressed">
-   <rect id="rect4220" width="5.821" height="5.821" x="18.26" y="253.87" style="opacity:0.5;fill:none;fill-opacity:1;stroke:none"/>
-  </g>
-  <g id="open-pressed">
-   <rect id="rect4254" width="5.821" height="5.821" x="6.62" y="259.69" style="opacity:1;fill:none;fill-opacity:1;stroke:none"/>
-  </g>
-  <g id="open-hover">
-   <rect id="rect4274" width="5.821" height="5.821" x="12.44" y="259.69" style="opacity:1;fill:none;fill-opacity:1;stroke:none"/>
-  </g>
-  <g id="remove-normal" transform="translate(0,10.847919)">
-   <rect id="rect4312" width="5.821" height="5.821" x="6.62" y="253.87" style="opacity:0.5;fill:none;fill-opacity:1;stroke:none"/>
-   <ellipse id="ellipse4314" cx="9.525" cy="256.783" rx="2.117" ry="2.117" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"/>
-   <ellipse id="ellipse4316" cx="9.525" cy="256.783" rx="1.852" ry="1.852" style="opacity:1;fill:#414857;fill-opacity:1;stroke:none"/>
-   <ellipse id="ellipse4336" cx="9.525" cy="256.783" rx="1.323" ry="1.323" style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none"/>
-  </g>
-  <g id="remove-hover" transform="translate(0,10.847919)">
-   <rect id="rect4320" width="5.821" height="5.821" x="12.44" y="253.87" style="opacity:0.5;fill:none;fill-opacity:1;stroke:none"/>
-  </g>
-  <g id="remove-pressed" transform="translate(0,10.847919)">
-   <rect id="rect4328" width="5.821" height="5.821" x="18.26" y="253.87" style="opacity:0.5;fill:none;fill-opacity:1;stroke:none"/>
-  </g>
-  <g id="open-normal" transform="translate(11.641667,5.8208355)">
-   <rect id="rect4312-9" width="5.821" height="5.821" x="6.62" y="253.87" style="opacity:0.5;fill:none;fill-opacity:1;stroke:none"/>
-   <ellipse id="ellipse4314-6" cx="9.525" cy="256.783" rx="2.117" ry="2.117" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"/>
-   <ellipse id="ellipse4316-2" cx="-9.525" cy="-256.783" rx="1.852" ry="1.852" transform="scale(-1,-1)" style="opacity:1;fill:#414857;fill-opacity:1;stroke:none"/>
-   <path id="ellipse4336-2" d="m 8.5901741,257.71817 1.8696539,-1.86965 a 1.3229165,1.3229121 0 0 0 -0.9348268,-0.38809 1.3229165,1.3229121 0 0 0 -1.3229171,1.32291 1.3229165,1.3229121 0 0 0 0.38809,0.93483 z" style="opacity:1;fill:#5294e2;fill-opacity:1;stroke:none"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="66" version="1.1">
+ <g id="add-normal" transform="translate(-13,-13)">
+  <rect style="opacity:0.001" width="22" height="22" x="13" y="13"/>
+  <path style="fill:#ffffff" transform="translate(13,79)" d="m 10,-60 v 4 H 6 v 2 h 4 v 4 h 2 v -4 h 4 v -2 h -4 v -4 z"/>
+ </g>
+ <g id="remove-normal" transform="translate(-13,9)">
+  <rect style="opacity:0.001" width="22" height="22" x="13" y="13"/>
+  <rect style="fill:#ffffff" width="2" height="10" x="23" y="-29" transform="rotate(90)"/>
+ </g>
+ <g id="add-hover" transform="translate(9,-13)">
+  <rect style="opacity:0.001" width="22" height="22" x="13" y="13"/>
+  <path style="fill:#272a33" d="m 34,24.000001 a 9.9999999,9.9999999 0 0 1 -10,9.999998 9.9999999,9.9999999 0 0 1 -10,-9.999998 9.9999999,9.9999999 0 0 1 10,-10 9.9999999,9.9999999 0 0 1 10,10 z"/>
+  <path style="fill:#505666" d="M 33,24.000002 A 8.9999999,8.9999999 0 0 1 24,33 a 8.9999999,8.9999999 0 0 1 -9,-8.999998 8.9999999,8.9999999 0 0 1 9,-9 8.9999999,8.9999999 0 0 1 9,9 z"/>
+  <path style="fill:#ffffff" transform="translate(-9,79)" d="m 32,-60 v 4 h -4 v 2 h 4 v 4 h 2 v -4 h 4 v -2 h -4 v -4 z"/>
+ </g>
+ <g id="remove-hover" transform="translate(9,9)">
+  <rect style="opacity:0.001" width="22" height="22" x="13" y="13"/>
+  <path style="fill:#272a33" d="m 34,24.000001 a 9.9999999,9.9999999 0 0 1 -10,9.999998 9.9999999,9.9999999 0 0 1 -10,-9.999998 9.9999999,9.9999999 0 0 1 10,-10 9.9999999,9.9999999 0 0 1 10,10 z"/>
+  <path style="fill:#505666" d="M 33,24.000002 A 8.9999999,8.9999999 0 0 1 24,33 a 8.9999999,8.9999999 0 0 1 -9,-8.999998 8.9999999,8.9999999 0 0 1 9,-9 8.9999999,8.9999999 0 0 1 9,9 z"/>
+  <rect style="fill:#ffffff" width="2" height="10" x="23" y="-29" transform="rotate(90)"/>
+ </g>
+ <g id="add-pressed" transform="translate(31,-13)">
+  <rect style="opacity:0.001" width="22" height="22" x="13" y="13"/>
+  <path style="fill:#272a33" d="m 34,24.000001 a 9.9999999,9.9999999 0 0 1 -10,9.999998 9.9999999,9.9999999 0 0 1 -10,-9.999998 9.9999999,9.9999999 0 0 1 10,-10 9.9999999,9.9999999 0 0 1 10,10 z"/>
+  <path style="fill:#505666" d="M 33,24.000002 A 8.9999999,8.9999999 0 0 1 24,33 a 8.9999999,8.9999999 0 0 1 -9,-8.999998 8.9999999,8.9999999 0 0 1 9,-9 8.9999999,8.9999999 0 0 1 9,9 z"/>
+  <path style="fill:#ffffff" transform="translate(-31,79)" d="m 54,-60 v 4 h -4 v 2 h 4 v 4 h 2 v -4 h 4 v -2 h -4 v -4 z"/>
+ </g>
+ <g id="remove-pressed" transform="translate(31,9)">
+  <rect style="opacity:0.001" width="22" height="22" x="13" y="13"/>
+  <path style="fill:#272a33" d="m 34,24.000001 a 9.9999999,9.9999999 0 0 1 -10,9.999998 9.9999999,9.9999999 0 0 1 -10,-9.999998 9.9999999,9.9999999 0 0 1 10,-10 9.9999999,9.9999999 0 0 1 10,10 z"/>
+  <path style="fill:#505666" d="M 33,24.000002 A 8.9999999,8.9999999 0 0 1 24,33 a 8.9999999,8.9999999 0 0 1 -9,-8.999998 8.9999999,8.9999999 0 0 1 9,-9 8.9999999,8.9999999 0 0 1 9,9 z"/>
+  <rect style="fill:#ffffff" width="2" height="10" x="23" y="-29" transform="rotate(90)"/>
+ </g>
+ <g id="open-hover">
+  <rect style="opacity:0.001" width="22" height="22" x="22" y="44"/>
+  <path style="fill:#272a33" d="m 43,55.000001 a 9.9999999,9.9999999 0 0 1 -10,9.999998 9.9999999,9.9999999 0 0 1 -10,-9.999998 9.9999999,9.9999999 0 0 1 10,-10 9.9999999,9.9999999 0 0 1 10,10 z"/>
+  <path style="fill:#505666" d="M 42,55.000002 A 8.9999999,8.9999999 0 0 1 33,64 a 8.9999999,8.9999999 0 0 1 -9,-8.999998 8.9999999,8.9999999 0 0 1 9,-9 8.9999999,8.9999999 0 0 1 9,9 z"/>
+  <path style="opacity:1;fill:#ffffff" d="m 33,50 -5,5 h 3 v 3.333333 C 31,59.256667 32.076667,60 33,60 c 0.923333,0 2.091875,-0.747915 2,-1.666667 V 55 h 3 z"/>
+ </g>
+ <g id="open-pressed">
+  <rect style="opacity:0.001" width="22" height="22" x="44" y="44"/>
+  <path style="fill:#272a33" d="m 65,55.000001 a 9.9999999,9.9999999 0 0 1 -10,9.999998 9.9999999,9.9999999 0 0 1 -10,-9.999998 9.9999999,9.9999999 0 0 1 10,-10 9.9999999,9.9999999 0 0 1 10,10 z"/>
+  <path style="fill:#505666" d="M 64,55.000002 A 8.9999999,8.9999999 0 0 1 55,64 a 8.9999999,8.9999999 0 0 1 -9,-8.999998 8.9999999,8.9999999 0 0 1 9,-9 8.9999999,8.9999999 0 0 1 9,9 z"/>
+  <path style="opacity:1;fill:#ffffff" d="m 55,50 -5,5 h 3 v 3.333333 C 53,59.256667 54.076667,60 55,60 c 0.923333,0 2.091875,-0.747915 2,-1.666667 V 55 h 3 z"/>
+ </g>
+ <g id="open-normal">
+  <rect style="opacity:0.001" width="22" height="22" x="0" y="44"/>
+  <path style="opacity:1;fill:#ffffff" d="m 11,50 -5,5 h 3 v 3.333333 C 9,59.256667 10.076667,60 11,60 c 0.923333,0 2.091875,-0.747915 2,-1.666667 V 55 h 3 z"/>
  </g>
 </svg>

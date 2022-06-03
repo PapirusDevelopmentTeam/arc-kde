@@ -1,21 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" width="22" height="22" version="1.1" style="enable-background:new">
- <defs>
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000"/>
-  </linearGradient>
- </defs>
- <g id="mail-unread" transform="translate(-467.00009,-135)">
-  <path d="m 472.00009,140 c -1.108,0 -2,0.892 -2,2 l 0,8 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 l 0,-8 c 0,-1.108 -0.892,-2 -2,-2 l -12,0 z m 0,2 6,3 6,-3 0,2 -6,3 -6,-3 0,-2 z" style="fill:#d3dae3"/>
-  <path d="m 467.0002,135 22,0 0,22 -22,0 z" style="opacity:0;fill:#2b0000;fill-opacity:0.40392157"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <g id="22-22-mail-unread" transform="translate(-403.0002,-157)">
+  <path style="fill:#d3dae3" d="m 472.00009,140 c -1.108,0 -2,0.892 -2,2 v 8 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 v -8 c 0,-1.108 -0.892,-2 -2,-2 z m 0,2 6,3 6,-3 v 2 l -6,3 -6,-3 z"/>
+  <path style="opacity:0.001" d="m 467.0002,135 h 22 v 22 h -22 z"/>
  </g>
- <g id="mail-unread-new">
-  <path d="m 1.1e-4,-22 22,0 0,22 -22,0 z" style="opacity:0.001"/>
-  <path d="m 5,-17 c -1.108,0 -2,0.892 -2,2 l 0,8 c 0,1.108 0.892,2 2,2 l 11,0 c -1.645,0 -3,-1.355 -3,-3 0,-1.645 1.355,-3 3,-3 1.645,0 3,1.355 3,3 l 0,-7 c 0,-1.108 -0.892,-2 -2,-2 l -12,0 z m 0,2 6,3 6,-3 0,2 -6,3 -6,-3 0,-2 z" style="fill:#d3dae3"/>
-  <path d="m 16,-10 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z" style="fill:#5294e2"/>
+ <g id="22-22-mail-unread-new" transform="translate(31.99989)">
+  <path style="opacity:0.001" d="m 1.1e-4,-22 h 22 V 0 h -22 z"/>
+  <path style="fill:#d3dae3" d="m 5,-17 c -1.108,0 -2,0.892 -2,2 v 8 c 0,1.108 0.892,2 2,2 h 11 c -1.645,0 -3,-1.355 -3,-3 0,-1.645 1.355,-3 3,-3 1.645,0 3,1.355 3,3 v -7 c 0,-1.108 -0.892,-2 -2,-2 z m 0,2 6,3 6,-3 v 2 l -6,3 -6,-3 z"/>
+  <path style="fill:#4285f4" d="m 16,-10 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"/>
  </g>
- <g id="mail-mark-unread-new" transform="translate(0,-22)">
-  <path d="m 1.1e-4,-22 22,0 0,22 -22,0 z" style="opacity:0.00100002"/>
-  <path d="m 5,-17 c -1.108,0 -2,0.892 -2,2 l 0,8 c 0,1.108 0.892,2 2,2 l 11,0 c -1.645,0 -3,-1.355 -3,-3 0,-1.645 1.355,-3 3,-3 1.645,0 3,1.355 3,3 l 0,-7 c 0,-1.108 -0.892,-2 -2,-2 l -12,0 z m 0,2 6,3 6,-3 0,2 -6,3 -6,-3 0,-2 z" style="fill:#d3dae3"/>
-  <path d="m 16,-10 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z" style="fill:#5294e2"/>
+ <g id="22-22-mail-mark-unread-new" transform="translate(-1.1029545e-4)">
+  <path style="opacity:0.001" d="m 1.1e-4,-22 h 22 V 0 h -22 z"/>
+  <path style="fill:#d3dae3" d="m 5,-17 c -1.108,0 -2,0.892 -2,2 v 8 c 0,1.108 0.892,2 2,2 h 11 c -1.645,0 -3,-1.355 -3,-3 0,-1.645 1.355,-3 3,-3 1.645,0 3,1.355 3,3 v -7 c 0,-1.108 -0.892,-2 -2,-2 z m 0,2 6,3 6,-3 v 2 l -6,3 -6,-3 z"/>
+  <path style="fill:#4285f4" d="m 16,-10 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"/>
+ </g>
+ <g id="mail-unread" transform="translate(64.000001,-3e-6)">
+  <path style="fill:#d3dae3" d="M 7,7 C 5.338,7 4,8.3380001 4,10 v 12 c 0,1.662 1.338,3 3,3 h 18 c 1.661999,0 3,-1.338 3,-3 V 10 C 28,8.338 26.661999,7 25,7 Z m 0,3 9,4.5 9,-4.5 v 3 L 16,17.500001 7,13 Z"/>
+  <path style="opacity:0.001" d="M -5.9089996e-7,2.5e-6 H 32 V 32.000003 H -5.9089996e-7 Z"/>
+ </g>
+ <g id="mail-mark-unread-new">
+  <path style="fill:#d3dae3" d="M 7 7 C 5.338 7 4 8.3380001 4 10 L 4 22 C 4 23.662 5.338 25 7 25 L 23 25 A 5 5 0 0 1 18 20 A 5 5 0 0 1 23 15 A 5 5 0 0 1 28 20 L 28 10 C 28 8.3379999 26.661999 7 25 7 L 7 7 z M 7 10 L 16 14.5 L 25 10 L 25 13 L 16 17.5 L 7 13 L 7 10 z M 28 20.007812 A 5 5 0 0 1 27.894531 21 L 28 21 L 28 20.007812 z"/>
+  <path style="opacity:0.001" d="M -2.9544998e-7,-2.5e-7 H 32 V 32 H -2.9544998e-7 Z"/>
+  <path style="fill:#4285f4" d="m 23,17 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"/>
+ </g>
+ <g id="mail-unread-new" transform="translate(32)">
+  <path style="fill:#d3dae3" d="M 7,7 C 5.338,7 4,8.3380001 4,10 v 12 c 0,1.662 1.338,3 3,3 h 16 a 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 V 10 C 28,8.3379999 26.661999,7 25,7 Z m 0,3 9,4.5 9,-4.5 v 3 L 16,17.5 7,13 Z M 28,20.007812 A 5,5 0 0 1 27.894531,21 H 28 Z"/>
+  <path style="opacity:0.001" d="M -2.9544998e-7,-2.5e-7 H 32 V 32 H -2.9544998e-7 Z"/>
+  <path style="fill:#4285f4" d="m 23,17 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"/>
  </g>
 </svg>
