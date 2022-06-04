@@ -193,11 +193,12 @@ frame=false
 
 [LineEdit]
 inherits=PanelButtonCommand
-indicator.element=larrow
+frame.element=lineedit
+interior.element=lineedit
 
 [ToolbarLineEdit]
-frame.element=tcombo
-interior.element=tcombo
+frame.element=tlineedit
+interior.element=tlineedit
 text.normal.color=#d3dae3
 text.focus.color=#d3dae3
 text.press.color=#d3dae3

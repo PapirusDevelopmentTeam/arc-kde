@@ -191,6 +191,8 @@ frame=false
 
 [LineEdit]
 inherits=PanelButtonCommand
+frame.element=lineedit
+interior.element=lineedit
 
 [IndicatorSpinBox]
 inherits=LineEdit
