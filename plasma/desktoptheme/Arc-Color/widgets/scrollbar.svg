@@ -1,198 +1,187 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg3642" width="48" height="98" version="1">
- <defs id="defs3644">
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="98" version="1">
+<defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; stop-color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; stop-color:#5294e2; }
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
- <g id="layer1">
-  <rect id="slider-center" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.2" class="ColorScheme-Text" width="1" height="10" x="24" y="20"/>
+ <g>
+  <rect id="slider-center" style="fill:currentColor;opacity:0.2" class="ColorScheme-Text" width="1" height="10" x="24" y="20"/>
   <g id="slider-right" transform="matrix(0.75,0,0,1,19.25,13)">
-   <path id="rect3838" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.2" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
-   <rect id="rect3856" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="29" y="20" transform="matrix(1.3333333,0,0,1,-25.666667,-13)"/>
+   <path style="fill:currentColor;opacity:0.2" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect style="opacity:0.001" width="1" height="10" x="29" y="20" transform="matrix(1.3333333,0,0,1,-25.666667,-13)"/>
   </g>
   <g id="slider-topright" transform="matrix(0.75,0,0,0.75,19.25,13.75)">
-   <rect id="rect3852" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="26" y="15" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-18.333333)"/>
-   <path id="rect3840" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.2" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="26" y="15" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-18.333333)"/>
+   <path style="fill:currentColor;opacity:0.2" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
   </g>
   <g id="slider-bottomright" transform="matrix(0.75,0,0,0.75,19.25,18.25)">
-   <rect id="rect3862" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="26" y="31" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-24.333333)"/>
-   <path id="path3871" style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="26" y="31" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-24.333333)"/>
+   <path style="opacity:0.2;fill:currentColor" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
   </g>
   <g id="slider-left" transform="matrix(-0.75,0,0,1,29.75,13)">
-   <path id="path3891" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.2" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
-   <rect id="rect3854" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="19" y="20" transform="matrix(-1.3333333,0,0,1,39.666667,-13)"/>
+   <path style="fill:currentColor;opacity:0.2" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect style="opacity:0.001" width="1" height="10" x="19" y="20" transform="matrix(-1.3333333,0,0,1,39.666667,-13)"/>
   </g>
   <g id="slider-topleft" transform="matrix(-0.75,0,0,0.75,29.75,13.75)">
-   <rect id="rect3848" style="fill:#e4e6e8;fill-opacity:1;stroke:none;opacity:0.01" width="4" height="4" x="19" y="15" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-18.333333)"/>
-   <path id="path3895" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.2" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+   <rect style="fill:#e4e6e8;opacity:0.01" width="4" height="4" x="19" y="15" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-18.333333)"/>
+   <path style="fill:currentColor;opacity:0.2" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
   </g>
   <g id="slider-bottomleft" transform="matrix(-0.75,0,0,0.75,29.75,18.25)">
-   <rect id="rect3858" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="19" y="31" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-24.333333)"/>
-   <path id="path3901" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.2" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="19" y="31" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-24.333333)"/>
+   <path style="fill:currentColor;opacity:0.2" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
   </g>
   <g id="slider-top" transform="matrix(0,-0.75,-0.1,0,25.7,25.75)">
-   <rect id="rect3850" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="24" y="15" transform="matrix(0,-10,-1.3333333,0,34.333333,257)"/>
-   <path id="path3909" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.2" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect style="opacity:0.001" width="1" height="4" x="24" y="15" transform="matrix(0,-10,-1.3333333,0,34.333333,257)"/>
+   <path style="fill:currentColor;opacity:0.2" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
   </g>
   <g id="slider-bottom" transform="matrix(0,0.75,-0.1,0,25.7,24.25)">
-   <rect id="rect3860" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="24" y="31" transform="matrix(0,-10,1.3333333,0,-32.333333,257)"/>
-   <path id="path3915" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.2" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect style="opacity:0.001" width="1" height="4" x="24" y="31" transform="matrix(0,-10,1.3333333,0,-32.333333,257)"/>
+   <path style="fill:currentColor;opacity:0.2" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
   </g>
-  <rect id="hint-scrollbar-size" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="8" height="8" x="4" y="25" rx="0" ry="8"/>
-  <rect id="hint-tile-center" style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" width="2.033" height="2.077" x="7.26" y="11.66" rx="0" ry="2.077"/>
+  <rect id="hint-scrollbar-size" style="fill:#4e9a06" width="8" height="8" x="4" y="25" rx="0" ry="8"/>
+  <rect id="hint-tile-center" style="fill:#4e9a06" width="2.033" height="2.077" x="7.26" y="11.66" rx="0" ry="2.077"/>
   <g id="background-vertical-right" transform="matrix(0.75,0,0,1,33.25,13)">
-   <path id="rect3838-1" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
-   <rect id="rect3872" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="43" y="20" transform="matrix(1.3333333,0,0,1,-44.333333,-13)"/>
-   <path id="path4264" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
+   <path style="fill:currentColor;opacity:0" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect style="opacity:0.001" width="1" height="10" x="43" y="20" transform="matrix(1.3333333,0,0,1,-44.333333,-13)"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
   </g>
   <g id="background-vertical-topright" transform="matrix(0.75,0,0,0.75,33.25,13.75)">
-   <rect id="rect3868" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="40" y="15" transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-18.333333)"/>
-   <path id="rect3840-1" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
-   <path id="path4278" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 Z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="40" y="15" transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-18.333333)"/>
+   <path style="fill:currentColor;opacity:0" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 Z"/>
   </g>
   <g id="background-vertical-bottomright" transform="matrix(0.75,0,0,0.75,33.25,18.25)">
-   <rect id="rect3878" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="40" y="31" transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-24.333333)"/>
-   <path id="path3871-2" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
-   <path id="path4284" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="40" y="31" transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-24.333333)"/>
+   <path style="fill:currentColor;opacity:0" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
   </g>
   <g id="background-vertical-left" transform="matrix(-0.75,0,0,1,43.75,13)">
-   <path id="path3891-2" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
-   <rect id="rect3870" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="33" y="20" transform="matrix(-1.3333333,0,0,1,58.333333,-13)"/>
-   <path id="path4262" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
+   <rect style="opacity:0.001" width="1" height="10" x="33" y="20" transform="matrix(-1.3333333,0,0,1,58.333333,-13)"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
   </g>
   <g id="background-vertical-topleft" transform="matrix(-0.75,0,0,0.75,43.75,13.75)">
-   <rect id="rect3864" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="33" y="15" transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-18.333333)"/>
-   <path id="path3895-9" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
-   <path id="path4274" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 Z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="33" y="15" transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-18.333333)"/>
+   <path style="fill:currentColor;opacity:0" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 Z"/>
   </g>
   <g id="background-vertical-bottomleft" transform="matrix(-0.75,0,0,0.75,43.75,18.25)">
-   <rect id="rect3874" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="33" y="31" transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-24.333333)"/>
-   <path id="path3901-7" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
-   <path id="path4280" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="33" y="31" transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-24.333333)"/>
+   <path style="fill:currentColor;opacity:0" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
   </g>
   <g id="background-vertical-top" transform="matrix(0,-0.75,-0.1,0,39.7,25.75)">
-   <rect id="rect3866" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="38" y="15" transform="matrix(0,-10,-1.3333333,0,34.333333,397)"/>
-   <path id="path3909-8" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
-   <path id="path4276" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
+   <rect style="opacity:0.001" width="1" height="4" x="38" y="15" transform="matrix(0,-10,-1.3333333,0,34.333333,397)"/>
+   <path style="fill:currentColor;opacity:0" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
   </g>
   <g id="background-vertical-bottom" transform="matrix(0,0.75,-0.1,0,39.7,24.25)">
-   <rect id="rect3876" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="38" y="31" transform="matrix(0,-10,1.3333333,0,-32.333333,397)"/>
-   <path id="path3915-5" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
-   <path id="path4282" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
+   <rect style="opacity:0.001" width="1" height="4" x="38" y="31" transform="matrix(0,-10,1.3333333,0,-32.333333,397)"/>
+   <path style="fill:currentColor;opacity:0" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
   </g>
-  <rect id="sunken-slider-center" style="fill:currentColor;fill-rule:evenodd;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" width="1" height="10" x="24" y="64"/>
+  <rect id="sunken-slider-center" style="fill:currentColor" class="ColorScheme-Highlight" width="1" height="10" x="24" y="64"/>
   <g id="sunken-slider-right" transform="matrix(0.75,0,0,1,19.25,57)">
-   <path id="rect3838-4-8" style="fill:currentColor;fill-rule:evenodd;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
-   <rect id="rect3924" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="29" y="64" transform="matrix(1.3333333,0,0,1,-25.666667,-57)"/>
+   <path style="fill:currentColor" class="ColorScheme-Highlight" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect style="opacity:0.001" width="1" height="10" x="29" y="64" transform="matrix(1.3333333,0,0,1,-25.666667,-57)"/>
   </g>
   <g id="sunken-slider-topright" transform="matrix(0.75,0,0,0.75,19.25,57.75)">
-   <rect id="rect3920" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="26" y="59" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-77)"/>
-   <path id="rect3840-2-9" style="fill:currentColor;fill-rule:evenodd;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="26" y="59" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-77)"/>
+   <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
   </g>
   <g id="sunken-slider-bottomright" transform="matrix(0.75,0,0,0.75,19.25,62.25)">
-   <rect id="rect3930" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="26" y="75" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-83)"/>
-   <path id="path3871-1-7" style="fill:currentColor;fill-rule:evenodd;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="26" y="75" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-83)"/>
+   <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
   </g>
   <g id="sunken-slider-left" transform="matrix(-0.75,0,0,1,29.75,57)">
-   <path id="path3891-9-4" style="fill:currentColor;fill-rule:evenodd;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
-   <rect id="rect3922" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="19" y="64" transform="matrix(-1.3333333,0,0,1,39.666667,-57)"/>
+   <path style="fill:currentColor" class="ColorScheme-Highlight" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect style="opacity:0.001" width="1" height="10" x="19" y="64" transform="matrix(-1.3333333,0,0,1,39.666667,-57)"/>
   </g>
   <g id="sunken-slider-topleft" transform="matrix(-0.75,0,0,0.75,29.75,57.75)">
-   <rect id="rect3916" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="19" y="59" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-77)"/>
-   <path id="path3895-2-1" style="fill:currentColor;fill-rule:evenodd;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="19" y="59" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-77)"/>
+   <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
   </g>
   <g id="sunken-slider-bottomleft" transform="matrix(-0.75,0,0,0.75,29.75,62.25)">
-   <rect id="rect3926" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="19" y="75" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-83)"/>
-   <path id="path3901-9-9" style="fill:currentColor;fill-rule:evenodd;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="19" y="75" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-83)"/>
+   <path style="fill:currentColor" class="ColorScheme-Highlight" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
   </g>
   <g id="sunken-slider-top" transform="matrix(0,-0.75,-0.1,0,25.7,69.75)">
-   <rect id="rect3918" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="24" y="59" transform="matrix(0,-10,-1.3333333,0,93,257)"/>
-   <path id="path3909-6-1" style="fill:currentColor;fill-rule:evenodd;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect style="opacity:0.001" width="1" height="4" x="24" y="59" transform="matrix(0,-10,-1.3333333,0,93,257)"/>
+   <path style="fill:currentColor" class="ColorScheme-Highlight" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
   </g>
   <g id="sunken-slider-bottom" transform="matrix(0,0.75,-0.1,0,25.7,68.25)">
-   <rect id="rect3928" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="24" y="75" transform="matrix(0,-10,1.3333333,0,-91,257)"/>
-   <path id="path3915-6-3" style="fill:currentColor;fill-rule:evenodd;stroke:none;fill-opacity:1" class="ColorScheme-Highlight" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect style="opacity:0.001" width="1" height="4" x="24" y="75" transform="matrix(0,-10,1.3333333,0,-91,257)"/>
+   <path style="fill:currentColor" class="ColorScheme-Highlight" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
   </g>
-  <rect id="mouseover-slider-center" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" class="ColorScheme-Highlight" width="1" height="10" x="24" y="42"/>
+  <rect id="mouseover-slider-center" style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" width="1" height="10" x="24" y="42"/>
   <g id="mouseover-slider-right" transform="matrix(0.75,0,0,1,19.250001,35)">
-   <path id="path3963" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" class="ColorScheme-Highlight" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
-   <rect id="rect3965" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="29" y="64" transform="matrix(1.3333333,0,0,1,-25.666667,-57)"/>
+   <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect style="opacity:0.001" width="1" height="10" x="29" y="64" transform="matrix(1.3333333,0,0,1,-25.666667,-57)"/>
   </g>
   <g id="mouseover-slider-topright" transform="matrix(0.75,0,0,0.75,19.250001,35.75)">
-   <rect id="rect3969" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="26" y="59" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-77)"/>
-   <path id="path3971" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" class="ColorScheme-Highlight" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="26" y="59" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-77)"/>
+   <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
   </g>
   <g id="mouseover-slider-bottomright" transform="matrix(0.75,0,0,0.75,19.250001,40.25)">
-   <rect id="rect3975" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="26" y="75" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-83)"/>
-   <path id="path3977" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" class="ColorScheme-Highlight" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="26" y="75" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-83)"/>
+   <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
   </g>
   <g id="mouseover-slider-left" transform="matrix(-0.75,0,0,1,29.750001,35)">
-   <path id="path3981" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" class="ColorScheme-Highlight" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
-   <rect id="rect3983" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="19" y="64" transform="matrix(-1.3333333,0,0,1,39.666667,-57)"/>
+   <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect style="opacity:0.001" width="1" height="10" x="19" y="64" transform="matrix(-1.3333333,0,0,1,39.666667,-57)"/>
   </g>
   <g id="mouseover-slider-topleft" transform="matrix(-0.75,0,0,0.75,29.750001,35.75)">
-   <rect id="rect3987" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="19" y="59" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-77)"/>
-   <path id="path3989" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" class="ColorScheme-Highlight" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="19" y="59" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-77)"/>
+   <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 z"/>
   </g>
   <g id="mouseover-slider-bottomleft" transform="matrix(-0.75,0,0,0.75,29.750001,40.25)">
-   <rect id="rect3993" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="19" y="75" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-83)"/>
-   <path id="path3995" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" class="ColorScheme-Highlight" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="19" y="75" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-83)"/>
+   <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
   </g>
   <g id="mouseover-slider-top" transform="matrix(0,-0.75,-0.1,0,25.700001,47.75)">
-   <rect id="rect3999" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="24" y="59" transform="matrix(0,-10,-1.3333333,0,93,257)"/>
-   <path id="path4001" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" class="ColorScheme-Highlight" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect style="opacity:0.001" width="1" height="4" x="24" y="59" transform="matrix(0,-10,-1.3333333,0,93,257)"/>
+   <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
   </g>
   <g id="mouseover-slider-bottom" transform="matrix(0,0.75,-0.1,0,25.700001,46.25)">
-   <rect id="rect4005" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="24" y="75" transform="matrix(0,-10,1.3333333,0,-91,257)"/>
-   <path id="path4007" style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:1" class="ColorScheme-Highlight" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
+   <rect style="opacity:0.001" width="1" height="4" x="24" y="75" transform="matrix(0,-10,1.3333333,0,-91,257)"/>
+   <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 z"/>
   </g>
   <g id="background-vertical-center">
-   <rect id="rect4272" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" width="1" height="10" x="38" y="20"/>
-   <rect id="rect4266" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" width="1" height="10" x="38" y="20"/>
+   <rect style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" width="1" height="10" x="38" y="20"/>
   </g>
   <g id="background-horizontal-right" transform="matrix(0.75,0,0,1,33.250001,35.000001)">
-   <path id="path4288" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
-   <rect id="rect4290" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="43" y="20" transform="matrix(1.3333333,0,0,1,-44.333333,-13)"/>
-   <path id="path4292" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
+   <rect style="opacity:0.001" width="1" height="10" x="43" y="20" transform="matrix(1.3333333,0,0,1,-44.333333,-13)"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
   </g>
   <g id="background-horizontal-topright" transform="matrix(0.75,0,0,0.75,33.250001,35.750001)">
-   <rect id="rect4296" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="40" y="15" transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-18.333333)"/>
-   <path id="path4298" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 Z"/>
-   <path id="path4300" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 Z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="40" y="15" transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-18.333333)"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 Z"/>
   </g>
   <g id="background-horizontal-bottomright" transform="matrix(0.75,0,0,0.75,33.250001,40.250001)">
-   <rect id="rect4304" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="40" y="31" transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-24.333333)"/>
-   <path id="path4306" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
-   <path id="path4308" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="40" y="31" transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-24.333333)"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
   </g>
   <g id="background-horizontal-left" transform="matrix(-0.75,0,0,1,43.750001,35.000001)">
-   <path id="path4312" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
-   <rect id="rect4314" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="10" x="33" y="20" transform="matrix(-1.3333333,0,0,1,58.333333,-13)"/>
-   <path id="path4316" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
+   <rect style="opacity:0.001" width="1" height="10" x="33" y="20" transform="matrix(-1.3333333,0,0,1,58.333333,-13)"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
   </g>
   <g id="background-horizontal-topleft" transform="matrix(-0.75,0,0,0.75,43.750001,35.750001)">
-   <rect id="rect4320" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="33" y="15" transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-18.333333)"/>
-   <path id="path4322" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 Z"/>
-   <path id="path4324" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 Z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="33" y="15" transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-18.333333)"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 9,3 0,4 4,0 C 13,4.784 11.216,3 9,3 Z"/>
   </g>
   <g id="background-horizontal-bottomleft" transform="matrix(-0.75,0,0,0.75,43.750001,40.250001)">
-   <rect id="rect4328" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="4" height="4" x="33" y="31" transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-24.333333)"/>
-   <path id="path4330" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
-   <path id="path4332" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
+   <rect style="opacity:0.001" width="4" height="4" x="33" y="31" transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-24.333333)"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="m 9,21 0,-4 4,0 c 0,2.216 -1.784,4 -4,4 z"/>
   </g>
   <g id="background-horizontal-top" transform="matrix(0,-0.75,-0.1,0,39.700001,47.750001)">
-   <rect id="rect4336" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="38" y="15" transform="matrix(0,-10,-1.3333333,0,34.333333,397)"/>
-   <path id="path4338" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
-   <path id="path4340" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
+   <rect style="opacity:0.001" width="1" height="4" x="38" y="15" transform="matrix(0,-10,-1.3333333,0,34.333333,397)"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
   </g>
   <g id="background-horizontal-bottom" transform="matrix(0,0.75,-0.1,0,39.700001,46.250001)">
-   <rect id="rect4344" style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none" width="1" height="4" x="38" y="31" transform="matrix(0,-10,1.3333333,0,-32.333333,397)"/>
-   <path id="path4346" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
-   <path id="path4348" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
+   <rect style="opacity:0.001" width="1" height="4" x="38" y="31" transform="matrix(0,-10,1.3333333,0,-32.333333,397)"/>
+   <path style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" d="M 9,7 9,17 13,17 13,7 9,7 Z"/>
   </g>
   <g id="background-horizontal-center" transform="translate(9.35e-7,22.000001)">
-   <rect id="rect4352" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" width="1" height="10" x="38" y="20"/>
-   <rect id="rect4354" style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none" class="ColorScheme-Text" width="1" height="10" x="38" y="20"/>
+   <rect style="opacity:0.1;fill:currentColor" class="ColorScheme-Text" width="1" height="10" x="38" y="20"/>
   </g>
  </g>
 </svg>

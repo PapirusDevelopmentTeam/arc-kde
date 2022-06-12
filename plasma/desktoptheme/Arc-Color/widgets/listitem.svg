@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="115" version="1">
+<defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
+  </style>
+ </defs>
+ <rect id="hint-tile-center" style="fill:#ff0000" width="2.033" height="2.077" x="0" y="2" rx="0" ry="2.077"/>
+ <rect id="pressed-hint-top-margin" style="fill:#ff0000" width="2" height="4" x="34" y="18"/>
+ <rect id="pressed-hint-bottom-margin" style="fill:#ff0000" width="2" height="4" x="35" y="33"/>
+ <rect id="pressed-hint-left-margin" style="fill:#ff0000" width="4" height="2" x="26" y="28"/>
+ <rect id="pressed-hint-right-margin" style="fill:#ff0000" width="4" height="2" x="41" y="27"/>
+ <rect id="normal-hint-left-margin" style="fill:#ff0000" width="4" height="2" x="30" y="70"/>
+ <rect id="normal-hint-top-margin" style="fill:#ff0000" width="2" height="4" x="39" y="61"/>
+ <rect id="normal-hint-bottom-margin" style="fill:#ff0000" width="2" height="4" x="39" y="76"/>
+ <rect id="normal-hint-right-margin" style="fill:#ff0000" width="4" height="2" x="45" y="70"/>
+ <path id="normal-center" style="opacity:0.001" d="m 34,65.00034 0,11.00001 10.999999,0 0,-11.00001 -10.999999,0 z"/>
+ <path id="normal-right" style="opacity:0.001" d="m 45,65.00034 0,11.00001 2,0 c 6.68e-4,-0.0184 0,-0.0344 0,-0.0529 l 0,-10.89424 c 0,-0.0185 6.68e-4,-0.0345 0,-0.0529 l -2,0 z"/>
+ <path id="normal-top" style="opacity:0.001" d="m 34,63.0003 0,2.00004 10.999999,0 0,-2.00004 c -0.0041,-6.7e-4 0.0042,0 10e-7,0 l -10.98814,0 c -0.004,0 -0.008,-6.7e-4 -0.0119,0 z"/>
+ <path id="normal-left" style="opacity:0.001" d="m 32.0003,65.00034 c -6.7e-4,0.0183 0,0.0344 0,0.0529 l 0,10.89423 c 0,0.0185 -6.7e-4,0.0345 0,0.0529 l 2,0 0,-11 -2,0 z"/>
+ <path id="normal-bottom" style="opacity:0.001" d="m 34,76 0,2 11,0 0,-1.99966 z"/>
+ <path id="normal-topleft" style="opacity:0.001" d="m 31.999967,63.0003 0,2.00004 1.999771,0 0,-2.00004 c -7.46e-4,-6.7e-4 7.63e-4,0 0,0 l -1.997614,0 c -7.28e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <path id="normal-topright" style="opacity:0.001" d="m 45.000007,63.00064 0,1.9997 1.999771,0 0,-1.9997 c -7.46e-4,-6.7e-4 7.63e-4,0 0,0 l -1.997614,0 c -7.28e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <path id="normal-bottomright" style="opacity:0.001" d="m 45.000007,76.0003 0,1.9997 1.999771,0 0,-1.9997 c -7.46e-4,-6.7e-4 7.63e-4,0 0,0 l -1.997614,0 c -7.28e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <path id="normal-bottomleft" style="opacity:0.001" d="m 32.000007,76.0003 0,1.9997 1.999771,0 0,-1.9997 c -7.46e-4,-6.7e-4 7.63e-4,0 0,0 l -1.997614,0 c -7.28e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <path id="pressed-center" style="opacity:0.001" d="m 29.9997,22.00001 0,11.00001 10.999999,0 0,-11.00001 -10.999999,0 z"/>
+ <path id="pressed-right" style="opacity:0.001" d="m 40.9997,22.00001 0,11.00001 2,0 c 6.68e-4,-0.0183 0,-0.0344 0,-0.0529 l 0,-10.89423 c 0,-0.0185 6.68e-4,-0.0345 0,-0.0529 l -2,0 z"/>
+ <path id="pressed-top" style="opacity:0.001" d="m 29.9997,19.99997 0,2.00004 10.999999,0 0,-2.00004 c -0.0041,-6.7e-4 0.0045,0 3.01e-4,0 l -10.98844,0 c -0.004,0 -0.008,-6.7e-4 -0.0119,0 z"/>
+ <path id="pressed-left" style="opacity:0.001" d="m 28,22.00001 c -6.7e-4,0.0183 0,0.0344 0,0.0529 l 0,10.89423 c 0,0.0185 -6.7e-4,0.0345 0,0.0529 l 2,0 0,-11 -2,0 z"/>
+ <path id="pressed-bottom" style="opacity:0.001" d="m 30,33 0,2 11,0 0,-2 -11,0 z"/>
+ <path id="pressed-topleft" style="opacity:0.001" d="m 27.999667,19.99997 0,2.00004 1.999722,0 0,-2.00004 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 l -1.997621,0 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <path id="pressed-topright" style="opacity:0.001" d="m 41.000044,19.99997 0,2.00004 1.999722,0 0,-2.00004 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 l -1.997621,0 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <path id="pressed-bottomright" style="opacity:0.001" d="m 41.000044,32.99995 0,2.00005 1.999722,0 0,-2.00005 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 l -1.997621,0 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <path id="pressed-bottomleft" style="opacity:0.001" d="m 28.000044,32.99995 0,2.00005 1.999722,0 0,-2.00005 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 l -1.997621,0 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <path id="hover-center" style="opacity:0.001" d="m 69.9997,19.38416 0,11 10.999999,0 0,-11 -10.999999,0 z"/>
+ <path id="hover-right" style="opacity:0.001" d="m 80.9997,19.38416 0,11 2,0 c 6.68e-4,-0.0183 0,-0.0344 0,-0.0529 l 0,-10.89423 c 0,-0.0185 6.68e-4,-0.0345 0,-0.0529 l -2,0 z"/>
+ <path id="hover-top" style="opacity:0.001" d="m 69.9997,17.38411 0,2.00005 10.999999,0 0,-2.00005 c -0.0041,-6.7e-4 0.0045,0 3.01e-4,0 l -10.98844,0 c -0.004,0 -0.008,-6.7e-4 -0.0119,0 z"/>
+ <path id="hover-left" style="opacity:0.001" d="m 68,19.38416 c -6.7e-4,0.0183 0,0.0344 0,0.0529 l 0,10.89423 c 0,0.0185 -6.7e-4,0.0345 0,0.0529 l 2,0 0,-11.00001 -2,0 z"/>
+ <path id="hover-bottom" style="opacity:0.001" d="m 70,30.38414 0,2 11,0 0,-2 -11,0 z"/>
+ <path id="hover-topleft" style="opacity:0.001" d="m 67.999667,17.38411 0,2.00005 1.999722,0 0,-2.00005 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 l -1.997621,0 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <path id="hover-topright" style="opacity:0.001" d="m 81.000044,17.38411 0,2.00005 1.999722,0 0,-2.00005 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 l -1.997621,0 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <path id="hover-bottomright" style="opacity:0.001" d="m 81.000044,30.3841 0,2.00004 1.999722,0 0,-2.00004 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 l -1.997621,0 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <path id="hover-bottomleft" style="opacity:0.001" d="m 68.000044,30.3841 0,2.00004 1.999722,0 0,-2.00004 c -7.45e-4,-6.7e-4 8.18e-4,0 5.5e-5,0 l -1.997621,0 c -7.27e-4,0 -0.0015,-6.7e-4 -0.0022,0 z"/>
+ <rect id="section-center" style="opacity:0.5;fill:currentColor" class="ColorScheme-ButtonBackground" width="50" height="50" x="67" y="52"/>
+ <g id="section-topleft" transform="translate(-123,-206.99988)">
+  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-ButtonBackground" transform="translate(123,206.99988)" d="m 66,46 c -3,0 -5,2 -5,5 v 1 h 6 v -6 z"/>
+  <path style="opacity:0.2" d="m 188,251.99988 c -2.77,0 -5,2.23 -5,5 l 0,2 1,0 0,-1 c 0,-3 2,-5 5,-5 l 1,0 0,-1 z"/>
+ </g>
+ <g id="section-left" transform="translate(-123,-206.99988)">
+  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-ButtonBackground" transform="translate(123,206.99988)" d="M 61 52 L 61 102 L 67 102 L 67 52 L 61 52 z"/>
+  <path style="opacity:0.2" d="m 183,258.99988 0,50 1,0 0,-50 -1,0 z"/>
+ </g>
+ <g id="section-right" transform="translate(-123,-206.99988)">
+  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-ButtonBackground" transform="translate(123,206.99988)" d="M 117 52 L 117 102 L 123 102 L 123 52 L 117 52 z"/>
+  <path style="opacity:0.2" d="m 246,308.99988 1,0 0,-50 -1,0 0,50 z"/>
+ </g>
+ <g id="section-bottomleft" transform="translate(-123,-206.99988)">
+  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-ButtonBackground" transform="translate(123,206.99988)" d="m 61,102 v 1 c 0,3 2,5 5,5 h 1 v -6 z"/>
+  <path style="opacity:0.2" d="m 183,310.99988 c 0,2.77 2.23,5 5,5 l 2,0 0,-1 -1,0 c -3,0 -5,-2 -5,-5 l 0,-1 -1,0 z"/>
+ </g>
+ <g id="section-bottom" transform="translate(-123,-206.99988)">
+  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-ButtonBackground" transform="translate(123,206.99988)" d="M 67 102 L 67 108 L 117 108 L 117 102 L 67 102 z"/>
+  <path style="opacity:0.2" d="m 190,315.99988 50,0 0,-1 -50,0 0,1 z"/>
+ </g>
+ <g id="section-bottomright" transform="translate(-123,-206.99988)">
+  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-ButtonBackground" transform="translate(123,206.99988)" d="m 117,102 v 6 h 1 c 3,0 5,-2 5,-5 v -1 z"/>
+  <path style="opacity:0.2" d="m 247,310.99988 c 0,2.77 -2.23,5 -5,5 l -2,0 0,-1 1,0 c 3,0 5,-2 5,-5 l 0,-1 1,0 z"/>
+ </g>
+ <g id="section-topright" transform="translate(-123,-206.99988)">
+  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-ButtonBackground" transform="translate(123,206.99988)" d="m 117,46 v 6 h 6 v -1 c 0,-3 -2,-5 -5,-5 z"/>
+  <path style="opacity:0.2" d="m 242,251.99988 c 2.77,0 5,2.23 5,5 l 0,2 -1,0 0,-1 c 0,-3 -2,-5 -5,-5 l -1,0 0,-1 z"/>
+ </g>
+ <g id="section-top" transform="translate(-123,-206.99988)">
+  <path style="opacity:0.5;fill:currentColor" class="ColorScheme-ButtonBackground" transform="translate(123,206.99988)" d="M 67 46 L 67 52 L 117 52 L 117 46 L 67 46 z"/>
+  <path style="opacity:0.2" d="m 190,251.99988 0,1 50,0 0,-1 -50,0 z"/>
+ </g>
+ <rect id="section-hint-bottom-margin" style="fill:#ff0000" width="2" height="7" x="91" y="102"/>
+ <rect id="section-hint-left-margin" style="fill:#ff0000" width="7" height="2" x="60" y="78"/>
+ <rect id="section-hint-top-margin" style="fill:#ff0000" width="2" height="7" x="91" y="45"/>
+ <rect id="section-hint-right-margin" style="fill:#ff0000" width="7" height="2" x="117" y="79"/>
+</svg>

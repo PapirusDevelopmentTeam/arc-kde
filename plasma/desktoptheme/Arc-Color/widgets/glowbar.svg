@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="48" height="36" version="1">
+<defs id="rounded">
+<style id="current-color-scheme" type="text/css">
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
+  </style>
+<g class="ColorScheme-Highlight">
+  <linearGradient id="linearGradient3771">
+   <stop  style="stop-color:currentColor;stop-opacity:0.6" offset="0"/>
+   <stop  style="stop-color:currentColor;stop-opacity:0" offset="1"/>
+  </linearGradient>
+</g>
+  <radialGradient id="radialGradient3777" cx="37.919" cy="13.191" r="6" fx="37.919" fy="13.191" gradientTransform="matrix(2,0,0,2,-51.837204,-14.38105)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+  <radialGradient id="radialGradient3785" cx="37.919" cy="13.191" r="6" fx="37.919" fy="13.191" gradientTransform="matrix(2,0,0,2,-87.8372,-14.38105)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+  <linearGradient id="linearGradient3795" x1="62" x2="62" y1="20" y2="8" gradientTransform="translate(-42,-8)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+  <linearGradient id="linearGradient3799" x1="62" x2="62" y1="20" y2="8" gradientTransform="translate(-42,-44)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+  <radialGradient id="radialGradient3803" cx="37.919" cy="13.191" r="6" fx="37.919" fy="13.191" gradientTransform="matrix(2,0,0,2,-51.837204,-50.38105)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+  <linearGradient id="linearGradient3807" x1="62" x2="62" y1="20" y2="8" gradientTransform="translate(-78,-44)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+  <linearGradient id="linearGradient3811" x1="62" x2="62" y1="20" y2="8" gradientTransform="translate(-42,-8)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+  <radialGradient id="radialGradient3815" cx="37.919" cy="13.191" r="6" fx="37.919" fy="13.191" gradientTransform="matrix(2,0,0,2,-51.8372,-14.38105)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3771"/>
+ </defs>
+ <rect id="hint-glow-radius" style="opacity:1;fill:#ff0000" width="5" height="5" x="43" y="21.33"/>
+ <rect id="hint-stretch-borders" style="opacity:1;fill:#ff0000" width="5" height="5" x="43" y="29"/>
+ <rect id="center" style="opacity:0.001" width="12" height="12" x="12" y="12"/>
+ <rect id="topright" style="fill:url(#radialGradient3777)" width="12" height="12" x="24" y="0"/>
+ <rect id="topleft" style="fill:url(#radialGradient3785)" width="12" height="12" x="-12" y="0" transform="rotate(-90)"/>
+ <rect id="top" style="fill:url(#linearGradient3795)" width="12" height="12" x="12" y="0"/>
+ <rect id="right" style="fill:url(#linearGradient3799)" width="12" height="12" x="12" y="-36" transform="rotate(90)"/>
+ <rect id="bottomright" style="fill:url(#radialGradient3803)" width="12" height="12" x="24" y="-36" transform="scale(1,-1)"/>
+ <rect id="bottom" style="fill:url(#linearGradient3807)" width="12" height="12" x="-24" y="-36" transform="scale(-1)"/>
+ <rect id="left" style="fill:url(#linearGradient3811)" width="12" height="12" x="12" y="0" transform="matrix(0,1,1,0,0,0)"/>
+ <rect id="bottomleft" style="fill:url(#radialGradient3815)" width="12" height="12" x="24" y="0" transform="matrix(0,1,1,0,0,0)"/>
+</svg>

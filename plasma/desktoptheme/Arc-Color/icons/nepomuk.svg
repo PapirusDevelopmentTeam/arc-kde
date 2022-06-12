@@ -1,14 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg7384" width="22" height="22" version="1.1" style="enable-background:new">
- <defs id="defs7386">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:currentColor;stop-opacity:1"/>
-  </linearGradient>
  </defs>
  <g id="nepomuk">
-  <rect id="rect4150" width="22" height="22" x="0" y="0" style="opacity:0;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1"/>
-  <path id="path4142" class="ColorScheme-Text" d="m 10,3.000702 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 4.08984,-1.328125 l 2.88672,2.886719 c 0.58761,0.587605 1.53349,0.587605 2.1211,0 0.5876,-0.587606 0.5876,-1.533488 0,-2.121094 L 16.0918,13.432343 A 7,7 0 0 0 17,10.000702 a 7,7 0 0 0 -7,-7 z m 0,3 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1"/>
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 13.5,4 A 10.5,10.5 0 0 0 3,14.5 10.5,10.5 0 0 0 13.5,25 10.5,10.5 0 0 0 19.945312,22.773438 l 4.640626,4.640624 a 2.0002,2.0002 0 1 0 2.828124,-2.828124 L 22.578125,19.75 A 10.5,10.5 0 0 0 24,14.5 10.5,10.5 0 0 0 13.5,4 Z m 0,4 A 6.5,6.5 0 0 1 20,14.5 6.5,6.5 0 0 1 18.544922,18.589844 2.0002,2.0002 0 0 0 18.380859,18.783203 6.5,6.5 0 0 1 13.5,21 6.5,6.5 0 0 1 7,14.5 6.5,6.5 0 0 1 13.5,8 Z"/>
+ </g>
+ <g id="22-22-nepomuk" transform="translate(32.000001,10.000001)">
+  <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 10,3.000702 a 7,7 0 0 0 -7,7 7,7 0 0 0 7,7 7,7 0 0 0 4.08984,-1.328125 l 2.88672,2.886719 c 0.58761,0.587605 1.53349,0.587605 2.1211,0 0.5876,-0.587606 0.5876,-1.533488 0,-2.121094 L 16.0918,13.432343 A 7,7 0 0 0 17,10.000702 a 7,7 0 0 0 -7,-7 z m 0,3 a 4,4 0 0 1 4,4 4,4 0 0 1 -4,4 4,4 0 0 1 -4,-4 4,4 0 0 1 4,-4 z"/>
  </g>
 </svg>

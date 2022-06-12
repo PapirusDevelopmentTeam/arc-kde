@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
+  </style>
+ </defs>
+ <g id="notifications-disabled">
+  <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 11,3 c -0.55,0 -1,0.45 -1,1 0,0.03 -2.344e-4,0.069609 0.0098,0.099609 C 7.7197656,4.5596094 6,6.57 6,9 v 4.5 l -2,2 V 16 h 2 8.189453 C 14.066246,15.829475 13.999951,15.62444 14,15.414062 V 14 c 5.5e-5,-0.552262 0.447738,-0.999945 1,-1 h 1 V 11 9 C 16,6.57 14.280234,4.5596094 11.990234,4.0996094 12.000234,4.0696094 12,4.03 12,4 12,3.45 11.55,3 11,3 Z M 9.2695312,17 C 9.6295313,17.62 10.29,18 11,18 c 0.71,0 1.370469,-0.38 1.730469,-1 z"/>
+  <path style="fill:currentColor" class="ColorScheme-NegativeText" d="m 15,14 v 1.414062 L 16.085938,16.5 15,17.585938 V 19 h 1.414062 L 17.5,17.914062 18.585938,19 H 20 V 17.585938 L 18.914062,16.5 20,15.414062 V 14 H 18.585938 L 17.5,15.085938 16.414062,14 Z"/>
+ </g>
+</svg>

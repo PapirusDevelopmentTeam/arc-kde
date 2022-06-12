@@ -1,11 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" version="1.1" viewBox="0 0 22 22">
- <defs id="defs3051">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
- <g id="kruler" transform="translate(-326,-534.3622)">
-  <rect id="rect4165" width="22" height="22" x="326" y="534.36" style="opacity:1;fill:none;fill-opacity:1;stroke:none"/>
-  <path id="path6" class="ColorScheme-Text" d="m 328,538.3622 0,3 0,11 2,0 16,0 0,-2 -16,0 0,-9 16,0 0,-3 z m 3,4 0,3 1,0 0,-3 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,6 1,0 0,-6 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,3 1,0 0,-3 z m 2,0 0,6 1,0 0,-6 z m 2,0 0,3 1,0 0,-3 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"/>
+ <g id="22-22-kruler" transform="translate(-294,-524.35998)">
+  <rect style="opacity:0.001" width="22" height="22" x="326" y="534.36"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 328,539.32965 v 2.03255 10 c 0,1 1,1 1,1 h 1 16 v -2 h -16 v -9 h 16 v -3 h -17 c 0,0 -1,-0.0235 -1,0.96745 z m 3,3.03255 v 3 h 1 v -3 z m 2,0 v 3 h 1 v -3 z m 2,0 v 6 h 1 v -6 z m 2,0 v 3 h 1 v -3 z m 2,0 v 3 h 1 v -3 z m 2,0 v 6 h 1 v -6 z m 2,0 v 3 h 1 v -3 z"/>
+ </g>
+ <g id="kruler">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 4.4453125 6 C 4.4453125 6 3 5.9671738 3 7.3828125 L 3 10.285156 L 3 24.572266 C 3 26.000832 4.4453125 26 4.4453125 26 L 5.8886719 26 L 29 26 L 29 23 L 6 23 L 6 10 L 29 10 L 29 6 L 4.4453125 6 z M 7 12 L 7 16 L 8 16 L 8 12 L 7 12 z M 10 12 L 10 16 L 11 16 L 11 12 L 10 12 z M 13 12 L 13 20 L 14 20 L 14 12 L 13 12 z M 16 12 L 16 16 L 17 16 L 17 12 L 16 12 z M 19 12 L 19 16 L 20 16 L 20 12 L 19 12 z M 22 12 L 22 20 L 23 20 L 23 12 L 22 12 z M 25 12 L 25 16 L 26 16 L 26 12 L 25 12 z"/>
  </g>
 </svg>

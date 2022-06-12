@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
+  </style>
+ </defs>
+ <g id="22-22-veracrypt" transform="translate(0,-22)">
+  <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 2,3 4.4492188,16 0.2910156,-0.955078 1.6152344,-7.029297 h 0.085937 L 6.3007812,3 Z"/>
+  <path style="opacity:0.15;fill:currentColor" class="ColorScheme-Text" d="m 12.035877,11.019838 -3.6795694,-0.0049 -1.6153846,7.029384 -0.2923077,0.955077 4.1588307,-7e-6 c 1.687754,-7.318154 1.4288,-7.980154 1.4288,-7.980154 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 11.038461,3.0000005 8.4394615,11.015539 10.6,19 h 8.631384 L 17.38523,15 h -3.7 L 12.562539,11.015539 13.992923,7 h 3.392307 l 1.846154,-3.9999995 z"/>
+ </g>
+ <g id="veracrypt">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="M 2.9999994,3.9999999 9.7133136,28 10.15242,26.567383 12.589607,16.023438 h 0.129668 L 9.4893398,3.9999999 Z"/>
+  <path style="opacity:0.15;fill:currentColor" class="ColorScheme-Text" d="m 18.142882,16.029757 -5.55201,-0.0073 -2.437413,10.544075 -0.441056,1.432616 6.275155,-1.1e-5 c 2.54661,-10.977231 2.15588,-11.970231 2.15588,-11.970231 z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 16.637906,4.0000006 12.716341,16.023309 15.976322,28 h 13.023679 l -2.785616,-6 h -5.582836 l -1.694,-5.976691 2.15827,-6.023308 h 5.118566 l 2.785616,-6.0000004 z"/>
+ </g>
+</svg>

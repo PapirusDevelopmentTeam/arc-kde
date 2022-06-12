@@ -1,24 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg7384" width="22" height="22" version="1.1" style="enable-background:new">
- <defs id="defs7386">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:#000000;stop-opacity:1"/>
-  </linearGradient>
  </defs>
- <g id="kmail" transform="translate(-467.00009,-135)">
-  <path id="rect5719" class="ColorScheme-Text" d="m 472.00009,140 c -1.108,0 -2,0.892 -2,2 l 0,8 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 l 0,-8 c 0,-1.108 -0.892,-2 -2,-2 l -12,0 z m 0,2 6,3 6,-3 0,2 -6,3 -6,-3 0,-2 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-  <path id="rect4138" d="m 467.0002,135 22,0 0,22 -22,0 z" style="opacity:0;fill:#2b0000;fill-opacity:0.40392157;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+ <g id="22-22-kmail" transform="translate(-435.0002,-125)">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 472.00009,140 c -1.108,0 -2,0.892 -2,2 v 8 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 v -8 c 0,-1.108 -0.892,-2 -2,-2 z m 0,2 6,3 6,-3 v 2 l -6,3 -6,-3 z"/>
+  <path style="opacity:0.001" d="m 467.0002,135 h 22 v 22 h -22 z"/>
  </g>
- <g id="mail-unread-new">
-  <path id="path4144" d="m 1.1e-4,-22 22,0 0,22 -22,0 z" style="opacity:0.001;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-  <path id="path4143" class="ColorScheme-Text" d="m 5,-17 c -1.108,0 -2,0.892 -2,2 l 0,8 c 0,1.108 0.892,2 2,2 l 11,0 c -1.645,0 -3,-1.355 -3,-3 0,-1.645 1.355,-3 3,-3 1.645,0 3,1.355 3,3 l 0,-7 c 0,-1.108 -0.892,-2 -2,-2 l -12,0 z m 0,2 6,3 6,-3 0,2 -6,3 -6,-3 0,-2 z" style="opacity:1;fill:currentColor;fill-opacity:1"/>
-  <path id="path7" class="ColorScheme-Highlight" d="m 16,-10 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z" style="opacity:1;fill:currentColor;fill-opacity:1"/>
- </g>
- <g id="mail-mark-unread-new" transform="translate(0,-22)">
-  <path id="path4166" d="m 1.1e-4,-22 22,0 0,22 -22,0 z" style="opacity:0.00100002;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-  <path id="path4168" class="ColorScheme-Text" d="m 5,-17 c -1.108,0 -2,0.892 -2,2 l 0,8 c 0,1.108 0.892,2 2,2 l 11,0 c -1.645,0 -3,-1.355 -3,-3 0,-1.645 1.355,-3 3,-3 1.645,0 3,1.355 3,3 l 0,-7 c 0,-1.108 -0.892,-2 -2,-2 l -12,0 z m 0,2 6,3 6,-3 0,2 -6,3 -6,-3 0,-2 z" style="opacity:1;fill:currentColor;fill-opacity:1"/>
-  <path id="path4170" class="ColorScheme-Highlight" d="m 16,-10 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z" style="opacity:1;fill:currentColor;fill-opacity:1"/>
+ <g id="kmail">
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 7,7 C 5.338,7 4,8.3380001 4,10 v 12 c 0,1.662 1.338,3 3,3 h 18 c 1.661999,0 3,-1.338 3,-3 V 10 C 28,8.338 26.661999,7 25,7 Z m 0,3 9,4.5 9,-4.5 v 3 L 16,17.500001 7,13 Z"/>
+  <path style="opacity:0.001" d="M -5.9089996e-7,2.5e-6 H 32 V 32.000003 H -5.9089996e-7 Z"/>
  </g>
 </svg>

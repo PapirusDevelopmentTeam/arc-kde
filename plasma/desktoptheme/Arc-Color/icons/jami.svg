@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
+  </style>
+ </defs>
+ <g id="jami">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path d="M 5.0311759,7.257622 3.0525978,10.732896 C 1.7335447,13.049745 25.649753,27.059206 26.968801,24.742362 L 28.947397,21.267099 C 30.266517,18.950289 6.3502421,4.9407873 5.0311881,7.2576395" style="opacity:0.6;fill:currentColor" class="ColorScheme-Text"/>
+  <path d="M 26.968824,7.257622 28.947402,10.732896 C 30.266455,13.049745 6.3502469,27.059206 5.0311989,24.742362 L 3.0526029,21.267099 C 1.7334829,18.950289 25.649758,4.9407873 26.968812,7.2576395" style="opacity:0.35;fill:currentColor" class="ColorScheme-Text"/>
+  <path d="M 17.970836,2.0091801 13.971074,2.0000001 C 11.304564,1.9938801 11.362662,29.984695 14.029164,29.990814 L 18.028927,30.000014 C 20.695436,30.006214 20.637339,2.0153195 17.970827,2.0091996" style="fill:currentColor" class="ColorScheme-Text"/>
+ </g>
+ <g id="22-22-jami">
+  <rect style="opacity:0.001" width="22" height="22" x="32" y="10"/>
+  <path d="M 36.533636,16.114499 35.523618,17.856218 C 34.850273,19.017365 48.79306,27.046717 49.466404,25.885572 L 50.476382,24.14383 C 51.14973,22.982685 37.206941,14.953331 36.533596,16.114475" style="opacity:0.6;fill:currentColor" class="ColorScheme-Text"/>
+  <path d="M 49.466364,16.114499 50.476382,17.856218 C 51.149727,19.017365 37.20694,27.046717 36.533596,25.885572 L 35.523618,24.14383 C 34.85027,22.982685 48.793059,14.953331 49.466404,16.114475" style="opacity:0.35;fill:currentColor" class="ColorScheme-Text"/>
+  <path d="M 43.985417,13.00527 41.985536,13.000025 C 40.652281,12.996529 40.68133,28.991279 42.014582,28.994775 L 44.014464,28.999975 C 45.347719,29.003475 45.318671,13.008721 43.985418,13.005224" style="fill:currentColor" class="ColorScheme-Text"/>
+ </g>
+</svg>

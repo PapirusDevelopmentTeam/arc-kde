@@ -1,13 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg7384" width="22" height="22" version="1.1" style="enable-background:new">
- <defs id="defs7386">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
- <g id="edit-delete">
-  <rect id="rect4138" width="22" height="22" x="0" y="0" style="opacity:0.001;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-  <g id="layer12" transform="translate(-445.0004,125.00336)" style="display:inline">
-   <path id="path4140" class="ColorScheme-Text" d="m 461.65725,-119.66021 a 8,8 0 0 0 -11.3137,0 8,8 0 0 0 0,11.3137 8,8 0 0 0 11.3137,0 8,8 0 0 0 0,-11.3137 z m -1.22362,3.34494 a 5,5 0 0 1 -0.8977,5.84744 5,5 0 0 1 -5.84329,0.89355 l 6.74099,-6.74099 z m -2.12547,-2.11717 -6.74099,6.74099 a 5,5 0 0 1 0.8977,-5.84744 5,5 0 0 1 5.84329,-0.89355 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-opacity:1"/>
+ <g id="22-22-edit-delete" transform="translate(32.000001,10.000001)">
+  <rect style="opacity:0.001" width="22" height="22" x="0" y="0"/>
+  <g transform="translate(-445.0004,125.00336)">
+   <path style="fill:currentColor" class="ColorScheme-Text" d="m 461.65725,-119.66021 a 8,8 0 0 0 -11.3137,0 8,8 0 0 0 0,11.3137 8,8 0 0 0 11.3137,0 8,8 0 0 0 0,-11.3137 z m -1.22362,3.34494 a 5,5 0 0 1 -0.8977,5.84744 5,5 0 0 1 -5.84329,0.89355 z m -2.12547,-2.11717 -6.74099,6.74099 a 5,5 0 0 1 0.8977,-5.84744 5,5 0 0 1 5.84329,-0.89355 z"/>
   </g>
+ </g>
+ <g id="edit-delete">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 15.824219 4.0019531 A 12.000013 12.000013 0 0 0 7.515625 7.515625 A 12.000013 12.000013 0 0 0 7.515625 24.484375 A 12.000013 12.000013 0 0 0 24.484375 24.484375 A 12.000013 12.000013 0 0 0 24.484375 7.515625 A 12.000013 12.000013 0 0 0 15.824219 4.0019531 z M 16.119141 8.0078125 A 7.9999018 7.9999018 0 0 1 19.691406 8.9121094 L 8.90625 19.699219 A 7.9999018 7.9999018 0 0 1 10.34375 10.34375 A 7.9999018 7.9999018 0 0 1 16.119141 8.0078125 z M 23.09375 12.298828 A 7.9999018 7.9999018 0 0 1 21.65625 21.65625 A 7.9999018 7.9999018 0 0 1 12.308594 23.087891 L 23.09375 12.298828 z"/>
  </g>
 </svg>

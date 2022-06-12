@@ -1,37 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="22" height="22" version="1.1">
- <defs id="defs7386">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
+ <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
- <g id="22-22-computer-laptop" transform="translate(66,0)">
-  <rect id="rect4289" width="22" height="22" x="-30" y="0" style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none"/>
-  <g id="g4314">
-   <path id="path4293" class="ColorScheme-Text" d="M 39.857422 2 C 38.274565 2 37 3.2495814 37 4.8007812 L 37 13.199219 C 37 14.750419 38.274565 16 39.857422 16 L 38.75 16 C 37.226506 16 36 16.892 36 18 C 36 19.108 37.226506 20 38.75 20 L 55.25 20 C 56.773494 20 58 19.108 58 18 C 58 16.892 56.773494 16 55.25 16 L 54.142578 16 C 55.725435 16 57 14.750419 57 13.199219 L 57 4.8007812 C 57 3.2495814 55.725435 2 54.142578 2 L 39.857422 2 z M 41.285156 5 L 52.714844 5 C 53.506273 5 54 5.4236187 54 6.1992188 L 54 11.800781 C 54 12.57638 53.506273 13.199219 52.714844 13.199219 L 41.285156 13.199219 C 40.493727 13.199219 40 12.57638 40 11.800781 L 40 6.1992188 C 40 5.4236187 40.493727 5 41.285156 5 z" transform="translate(-66,0)" style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+ <g id="computer" transform="translate(-2e-4,34)">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="-34"/>
+  <g transform="translate(2e-4,-35)">
+   <path style="fill:currentColor" class="ColorScheme-Text" transform="translate(0,1)" d="M 4.3007812,4 C 3.5805813,4 3,4.5575 3,5.25 v 17.5 C 3,23.4425 3.5805813,24 4.3007812,24 H 8 v 1.6875 C 8,26.414902 8.5935493,27 9.3320312,27 H 22.667969 C 23.406451,27 24,26.414902 24,25.6875 V 24 h 3.699219 C 28.419419,24 29,23.4425 29,22.75 V 5.25 C 29,4.5575 28.419419,4 27.699219,4 Z M 6,7 H 26 V 21 H 24 8 6 Z"/>
   </g>
  </g>
- <g id="16-16-computer">
-  <rect id="rect3034" width="16" height="16" x="0" y="26" style="opacity:0.00100002;fill:#00000f;fill-opacity:1;stroke:none"/>
-  <path id="rect4219" class="ColorScheme-Text" d="m 3,28 c -1.108,0 -2,0.892 -2,2 l 0,6 c 0,1.108 0.892,2 2,2 l 2,0 0,2 -2,0 0,1 10,0 0,-1 -2,0 0,-2 2,0 c 1.108,0 2,-0.892 2,-2 l 0,-6 c 0,-1.108 -0.892,-2 -2,-2 L 3,28 Z m 1,2 8,0 c 0.554,0 1,0.446 1,1 l 0,4 c 0,0.554 -0.446,1 -1,1 L 4,36 C 3.446,36 3,35.554 3,35 l 0,-4 c 0,-0.554 0.446,-1 1,-1 z" style="fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
- </g>
- <g id="16-16-computer-laptop">
-  <rect id="rect3042" width="16" height="16" x="36" y="26" style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none"/>
-  <g id="g4242" transform="translate(53,50)">
-   <path id="path4233" class="ColorScheme-Text" d="M 39 28 C 37.892 28 37 28.892 37 30 L 37 36 C 37 37.108 37.892 38 39 38 L 38 38 C 36.892 38 36 38.669 36 39.5 C 36 40.331 36.892 41 38 41 L 50 41 C 51.108 41 52 40.331 52 39.5 C 52 38.669 51.108 38 50 38 L 49 38 C 50.108 38 51 37.108 51 36 L 51 30 C 51 28.892 50.108 28 49 28 L 39 28 z M 40 30 L 48 30 C 48.554 30 49 30.446 49 31 L 49 35 C 49 35.554 48.554 36 48 36 L 40 36 C 39.446 36 39 35.554 39 35 L 39 31 C 39 30.446 39.446 30 40 30 z" transform="translate(-53,-50)" style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-  </g>
- </g>
- <g id="22-22-computer" transform="translate(33,-1.5113048e-5)">
-  <rect id="rect4332" width="22" height="22" x="-33" y="0" style="opacity:0.001;fill:#000000;fill-opacity:1;stroke:none"/>
-  <path id="path4336" class="ColorScheme-Text" d="M 3.8574219 2 C 2.2745649 2 1 3.2495813 1 4.8007812 L 1 13.199219 C 1 14.750419 2.2745649 16 3.8574219 16 L 7 16 L 7 19 L 4 19 L 4 20 L 18 20 L 18 19 L 15 19 L 15 16 L 18.142578 16 C 19.725435 16 21 14.750419 21 13.199219 L 21 4.8007812 C 21 3.2495813 19.725435 2 18.142578 2 L 3.8574219 2 z M 5.2851562 5 L 16.714844 5 C 17.506273 5 18 5.4236187 18 6.1992188 L 18 11.800781 C 18 12.57638 17.506273 13.199219 16.714844 13.199219 L 5.2851562 13.199219 C 4.4937272 13.199219 4 12.57638 4 11.800781 L 4 6.1992188 C 4 5.4236186 4.4937272 5 5.2851562 5 z" transform="translate(-33,1.5113048e-5)" style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
- </g>
- <g id="computer" transform="matrix(2.0013759,0,0,2.0013759,-14,-97.055788)">
-  <rect id="rect4158" width="15.989" height="15.989" x="0" y="26.01" style="opacity:0.00100002;fill:#00000f;fill-opacity:1;stroke:none"/>
-  <path id="path4160" class="ColorScheme-Text" d="m 3,28 c -1.108,0 -2,0.892 -2,2 l 0,6 c 0,1.108 0.892,2 2,2 l 2,0 0,2 -2,0 0,1 10,0 0,-1 -2,0 0,-2 2,0 c 1.108,0 2,-0.892 2,-2 l 0,-6 c 0,-1.108 -0.892,-2 -2,-2 L 3,28 Z m 1,2 8,0 c 0.554,0 1,0.446 1,1 l 0,4 c 0,0.554 -0.446,1 -1,1 L 4,36 C 3.446,36 3,35.554 3,35 l 0,-4 c 0,-0.554 0.446,-1 1,-1 z" style="fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
- </g>
- <g id="computer-laptop" transform="matrix(2,0,0,2,-45,-97)">
-  <rect id="rect4164" width="16" height="16" x="36" y="26" style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none"/>
-  <g id="g4166" transform="translate(53,50)">
-   <path id="path4168" class="ColorScheme-Text" d="m 39,28 c -1.108,0 -2,0.892 -2,2 l 0,6 c 0,1.108 0.892,2 2,2 l -1,0 c -1.108,0 -2,0.669 -2,1.5 0,0.831 0.892,1.5 2,1.5 l 12,0 c 1.108,0 2,-0.669 2,-1.5 C 52,38.669 51.108,38 50,38 l -1,0 c 1.108,0 2,-0.892 2,-2 l 0,-6 c 0,-1.108 -0.892,-2 -2,-2 l -10,0 z m 1,2 8,0 c 0.554,0 1,0.446 1,1 l 0,4 c 0,0.554 -0.446,1 -1,1 l -8,0 c -0.554,0 -1,-0.446 -1,-1 l 0,-4 c 0,-0.554 0.446,-1 1,-1 z" transform="translate(-53,-50)" style="fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
+ <g id="computer-laptop" transform="translate(-4.0002,34)">
+  <rect style="opacity:0.001" width="32" height="32" x="36" y="-34"/>
+  <g transform="translate(36,-35)">
+   <path style="fill:currentColor" class="ColorScheme-Text" transform="translate(-31.9998,1)" d="M 36.298828,5 C 35.578628,5 35,5.5575 35,6.25 v 15.5 C 35,22.442 35.578628,23 36.298828,23 H 34 c -0.554,0 -1,0.446 -1,1 v 1 c 0,0.554 0.446,1 1,1 h 28 c 0.554,0 1,-0.446 1,-1 v -1 c 0,-0.554 -0.446,-1 -1,-1 H 59.699219 C 60.419419,23 61,22.4425 61,21.75 V 6.25 C 61,5.5575 60.419219,5 59.699219,5 Z M 38,8 H 58 V 20 H 38 Z"/>
   </g>
  </g>
 </svg>

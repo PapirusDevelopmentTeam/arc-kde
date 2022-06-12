@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg7384" width="22" height="22" version="1.1" style="enable-background:new">
- <defs id="defs7386">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
- <g id="distribute-horizontal-x" transform="translate(-465.0002,65.00334)">
-  <rect id="rect3338" width="22" height="22" x="465" y="-65" style="opacity:0;fill:#0000ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-  <path id="path5837" class="ColorScheme-Text" d="m 473.0002,-57.00334 -5,3 5,3 0,-2 6,0 0,2 5,-3 -5,-3 0,2 -6,0 0,-2 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"/>
+ <g id="22-22-distribute-horizontal-x" transform="translate(-433,75)">
+  <rect style="opacity:0.001" width="22" height="22" x="465" y="-65"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
  </g>
- <g id="16-16-distribute-horizontal-x" transform="translate(-465.0002,65.00334)">
-  <rect id="rect4142" width="16" height="16" x="489" y="-59" style="opacity:0;fill:#0000ff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
-  <path id="path4144" class="ColorScheme-Text" d="m 494.0002,-54.00334 -4,2.999999 4,3.000001 0,-2.000001 6,0 0,2.000001 4,-3.000001 -4,-2.999999 0,2.000001 -6,0 z" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"/>
+ <g id="distribute-horizontal-x">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 10,10 3.0000002,16 10,22 v -4 h 12 v 4 l 7,-6 -7,-6 v 4 H 10 Z"/>
  </g>
 </svg>

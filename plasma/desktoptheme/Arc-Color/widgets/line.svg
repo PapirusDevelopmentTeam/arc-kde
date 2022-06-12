@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="40" version="1">
+ <g id="vertical-line" transform="translate(-32.96875,-13.59375)">
+  <path d="m 32.96875,13.59375 v 40 h 3 v -40 z" style="opacity:0.01"/>
+  <path d="m 33.96875,13.59375 v 40 h 1 v -40 z" style="fill-opacity:0.15"/>
+ </g>
+ <g id="horizontal-line" transform="translate(-32.690972,-18.529)">
+  <path d="m 75.690972,55.529 h -40 v 3 h 40 z" style="opacity:0.01"/>
+  <path d="m 75.690972,56.529 h -40 v 1 h 40 z" style="fill-opacity:0.15"/>
+ </g>
+</svg>

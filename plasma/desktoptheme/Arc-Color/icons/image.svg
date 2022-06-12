@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
+  </style>
+ </defs>
+ <g id="22-22-image-x-generic" transform="translate(27,5)">
+  <rect style="opacity:0.001" width="22" height="22" x="5" y="5"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 9.142857,9 C 8,9 8,10.166667 8,10.166667 V 21.833333 C 8,23 9.142857,23 9.142857,23 H 22.857143 C 22.857143,23 24,23 24,21.833333 V 10.166667 C 24,9 22.857143,9 22.857143,9 Z M 13.5,14 l 3.7,4 2.8,-2 2,2.695 V 21 H 10 v -3.25 z"/>
+ </g>
+ <g id="image-x-generic">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 5.7142855,5.0000003 C 4,5.0000003 4,6.7500008 4,6.7500008 V 24.25 C 4,26 5.7142855,26 5.7142855,26 H 26.285714 C 26.285714,26 28,26 28,24.25 V 6.7500008 C 28,5.0000003 26.285714,5.0000003 26.285714,5.0000003 Z M 12,12.500001 l 6,6 4,-3 3,4.042499 v 3.457501 H 7 v -4.875 z"/>
+ </g>
+</svg>

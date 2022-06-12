@@ -1,31 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="30" height="30" version="1.1" viewBox="0 0 30 30">
-     <defs id="defs7386">
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" version="1.1">
+<defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#5c616c; }
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
- <g id="layer1" transform="translate(0,-904.36218)">
-  <rect id="hint-tile-center" style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none" width="4" height="4" x="0" y="904.36"/>
-  <rect id="hint-bar-size" style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none" width="6" height="6" x="6" y="904.36"/>
-  <path id="bar-inactive-bottomright" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" d="m 17,15 0,3 c 1.661989,0 3,-1.338011 3,-3 l -3,0 z" transform="translate(0,904.36218)"/>
-  <path id="bar-inactive-right" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" d="m 17,12 0,2 3,0 0,-2 -3,0 z" transform="translate(0,904.36218)"/>
-  <path id="bar-inactive-topright" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" d="m 17,8 0,3 3,0 C 20,9.3380111 18.661989,8 17,8 Z" transform="translate(0,904.36218)"/>
-  <path id="bar-inactive-bottomleft" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" d="m 10,15 c 0,1.661989 1.338011,3 3,3 l 0,-3 -3,0 z" transform="translate(0,904.36218)"/>
-  <path id="bar-inactive-left" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" d="m 10,12 0,2 3,0 0,-2 -3,0 z" transform="translate(0,904.36218)"/>
-  <path id="bar-inactive-topleft" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" d="m 13,8 c -1.661989,0 -3,1.3380111 -3,3 l 3,0 0,-3 z" transform="translate(0,904.36218)"/>
-  <path id="bar-inactive-bottom" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" d="m 14,15 0,3 2,0 0,-3 -2,0 z" transform="translate(0,904.36218)"/>
-  <path id="bar-inactive-center" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" d="m 16,12 -2,0 0,2 2,0 0,-2 z" transform="translate(0,904.36218)"/>
-  <path id="bar-inactive-top" style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none" d="m 14,8 0,3 2,0 0,-3 -2,0 z" transform="translate(0,904.36218)"/>
-  <path id="bar-active-bottomright" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 17,931.36218 0,3 c 1.661989,0 3,-1.33801 3,-3 l -3,0 z"/>
-  <path id="bar-active-right" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 17,928.36218 0,2 3,0 0,-2 -3,0 z"/>
-  <path id="bar-active-topright" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 17,924.36218 0,3 3,0 c 0,-1.66199 -1.338011,-3 -3,-3 z"/>
-  <path id="bar-active-bottomleft" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 10,931.36218 c 0,1.66199 1.338011,3 3,3 l 0,-3 -3,0 z"/>
-  <path id="bar-active-left" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 10,928.36218 0,2 3,0 0,-2 -3,0 z"/>
-  <path id="bar-active-topleft" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 13,924.36218 c -1.661989,0 -3,1.33801 -3,3 l 3,0 0,-3 z"/>
-  <path id="bar-active-bottom" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 14,931.36218 0,3 2,0 0,-3 -2,0 z"/>
-  <path id="bar-active-center" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 16,928.36218 -2,0 0,2 2,0 0,-2 z"/>
-  <path id="bar-active-top" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Highlight" d="m 14,924.36218 0,3 2,0 0,-3 -2,0 z"/>
-  <rect id="hint-stretch-borders" style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none" width="3" height="3" x="0" y="910.36"/>
-  <rect id="hint-bar-stretch" style="opacity:1;fill:#ff2a2a;fill-opacity:1;stroke:none" width="3" height="3" x="0" y="915.36"/>
- </g>
+ <rect id="hint-tile-center" width="4" height="4" x="0" y="0" style="fill:#ff2a2a"/>
+ <rect id="hint-bar-size" width="6" height="6" x="6" y="0" style="fill:#ff2a2a"/>
+ <path id="bar-inactive-bottomright" d="m 17,15 v 3 c 1.661989,0 3,-1.338011 3,-3 z" style="opacity:0.2"/>
+ <path id="bar-inactive-right" d="m 17,12 v 2 h 3 v -2 z" style="opacity:0.2"/>
+ <path id="bar-inactive-topright" d="m 17,8 v 3 h 3 C 20,9.3380111 18.661989,8 17,8 Z" style="opacity:0.2"/>
+ <path id="bar-inactive-bottomleft" d="m 10,15 c 0,1.661989 1.338011,3 3,3 v -3 z" style="opacity:0.2"/>
+ <path id="bar-inactive-left" d="m 10,12 v 2 h 3 v -2 z" style="opacity:0.2"/>
+ <path id="bar-inactive-topleft" d="m 13,8 c -1.661989,0 -3,1.3380111 -3,3 h 3 z" style="opacity:0.2"/>
+ <path id="bar-inactive-bottom" d="m 14,15 v 3 h 2 v -3 z" style="opacity:0.2"/>
+ <path id="bar-inactive-center" d="m 16,12 h -2 v 2 h 2 z" style="opacity:0.2"/>
+ <path id="bar-inactive-top" d="m 14,8 v 3 h 2 V 8 Z" style="opacity:0.2"/>
+ <path id="bar-active-bottomright" d="m 17,27 v 3 c 1.661989,0 3,-1.33801 3,-3 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
+ <path id="bar-active-right" d="m 17,24 v 2 h 3 v -2 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
+ <path id="bar-active-topright" d="m 17,20 v 3 h 3 c 0,-1.66199 -1.338011,-3 -3,-3 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
+ <path id="bar-active-bottomleft" d="m 10,27 c 0,1.66199 1.338011,3 3,3 v -3 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
+ <path id="bar-active-left" d="m 10,24 v 2 h 3 v -2 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
+ <path id="bar-active-topleft" d="m 13,20 c -1.661989,0 -3,1.33801 -3,3 h 3 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
+ <path id="bar-active-bottom" d="m 14,27 v 3 h 2 v -3 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
+ <path id="bar-active-center" d="m 16,24 h -2 v 2 h 2 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
+ <path id="bar-active-top" d="m 14,20 v 3 h 2 v -3 z" style="fill:currentColor" class="ColorScheme-Highlight"/>
+ <rect id="hint-stretch-borders" width="3" height="3" x="0" y="6" style="fill:#ff2a2a"/>
+ <rect id="hint-bar-stretch" width="3" height="3" x="0" y="11" style="fill:#ff2a2a"/>
 </svg>

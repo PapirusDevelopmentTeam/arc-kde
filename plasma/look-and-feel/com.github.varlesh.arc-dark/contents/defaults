@@ -13,7 +13,7 @@ name=Arc-Dark
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Arc-Dark
-BorderSize=None
+BorderSize=Tiny
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors

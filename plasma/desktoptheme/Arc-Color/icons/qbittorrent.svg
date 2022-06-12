@@ -1,11 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg7384" width="22" height="22" version="1.1" style="enable-background:new">
- <defs id="defs7386">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
- <g id="qbittorrent" transform="translate(-504.00018,-200)">
-  <path id="rect4152" d="m 504.00018,200 22,0 0,22 -22,0 z" style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-  <path id="path4230" class="ColorScheme-Text" d="m 515.00018,203 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 1,2 1,0 0,4.50391 a 2.5,2.5 0 0 1 1.5,-0.50391 2.5,2.5 0 0 1 2.5,2.5 2.5,2.5 0 0 1 -2.5,2.5 2.5,2.5 0 0 1 -1.5,-0.50195 l 0,0.50195 -1,0 0,-2.5 0,-6.5 z m -4.5,4 a 2.5,2.5 0 0 1 1.5,0.50195 l 0,-0.50195 1,0 0,2.5 0,6.5 -1,0 0,-4.50391 a 2.5,2.5 0 0 1 -1.5,0.50391 2.5,2.5 0 0 1 -2.5,-2.5 2.5,2.5 0 0 1 2.5,-2.5 z m 0,1 a 1.5,1.5 0 0 0 -1.5,1.5 1.5,1.5 0 0 0 1.5,1.5 1.5,1.5 0 0 0 1.5,-1.5 1.5,1.5 0 0 0 -1.5,-1.5 z m 7,0 a 1.5,1.5 0 0 0 -1.5,1.5 1.5,1.5 0 0 0 1.5,1.5 1.5,1.5 0 0 0 1.5,-1.5 1.5,1.5 0 0 0 -1.5,-1.5 z" style="opacity:1;fill:currentColor;fill-opacity:1"/>
+ <g id="22-22-qbittorrent-tray" transform="translate(32.000001,10.000001)">
+  <path style="opacity:0.001" d="M 0,0 H 22 V 22 H 0 Z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 13,3 a 1,1 0 0 0 -1,1 v 11 h 2 V 14.458984 C 14.607485,14.81219 15.297298,14.998156 16,15 18.209139,15 20,13.209139 20,11 20,8.7908608 18.209139,7 16,7 15.29748,7.00125 14.607679,7.1865555 14,7.5390625 V 4 A 1,1 0 0 0 13,3 Z m 3,6 c 1.104569,0 2,0.8954308 2,2 0,1.104569 -0.895431,2 -2,2 -1.104569,0 -2,-0.895431 -2,-2 0,-1.1045692 0.895431,-2 2,-2 z"/>
+  <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 6,7 c -2.209139,0 -4,1.7908608 -4,4 0,2.209139 1.790861,4 4,4 0.702523,-0.0013 1.392325,-0.188495 2,-0.541016 V 18 a 1,1 0 0 0 1,1 1,1 0 0 0 1,-1 V 7 H 8 V 7.5410156 C 7.392515,7.1878093 6.702702,7.0018543 6,7 Z M 6,9 C 7.10457,9 8,9.8954308 8,11 8,12.104569 7.10457,13 6,13 4.895431,13 4,12.104569 4,11 4,9.8954308 4.895431,9 6,9 Z"/>
+ </g>
+ <g id="qbittorrent-tray">
+  <path style="opacity:0.001" d="M 0,0 H 32.000001 V 32.000001 H 0 Z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 18.500001,4.0000005 A 1.5,1.5 0 0 0 17,5.5000005 V 22 h 3 v -0.811524 c 0.911228,0.529809 1.945947,0.808758 3,0.811524 3.313708,0 6,-2.686291 6,-6 0,-3.313708 -2.686292,-5.999999 -6,-5.999999 -1.05378,0.0019 -2.088481,0.279833 -3,0.808593 V 5.5000005 a 1.5,1.5 0 0 0 -1.499999,-1.5 z M 23,13.000001 c 1.656854,0 3,1.343145 3,2.999999 0,1.656854 -1.343146,3.000001 -3,3.000001 -1.656854,0 -3,-1.343147 -3,-3.000001 0,-1.656854 1.343146,-2.999999 3,-2.999999 z"/>
+  <path style="opacity:0.35;fill:currentColor" class="ColorScheme-Text" d="m 9,10.000001 c -3.3137085,0 -6,2.686291 -6,5.999999 0,3.313709 2.6862915,6 6,6 1.053784,-0.002 2.088487,-0.282742 3,-0.811524 v 5.311525 A 1.5,1.5 0 0 0 13.500001,28 1.5,1.5 0 0 0 15,26.500001 v -16.5 h -3 v 0.811523 C 11.088772,10.281715 10.054053,10.002782 9,10.000001 Z m 0,3 c 1.656855,0 3,1.343145 3,2.999999 0,1.656854 -1.343145,3.000001 -3,3.000001 -1.6568535,0 -3,-1.343147 -3,-3.000001 0,-1.656854 1.3431465,-2.999999 3,-2.999999 z"/>
  </g>
 </svg>

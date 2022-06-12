@@ -1,14 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" id="svg7384" width="22" height="22" version="1.1" style="enable-background:new">
- <defs id="defs7386">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
+ <defs>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
-  <linearGradient id="linearGradient5606" osb:paint="solid">
-   <stop id="stop5608" offset="0" style="stop-color:currentColor;stop-opacity:1"/>
-  </linearGradient>
  </defs>
- <g id="printer" transform="translate(-505.0006,125.00672)">
-  <rect id="rect4140" width="22" height="22" x="505" y="-125.01" style="opacity:0;fill:#2b0000;fill-opacity:0.40392157;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"/>
-  <path id="path3520-4" class="ColorScheme-Text" d="M 6,3 6,6 16,6 16,3 6,3 Z M 3.2851562,7 C 2.6423062,7 2,7.5826756 2,8.1660156 L 2,12.833984 C 2,13.417324 2.6423062,14 3.2851562,14 L 5,14 l 0,-2 12,0 0,2 1.714844,0 C 19.357694,14 20,13.417324 20,12.833984 L 20,8.1660156 C 20,7.5826756 19.357694,7 18.714844,7 L 3.2851562,7 Z M 6,13 l 0,6 10,0 0,-6 -10,0 z" transform="translate(505.0006,-125.00672)" style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"/>
+ <g id="22-22-printer" transform="translate(-473,135.01001)">
+  <rect style="opacity:0.001" width="22" height="22" x="505" y="-125.01"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" transform="translate(505.0006,-125.00672)" d="M 6,3 V 6 H 16 V 3 Z M 3.2851562,7 C 2.6423063,7 2,7.5826756 2,8.1660156 V 12.833984 C 2,13.417324 2.6423063,14 3.2851562,14 H 5 v -2 h 12 v 2 h 1.714844 C 19.357694,14 20,13.417324 20,12.833984 V 8.1660156 C 20,7.5826756 19.357694,7 18.714844,7 Z M 6,13 v 6 h 10 v -6 z m 1,2 h 8 v 1 H 7 Z m 0,2 h 8 v 1 H 7 Z"/>
+ </g>
+ <g id="printer">
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="M 9 5 L 9 9 L 23 9 L 23 5 L 9 5 z M 4.8554688 11 C 3.9269077 11 3 11.832673 3 12.666016 L 3 19.333984 C 3 20.167327 3.9269078 21 4.8554688 21 L 7 21 L 7 18 L 25 18 L 25 21 L 27.144531 21 C 28.073092 21 29 20.167327 29 19.333984 L 29 12.666016 C 29 11.832673 28.073092 11 27.144531 11 L 4.8554688 11 z M 9 20 L 9 28 L 23 28 L 23 20 L 9 20 z M 11 22 L 21 22 L 21 24 L 11 24 L 11 22 z M 11 25 L 21 25 L 21 27 L 11 27 L 11 25 z"/>
  </g>
 </svg>

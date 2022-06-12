@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="143" version="1">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
+  </style>
+ </defs>
+ <g id="base-topleft" transform="translate(721.81,-777.58402)">
+  <path style="opacity:0.2" d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 h 1 c 0,-0.55228 0.44772,-1 1,-1 z"/>
+  <path style="opacity:0.10;fill:currentColor" class="ColorScheme-Highlight" transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"/>
+ </g>
+ <g id="base-bottomleft" transform="translate(721.81,-773.58403)">
+  <path style="opacity:0.2" d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 h 1 c 0,0.55228 0.44772,1 1,1 z"/>
+  <path style="opacity:0.10;fill:currentColor" class="ColorScheme-Highlight" transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"/>
+ </g>
+ <g id="base-left" transform="matrix(1,0,0,1.666664,721.81,-1313.9712)">
+  <rect style="opacity:0.2" width="1" height="21" x="-721.81" y="789.58"/>
+  <rect style="opacity:0.10;fill:currentColor" class="ColorScheme-Highlight" width="1" height="21" x="-720.81" y="789.58"/>
+ </g>
+ <g id="base-top" transform="matrix(1.9090909,0,0,1,1376.1802,-777.58402)">
+  <rect style="opacity:0.2" width="55" height="1" x="-719.81" y="777.58"/>
+  <rect style="opacity:0.10;fill:currentColor" class="ColorScheme-Highlight" width="55" height="1" x="-719.81" y="778.58"/>
+ </g>
+ <g id="base-bottom" transform="matrix(1.9090909,0,0,1,1376.1802,-773.58403)">
+  <rect style="opacity:0.2" width="55" height="1" x="-719.81" y="811.58"/>
+  <rect style="opacity:0.10;fill:currentColor" class="ColorScheme-Highlight" width="55" height="1" x="-719.81" y="810.58"/>
+ </g>
+ <g id="base-topright" transform="translate(771.80997,-777.58402)">
+  <path style="opacity:0.10;fill:currentColor" class="ColorScheme-Highlight" transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"/>
+  <path style="opacity:0.2" d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 h -1 c 0,-0.55228 -0.44772,-1 -1,-1 z"/>
+ </g>
+ <g id="base-bottomright" transform="translate(771.80997,-773.58403)">
+  <path style="opacity:0.2" d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 h -1 c 0,0.55228 -0.44772,1 -1,1 z"/>
+  <path style="opacity:0.10;fill:currentColor" class="ColorScheme-Highlight" transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"/>
+ </g>
+ <g id="base-right" transform="matrix(1,0,0,1.666664,771.80997,-1313.9712)">
+  <rect style="opacity:0.2" width="1" height="21" x="662.81" y="789.58" transform="scale(-1,1)"/>
+  <rect style="opacity:0.10;fill:currentColor" class="ColorScheme-Highlight" width="1" height="21" x="-664.81" y="789.58"/>
+ </g>
+ <g id="base-center" transform="translate(-107.99716,49.99996)">
+  <rect style="opacity:0.10;fill:currentColor" class="ColorScheme-Highlight" width="105" height="35" x="110" y="-48"/>
+ </g>
+ <g id="hover-topleft" transform="translate(721.81,-721.58402)">
+  <path style="opacity:0.001" d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 h 1 c 0,-0.55228 0.44772,-1 1,-1 z"/>
+  <path style="opacity:0.001" transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"/>
+ </g>
+ <g id="hover-bottomleft" transform="translate(721.81,-717.58403)">
+  <path style="opacity:0.001" d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 h 1 c 0,0.55228 0.44772,1 1,1 z"/>
+  <path style="opacity:0.001" transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"/>
+ </g>
+ <g id="hover-left" transform="matrix(1,0,0,1.666664,721.81,-1257.9712)">
+  <rect style="opacity:0.001" width="1" height="21" x="-721.81" y="789.58"/>
+  <rect style="opacity:0.001" width="1" height="21" x="-720.81" y="789.58"/>
+ </g>
+ <g id="hover-top" transform="matrix(1.9090909,0,0,1,1376.1802,-721.58402)">
+  <rect style="opacity:0.001" width="55" height="1" x="-719.81" y="777.58"/>
+  <rect style="opacity:0.001" width="55" height="1" x="-719.81" y="778.58"/>
+ </g>
+ <g id="hover-bottom" transform="matrix(1.9090909,0,0,1,1376.1802,-717.58403)">
+  <rect style="opacity:0.001" width="55" height="1" x="-719.81" y="811.58"/>
+  <rect style="opacity:0.001" width="55" height="1" x="-719.81" y="810.58"/>
+ </g>
+ <g id="hover-topright" transform="translate(771.80997,-721.58402)">
+  <path style="opacity:0.001" d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 h -1 c 0,-0.55228 -0.44772,-1 -1,-1 z"/>
+  <path style="opacity:0.001" transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"/>
+ </g>
+ <g id="hover-bottomright" transform="translate(771.80997,-717.58403)">
+  <path style="opacity:0.001" d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 h -1 c 0,0.55228 -0.44772,1 -1,1 z"/>
+  <path style="opacity:0.001" transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"/>
+ </g>
+ <g id="hover-right" transform="matrix(1,0,0,1.666664,771.80997,-1257.9712)">
+  <rect style="opacity:0.001" width="1" height="21" x="662.81" y="789.58" transform="scale(-1,1)"/>
+  <rect style="opacity:0.001" width="1" height="21" x="-664.81" y="789.58"/>
+ </g>
+ <rect id="hover-center" style="opacity:0.001" width="105" height="35" x="2" y="58"/>
+ <g id="focus-topleft" transform="translate(721.81,-673.58402)">
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m -719.80709,777.58403 c -1.10457,0 -2,0.89543 -2,2 h 1 c 0,-0.55228 0.44772,-1 1,-1 z"/>
+  <path style="opacity:0.001" transform="matrix(-0.5,0,0,-0.5,-639.80709,700.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"/>
+ </g>
+ <g id="focus-bottomleft" transform="translate(721.81,-669.58403)">
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m -719.80709,812.58403 c -1.10457,0 -2,-0.89543 -2,-2 h 1 c 0,0.55228 0.44772,1 1,1 z"/>
+  <path style="opacity:0.001" transform="matrix(-0.5,0,0,0.5,-639.80709,890.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"/>
+ </g>
+ <g id="focus-left" transform="matrix(1,0,0,1.666664,721.81,-1209.9712)">
+  <rect style="fill:currentColor" class="ColorScheme-Highlight" width="1" height="21" x="-721.81" y="789.58"/>
+  <rect style="opacity:0.001" width="1" height="21" x="-720.81" y="789.58"/>
+ </g>
+ <g id="focus-top" transform="matrix(1.9090909,0,0,1,1376.1802,-673.58402)">
+  <rect style="fill:currentColor" class="ColorScheme-Highlight" width="55" height="1" x="-719.81" y="777.58"/>
+  <rect style="opacity:0.001" width="55" height="1" x="-719.81" y="778.58"/>
+ </g>
+ <g id="focus-bottom" transform="matrix(1.9090909,0,0,1,1376.1802,-669.58403)">
+  <rect style="fill:currentColor" class="ColorScheme-Highlight" width="55" height="1" x="-719.81" y="811.58"/>
+  <rect style="opacity:0.001" width="55" height="1" x="-719.81" y="810.58"/>
+ </g>
+ <g id="focus-topright" transform="translate(771.80997,-673.58402)">
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m -664.80709,777.58403 c 1.10457,0 2,0.89543 2,2 h -1 c 0,-0.55228 -0.44772,-1 -1,-1 z"/>
+  <path style="opacity:0.001" transform="matrix(0.5,0,0,-0.5,-744.80709,700.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"/>
+ </g>
+ <g id="focus-bottomright" transform="translate(771.80997,-669.58403)">
+  <path style="fill:currentColor" class="ColorScheme-Highlight" d="m -664.80709,812.58403 c 1.10457,0 2,-0.89543 2,-2 h -1 c 0,0.55228 -0.44772,1 -1,1 z"/>
+  <path style="opacity:0.001" transform="matrix(0.5,0,0,0.5,-744.80709,890.08403)" d="m 162,-159 a 2,2 0 0 1 -2,2 v -2 z"/>
+ </g>
+ <g id="focus-right" transform="matrix(1,0,0,1.666664,771.80997,-1209.9712)">
+  <rect style="fill:currentColor" class="ColorScheme-Highlight" width="1" height="21" x="662.81" y="789.58" transform="scale(-1,1)"/>
+  <rect style="opacity:0.001" width="1" height="21" x="-664.81" y="789.58"/>
+ </g>
+ <rect id="focus-center" style="opacity:0.001" width="105" height="35" x="2" y="106"/>
+ <rect id="hover-hint-bottom-margin" style="fill:#4e9a06" width="2" height=".2" x="53.5" y="94"/>
+ <rect id="hover-hint-top-margin" style="fill:#4e9a06" width="2" height=".2" x="53.5" y="56.8"/>
+ <rect id="hover-hint-left-margin" style="fill:#4e9a06" width="2" height=".2" x="-76" y=".8" transform="rotate(-90)"/>
+ <rect id="hover-hint-right-margin" style="fill:#4e9a06" width="2" height=".2" x="-76" y="108" transform="rotate(-90)"/>
+ <rect id="focus-hint-bottom-margin" style="fill:#4e9a06" width="2" height=".1" x="53.5" y="142.9"/>
+ <rect id="focus-hint-top-margin" style="fill:#4e9a06" width="2" height=".1" x="53.5" y="103.9"/>
+ <rect id="focus-hint-left-margin" style="fill:#4e9a06" width="2" height=".1" x="-124" y="0" transform="rotate(-90)"/>
+ <rect id="focus-hint-right-margin" style="fill:#4e9a06" width="2" height=".1" x="-124" y="108.9" transform="rotate(-90)"/>
+ <rect id="base-hint-top-margin" style="fill:#4e9a06" width="2" height="6" x="53.5" y="0"/>
+ <rect id="base-hint-right-margin" style="fill:#4e9a06" width="2" height="6" x="-20" y="103" transform="rotate(-90)"/>
+ <rect id="base-hint-left-margin" style="fill:#4e9a06" width="2" height="6" x="-20" y="0" transform="rotate(-90)"/>
+ <rect id="base-hint-bottom-margin" style="fill:#4e9a06" width="2" height="6" x="53.5" y="33"/>
+</svg>
