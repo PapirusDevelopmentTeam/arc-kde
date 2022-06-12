@@ -29,6 +29,8 @@ uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Arc-Color
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/desktoptheme/Arc-Dark
 	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.arc-dark
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.arc-darker
+	-rm -rf $(DESTDIR)$(PREFIX)/share/plasma/look-and-feel/com.github.varlesh.arc
 	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Arc
 	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Arc-Dark
 	-rm -rf $(DESTDIR)$(PREFIX)/share/wallpapers/Arc-Mountains
