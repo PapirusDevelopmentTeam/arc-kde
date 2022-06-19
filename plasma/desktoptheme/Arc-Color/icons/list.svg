@@ -8,7 +8,7 @@
   <path style="opacity:0.001" d="m 285.00081,-5.00334 h 22 v 22 h -22 z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" transform="translate(285.00081,-5.00334)" d="M 9,3 V 9 H 3 v 4 h 6 v 6 h 4 v -6 h 6 V 9 H 13 V 3 Z"/>
  </g>
- <g id="list-add" transform="translate(3.6590725e-6)">
+ <g id="list-add">
   <path style="opacity:0.001" d="M -4.318145e-6,-4.8197e-7 H 31.999997 V 32.000001 H -4.318145e-6 Z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 13,4 v 9 H 4.0000001 v 6 H 13 v 9 h 6 v -9 h 9 V 13 H 19 V 4 Z"/>
  </g>
@@ -19,5 +19,13 @@
  <g id="list-remove" transform="translate(32.000005)">
   <path style="opacity:0.001" d="M -4.318145e-6,-4.8197e-7 H 31.999997 V 32.000001 H -4.318145e-6 Z"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="m 4.0000001,13 v 6 H 28 v -6 z"/>
+ </g>
+ <g id="16-16-list-add" transform="matrix(0.49999998,0,0,0.49999998,2.1590724e-6,-38)">
+  <path style="opacity:0.001" d="M -4.318145e-6,-4.8197e-7 H 31.999997 V 32.000001 H -4.318145e-6 Z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 13.999996,4.0000002 -3e-6,10.0000008 -9.9999961,0 v 4 l 9.9999961,0 3e-6,9.999999 h 4 l -3e-6,-9.999999 10.000004,0 v -4 l -10.000004,0 3e-6,-10.0000008 z"/>
+ </g>
+ <g id="16-16-list-remove" transform="matrix(0.49999998,0,0,0.49999998,32.000002,-38)">
+  <path style="opacity:0.001" d="M -4.318145e-6,-4.8197e-7 H 31.999997 V 32.000001 H -4.318145e-6 Z"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 3.9999972,14.000001 v 4 H 27.999997 v -4 z"/>
  </g>
 </svg>
