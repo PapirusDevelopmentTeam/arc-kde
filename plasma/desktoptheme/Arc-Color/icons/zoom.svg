@@ -20,4 +20,12 @@
   <rect style="opacity:0.001" width="32" height="32" x="0" y="-32" transform="rotate(90)"/>
   <path style="fill:currentColor" class="ColorScheme-Text" d="M 21,10 15.5,3 10,10 h 4 v 12 h -4 l 5.5,7 5.5,-7 H 17 V 10 Z"/>
  </g>
+ <g id="16-16-zoom-fit-height" transform="translate(-8,-46)">
+  <rect style="opacity:0.001" width="16" height="16" x="8" y="-24" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 19,13 -3,-4 -3,4 h 2 v 6 h -2 l 3,4 3,-4 h -2 v -6 z"/>
+ </g>
+ <g id="16-16-zoom-fit-width" transform="rotate(90,51.000001,4.999999)">
+  <rect style="opacity:0.001" width="16" height="16" x="8" y="-24" transform="rotate(90)"/>
+  <path style="fill:currentColor" class="ColorScheme-Text" d="m 19,13 -3,-4 -3,4 h 2 v 6 h -2 l 3,4 3,-4 h -2 v -6 z"/>
+ </g>
 </svg>
