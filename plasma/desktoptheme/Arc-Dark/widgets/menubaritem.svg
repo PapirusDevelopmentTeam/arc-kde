@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="34" version="1.1">
+ <path id="hover-center" style="opacity:0.05;fill:#ffffff" d="M 62,6 V 28 H 40 V 6 Z"/>
+ <g id="hover-left" transform="translate(34)">
+  <path style="opacity:0.001" d="M 0,6 H 6 V 28 H 0 Z"/>
+  <path style="opacity:0.05;fill:#ffffff" d="M 2,6 H 6 V 28 H 2 Z"/>
+ </g>
+ <g id="hover-topleft" transform="translate(34)">
+  <path style="opacity:0.001" d="M 0,0 H 6 V 6 H 0 Z"/>
+  <path style="opacity:0.05;fill:#ffffff" d="M 6,2 V 6 H 2 V 2 Z"/>
+ </g>
+ <g id="hover-right" transform="translate(34)">
+  <path style="opacity:0.001" d="m 28,6 h 6 v 22 h -6 z"/>
+  <path style="opacity:0.05;fill:#ffffff" d="m 28,6 h 4 v 22 h -4 z"/>
+ </g>
+ <g id="hover-top" transform="translate(34)">
+  <path style="opacity:0.001" d="M 28,0 V 6 H 6 V 0 Z"/>
+  <path style="opacity:0.05;fill:#ffffff" d="M 28,2 V 6 H 6 V 2 Z"/>
+ </g>
+ <g id="hover-bottom" transform="translate(34)">
+  <path style="opacity:0.001" d="m 28,28 v 6 H 6 v -6 z"/>
+  <path style="opacity:0.05;fill:#ffffff" d="m 28,28 v 4 H 6 v -4 z"/>
+ </g>
+ <g id="hover-bottomright" transform="translate(34)">
+  <path style="opacity:0.001" d="m 28,28 h 6 v 6 h -6 z"/>
+  <path style="opacity:0.05;fill:#ffffff" d="m 28,32 v -4 h 4 v 4 z"/>
+ </g>
+ <g id="hover-topright" transform="translate(34)">
+  <path style="opacity:0.001" d="m 28,0 h 6 v 6 h -6 z"/>
+  <path style="opacity:0.05;fill:#ffffff" d="m 28,2 v 4 h 4 V 2 Z"/>
+ </g>
+ <g id="hover-bottomleft" transform="translate(34)">
+  <path style="opacity:0.001" d="m 0,28 h 6 v 6 H 0 Z"/>
+  <path style="opacity:0.05;fill:#ffffff" d="M 6,32 V 28 H 2 v 4 z"/>
+ </g>
+ <path id="normal-center" fill="transparent" d="M 28,6 V 28 H 6 V 6 Z"/>
+ <g id="normal-left">
+  <path style="opacity:0.001" d="M 0,6 H 6 V 28 H 0 Z"/>
+  <path fill="transparent" d="M 2,6 H 6 V 28 H 2 Z"/>
+ </g>
+ <g id="normal-topleft">
+  <path style="opacity:0.001" d="M 0,0 H 6 V 6 H 0 Z"/>
+  <path fill="transparent" d="M 2 2 L 2 6 C 2 6 2.015625 6.0009766 2.0449219 6 L 6 6 L 6 2 L 5.9550781 2 L 2 2 z"/>
+ </g>
+ <g id="normal-right">
+  <path style="opacity:0.001" d="m 28,6 h 6 v 22 h -6 z"/>
+  <path fill="transparent" d="m 28,6 h 4 v 22 h -4 z"/>
+ </g>
+ <g id="normal-top">
+  <path style="opacity:0.001" d="M 28,0 V 6 H 6 V 0 Z"/>
+  <path fill="transparent" d="M 28,2 V 6 H 6 V 2 Z"/>
+ </g>
+ <g id="normal-bottom">
+  <path style="opacity:0.001" d="m 28,28 v 6 H 6 v -6 z"/>
+  <path fill="transparent" d="m 28,28 v 4 H 6 v -4 z"/>
+ </g>
+ <g id="normal-bottomright">
+  <path style="opacity:0.001" d="m 28,28 h 6 v 6 h -6 z"/>
+  <path fill="transparent" d="M 28 28 L 28 32 L 28.044922 32 L 32 32 L 32 28 L 31.955078 28 L 28 28 z"/>
+ </g>
+ <g id="normal-topright">
+  <path style="opacity:0.001" d="m 28,0 h 6 v 6 h -6 z"/>
+  <path fill="transparent" d="M 28 2 C 28 2 27.999023 2.015625 28 2.0449219 L 28 6 L 32 6 L 32 2 L 28.044922 2 L 28 2 z"/>
+ </g>
+ <g id="normal-bottomleft">
+  <path style="opacity:0.001" d="m 0,28 h 6 v 6 H 0 Z"/>
+  <path fill="transparent" d="M 2 28 L 2 32 L 5.9550781 32 L 6 32 L 6 28 L 2.0449219 28 C 2.015625 27.999023 2 28 2 28 z"/>
+ </g>
+ <path id="pressed-center" style="fill:#5294e2" d="M 96,6 V 28 H 74 V 6 Z"/>
+ <g id="pressed-left" transform="translate(68)">
+  <path style="opacity:0.001" d="M 0,6 H 6 V 28 H 0 Z"/>
+  <path style="fill:#5294e2" transform="translate(-68)" d="M 70 6 L 70 28 L 71 28 L 74 28 L 74 6 L 71 6 L 70 6 z"/>
+ </g>
+ <g id="pressed-topleft" transform="translate(68)">
+  <path style="opacity:0.001" d="M 0,0 H 6 V 6 H 0 Z"/>
+  <path style="fill:#5294e2" transform="translate(-68)" d="M 70 2 L 70 6 L 71 6 L 74 6 L 74 3 L 74 2 L 70 2 z"/>
+ </g>
+ <g id="pressed-right" transform="translate(68)">
+  <path style="opacity:0.001" d="m 28,6 h 6 v 22 h -6 z"/>
+  <path style="fill:#5294e2" transform="translate(-68)" d="M 96 6 L 96 28 L 99 28 L 100 28 L 100 6 L 99 6 L 96 6 z"/>
+ </g>
+ <g id="pressed-top" transform="translate(68)">
+  <path style="opacity:0.001" d="M 28,0 V 6 H 6 V 0 Z"/>
+  <path style="fill:#5294e2" transform="translate(-68)" d="M 74 2 L 74 3 L 74 6 L 96 6 L 96 3 L 96 2 L 74 2 z"/>
+ </g>
+ <g id="pressed-bottom" transform="translate(68)">
+  <path style="opacity:0.001" d="m 28,28 v 6 H 6 v -6 z"/>
+  <path style="fill:#5294e2" transform="translate(-68)" d="M 74 28 L 74 31 L 74 32 L 96 32 L 96 31 L 96 28 L 74 28 z"/>
+ </g>
+ <g id="pressed-bottomright" transform="translate(68)">
+  <path style="opacity:0.001" d="m 28,28 h 6 v 6 h -6 z"/>
+  <path style="fill:#5294e2" transform="translate(-68)" d="M 96 28 L 96 31 L 96 32 L 100 32 L 100 28 L 99 28 L 96 28 z"/>
+ </g>
+ <g id="pressed-topright" transform="translate(68)">
+  <path style="opacity:0.001" d="m 28,0 h 6 v 6 h -6 z"/>
+  <path style="fill:#5294e2" transform="translate(-68)" d="M 96 2 L 96 3 L 96 6 L 99 6 L 100 6 L 100 2 L 96 2 z"/>
+ </g>
+ <g id="pressed-bottomleft" transform="translate(68)">
+  <path style="opacity:0.001" d="m 0,28 h 6 v 6 H 0 Z"/>
+  <path style="fill:#5294e2" transform="translate(-68)" d="M 70 28 L 70 32 L 74 32 L 74 31 L 74 28 L 71 28 L 70 28 z"/>
+ </g>
+ <path id="normal-hint-top-margin" style="fill:#ff0000" d="m 16,0 h 2 v 6 h -2 z"/>
+ <path id="normal-hint-bottom-margin" style="fill:#ff0000" d="m 16,28 h 2 v 6 h -2 z"/>
+ <path id="normal-hint-left-margin" style="fill:#ff0000" d="m 0,16 h 6.0000002 v 2 H 0 Z"/>
+ <path id="normal-hint-right-margin" style="fill:#ff0000" d="m 28,16 h 6 v 2 h -6 z"/>
+ <path id="hover-hint-top-margin" style="fill:#ff0000" d="m 50,0 h 2 v 6 h -2 z"/>
+ <path id="hover-hint-bottom-margin" style="fill:#ff0000" d="m 50,28 h 2 v 6 h -2 z"/>
+ <path id="hover-hint-left-margin" style="fill:#ff0000" d="m 34,16 h 6 v 2 h -6 z"/>
+ <path id="hover-hint-right-margin" style="fill:#ff0000" d="m 62,16 h 6 v 2 h -6 z"/>
+ <path id="pressed-hint-top-margin" style="fill:#ff0000" d="m 84,0 h 2 v 6 h -2 z"/>
+ <path id="pressed-hint-bottom-margin" style="fill:#ff0000" d="m 84,28 h 2 v 6 h -2 z"/>
+ <path id="pressed-hint-left-margin" style="fill:#ff0000" d="m 68,16 h 6 v 2 h -6 z"/>
+ <path id="pressed-hint-right-margin" style="fill:#ff0000" d="m 96,16 h 6 v 2 h -6 z"/>
+ <rect id="hint-stretch-borders" style="fill:#ff0000" width="2" height="2" x="0" y="0"/>
+</svg>
