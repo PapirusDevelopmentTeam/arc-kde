@@ -1,10 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
- <g id="22-22-distribute-horizontal-x" transform="translate(-433,75)">
-  <rect style="opacity:0.001" width="22" height="22" x="465" y="-65"/>
-  <path style="fill:#d3dae3" d="m 472.0002,-58.00334 -5,4 5,4 v -3 h 8 v 3 l 5,-4 -5,-4 v 3 h -8 z"/>
- </g>
  <g id="distribute-horizontal-x">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
-  <path style="fill:#d3dae3" d="M 10,10 3.0000002,16 10,22 v -4 h 12 v 4 l 7,-6 -7,-6 v 4 H 10 Z"/>
+  <path style="fill:#d3dae3" d="m 3,9 v 14 h 7 V 9 Z m 19,0 v 14 h 7 V 9 Z m -10,3 v 8 h 2 v -2 h 4 v 2 h 2 v -8 h -2 v 2 h -4 v -2 z"/>
+ </g>
+ <g id="16-16-distribute-horizontal-x" transform="translate(46,8)">
+  <rect style="opacity:0.001" width="16" height="16" x="8" y="8"/>
+  <path style="fill:#d3dae3" d="m 9,12 v 8 h 4 v -8 z m 10,0 v 8 h 4 v -8 z m -5,2 v 4 h 1 v -1 h 2 v 1 h 1 v -4 h -1 v 1 h -2 v -1 z"/>
+ </g>
+ <g id="22-22-distribute-horizontal-x" transform="translate(27,5)">
+  <rect style="opacity:0.001" width="22" height="22" x="5" y="5"/>
+  <path style="fill:#d3dae3" d="m 8,12 v 8 h 5 v -8 z m 11,0 v 8 h 5 v -8 z m -5,2 v 4 h 1 v -1 h 2 v 1 h 1 v -4 h -1 v 1 h -2 v -1 z"/>
  </g>
 </svg>
