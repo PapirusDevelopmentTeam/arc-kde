@@ -36,16 +36,16 @@
   <path style="fill:#d3dae3" d="m 6,1035.3622 v 12 l 11,-6 -9.8992,-5.3996 z"/>
  </g>
  <g id="22-22-media-playback-stopped" transform="translate(32,-1074.36)">
-  <rect width="22" height="22" x="0" y="1030.36" style="opacity:0.001"/>
-  <path d="m 5,1035.3622 v 12 h 12 v -12 z" style="fill:#d3dae3"/>
+  <rect style="opacity:0.001" width="22" height="22" x="0" y="1030.36"/>
+  <path style="fill:#d3dae3" d="m 5,1035.3622 v 12 h 12 v -12 z"/>
  </g>
  <g id="22-22-media-playback-paused" transform="translate(64.000001,-1074.36)">
-  <rect width="22" height="22" x="0" y="1030.36" style="opacity:0.001"/>
-  <path d="m 5,1035.3622 v 12 h 4 v -12 z m 8,0 v 12 h 4 v -12 z" style="fill:#d3dae3"/>
+  <rect style="opacity:0.001" width="22" height="22" x="0" y="1030.36"/>
+  <path style="fill:#d3dae3" d="m 5,1035.3622 v 12 h 4 v -12 z m 8,0 v 12 h 4 v -12 z"/>
  </g>
  <g id="22-22-media-playback-playing" transform="translate(0,-1074.36)">
-  <rect width="22" height="22" x="0" y="1030.36" style="opacity:0.001"/>
-  <path d="m 6,1035.3622 v 12 l 11,-6 -9.8992,-5.3996 z" style="fill:#d3dae3"/>
+  <rect style="opacity:0.001" width="22" height="22" x="0" y="1030.36"/>
+  <path style="fill:#d3dae3" d="m 6,1035.3622 v 12 l 11,-6 -9.8992,-5.3996 z"/>
  </g>
  <g id="media-record" transform="matrix(1.4545455,0,0,1.4545455,256,-1498.7055)">
   <rect style="opacity:0.001" width="22" height="22" x="0" y="1030.36"/>
@@ -72,8 +72,8 @@
   <path style="fill:#d3dae3" d="m 7,7 v 18 h 6 V 7 Z m 12,0 v 18 h 6 V 7 Z"/>
  </g>
  <g id="media-playback-start" transform="translate(5e-7,1.9926818e-5)">
-  <rect width="32" height="32" x="0" y="0" style="opacity:0.001"/>
-  <path d="M 9,7 V 25 L 25,16 10.601163,7.9006 Z" style="fill:#d3dae3"/>
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path style="fill:#d3dae3" d="M 9,7 V 25 L 25,16 10.601163,7.9006 Z"/>
  </g>
  <g id="media-skip-backward" transform="matrix(-1,0,0,1,160,0)">
   <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
@@ -92,7 +92,15 @@
   <path style="fill:#d3dae3" d="m 7,7 v 18 h 6 V 7 Z m 12,0 v 18 h 6 V 7 Z"/>
  </g>
  <g id="media-playback-playing" transform="translate(5e-7,32.000021)">
-  <rect width="32" height="32" x="0" y="0" style="opacity:0.001"/>
-  <path d="M 9,7 V 25 L 25,16 10.601163,7.9006 Z" style="fill:#d3dae3"/>
+  <rect style="opacity:0.001" width="32" height="32" x="0" y="0"/>
+  <path style="fill:#d3dae3" d="M 9,7 V 25 L 25,16 10.601163,7.9006 Z"/>
+ </g>
+ <g id="media-playlist-repeat">
+  <path style="opacity:0.001" d="m 320,-1.99e-5 h 32 V 31.99998 h -32 z"/>
+  <path style="fill:#d3dae3" d="M 331,5.9999801 V 9 h -2.85715 C 325,9 325,12 325,12 v 9.00001 c 0,0 0,2.99998 3.14285,2.99998 h 15.7143 C 347,23.99999 347,21.00001 347,21.00001 V 12 c 0,0 0,-3 -3.14285,-3 H 341 v 3 h 3 v 9.00001 H 328 V 12 h 3 v 3 l 6.57143,-4.5 z"/>
+ </g>
+ <g id="media-playlist-shuffle">
+  <path style="opacity:0.001" d="m 288,-1.99e-5 h 32 V 31.99998 h -32 z"/>
+  <path style="fill:#d3dae3" d="m 294,9 v 3 h 6.42857 l 1.42857,2.571408 L 303.28571,12 301.85714,9 Z m 14,8.428551 V 20 h -0.42857 L 306.14286,17.428551 304.71429,20 l 1.42857,3 H 308 v 2.99998 l 6,-4.285714 z M 308,5.9999801 V 9 h -1.85714 l -5.71429,11 H 294 v 3 h 7.85714 l 5.71429,-11 H 308 v 2.571408 l 6,-4.285714 z"/>
  </g>
 </svg>
