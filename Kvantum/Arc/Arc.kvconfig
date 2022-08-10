@@ -4,7 +4,7 @@ comment=Arc Darker style
 spread_menuitems=true
 left_tabs=true
 mirror_doc_tabs=true
-scroll_width=8
+scroll_width=12
 attach_active_tab=true
 composite=true
 menu_shadow_depth=7
@@ -325,12 +325,12 @@ frame=false
 
 [ScrollbarSlider]
 inherits=PanelButtonCommand
-interior=false
 frame.element=scrollbarslider
-frame.top=4
-frame.bottom=4
-frame.left=4
-frame.right=4
+interior=false
+frame.left=6
+frame.right=6
+frame.top=6
+frame.bottom=6
 
 [ProgressbarContents]
 inherits=PanelButtonCommand
