@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129" height="71" version="1">
+<defs>
+<style id="current-color-scheme" type="text/css">
+   .ColorScheme-Background {color:#2f343f; } .ColorScheme-ButtonBackground { color:#444a58; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-Text { color:#d3dae3; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
+  </style>
+ </defs>
+ <rect id="center" style="fill:currentColor" class="ColorScheme-Background" width="50" height="50" x="7" y="13"/>
+ <g id="bottomleft" transform="translate(-10,-4.000067)">
+  <path style="fill:currentColor" class="ColorScheme-Background" d="m 17.000005,74.000025 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"/>
+  <path style="opacity:0.2" d="m 10,67 v 2 c 0,2.77 2.23,5 5,5 h 2 v -1 h -2 c -2.233297,0 -4,-1.766703 -4,-4 v -2 z"/>
+ </g>
+ <g id="left" transform="translate(-10,-4.000067)">
+  <path style="fill:currentColor" class="ColorScheme-Background" d="m 10.000015,16.999925 v 50 l 7,10e-6 v -50 z"/>
+  <path style="opacity:0.2" d="m 10,17 v 50 h 1 V 17 Z"/>
+ </g>
+ <g id="right" transform="translate(-10,-4.000067)">
+  <path style="fill:currentColor" class="ColorScheme-Background" d="m 73.999995,16.999935 v 50 l -7,1e-5 v -50 z"/>
+  <path style="opacity:0.2" d="m 73,17 v 50 h 1 V 17 Z"/>
+ </g>
+ <g id="bottom" transform="translate(-10,-4.000067)">
+  <path style="fill:currentColor" class="ColorScheme-Background" d="m 16.999975,74.000065 h 50.00002 v -7 h -50.00001 z"/>
+  <path style="opacity:0.2" d="m 17,73 v 1 h 50 v -1 z"/>
+ </g>
+ <g id="bottomright" transform="translate(-10,-4.000067)">
+  <path style="fill:currentColor" class="ColorScheme-Background" d="m 66.999995,74.000025 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
+  <path style="opacity:0.2" d="m 73,67 v 2 c 0,2.233297 -1.766703,4 -4,4 h -2 v 1 h 2 c 2.77,0 5,-2.23 5,-5 v -2 z"/>
+ </g>
+ <g id="top" transform="translate(-10,-4.000067)">
+  <path style="fill:currentColor" class="ColorScheme-Background" d="m 16.999975,9.999935 h 50.00002 v 7 h -50.00001 z"/>
+  <path style="opacity:0.2" d="m 17,10 v 1 h 50 v -1 z"/>
+ </g>
+ <g id="topright" transform="translate(-10,-4.000067)">
+  <path style="fill:currentColor" class="ColorScheme-Background" d="m 66.999995,9.999935 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
+  <path style="opacity:0.2" d="m 67,10 v 1 h 2 c 2.233297,0 4,1.766703 4,4 v 2 h 1 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
+ </g>
+ <g id="topleft" transform="translate(-10,-4.000067)">
+  <path style="fill:currentColor" class="ColorScheme-Background" d="m 17.000005,9.999935 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
+  <path style="opacity:0.2" d="m 15,10 c -2.77,0 -5,2.23 -5,5 v 2 h 1 v -2 c 0,-2.233297 1.766703,-4 4,-4 h 2 v -1 z"/>
+ </g>
+ <rect id="hint-top-margin" style="fill:#ff0000" width="4" height="7" x="29" y="13"/>
+ <rect id="hint-bottom-margin" style="fill:#ff0000" width="4" height="7" x="29" y="56"/>
+ <rect id="hint-left-margin" style="fill:#ff0000" width="7" height="4" x="7" y="35"/>
+ <rect id="hint-right-margin" style="fill:#ff0000" width="7" height="4" x="50" y="35"/>
+ <rect id="hint-tile-center" style="fill:#ff0000" width="5" height="5" x="0" y="-1"/>
+ <rect id="mask-center" width="50" height="50" x="72" y="13"/>
+ <path id="mask-topleft" d="m 72,5.999843 v 7 h -7 v -2 c 0,-2.77 2.23,-5 5,-5 z"/>
+ <path id="mask-left" d="M 65.00001,12.999833 V 62.99983 l 7,10e-6 V 12.999843 Z"/>
+ <path id="mask-right" d="M 128.99999,12.999843 V 62.99984 l -7,1e-5 V 12.999853 Z"/>
+ <path id="mask-bottomleft" d="m 72,69.99993 v -7 h -7 v 2 c 0,2.77 2.23,5 5,5 z"/>
+ <path id="mask-bottom" d="m 71.99997,69.99997 h 50.00002 v -7 H 71.99998 Z"/>
+ <path id="mask-bottomright" d="m 121.99999,69.99993 v -7 h 7 v 2 c 0,2.77 -2.23,5 -5,5 z"/>
+ <path id="mask-topright" d="m 121.99999,5.999843 v 7 h 7 v -2 c 0,-2.77 -2.23,-5 -5,-5 z"/>
+ <path id="mask-top" d="m 71.99997,5.999843 h 50.00002 v 7 H 71.99998 Z"/>
+</svg>
