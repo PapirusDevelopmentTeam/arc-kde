@@ -83,8 +83,7 @@ Packages in this section are not part of the official repositories. If you have 
 
 
 ## Issues
-To solve problems with rendering on NVIDIA cards, use this solution:
-htps://github.com/PapirusDevelopmentTeam/materia-kde#known-issues
+To solve problems with rendering on NVIDIA cards, use this [solution](htps://github.com/PapirusDevelopmentTeam/materia-kde#known-issues)
 
 ## Donate
 
