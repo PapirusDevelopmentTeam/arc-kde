@@ -63,6 +63,7 @@ Packages in this section are not part of the official repositories. If you have 
 | openSUSE | Konstantin Voinov | [arc-kde](https://software.opensuse.org/download.html?project=home:kill_it&package=arc-kde) <sup>OBS [[link](https://build.opensuse.org/package/show/home:kill_it/arc-kde)]</sub> |
 | Fedora | Robert-André Mauchin | `sudo dnf install arc-kde` <sup>[[link](https://src.fedoraproject.org/rpms/arc-kde)]</sup> |
 | Gentoo | Mattéo Rossillol | [x11-themes/arc-kde](https://github.com/beatussum/beatussum-overlay/tree/master/x11-themes/arc-kde) <sup>beatussum-overlay [[link](https://github.com/beatussum/beatussum-overlay)]</sub> |
+| Debian | Debian Desktop Themes Team | `sudo apt install arc-kde` <sup>[[link](https://tracker.debian.org/arc-kde)]</sup> |
 
 **<sup>[1]</sup>** This package does not contain Konversation themes.
 
