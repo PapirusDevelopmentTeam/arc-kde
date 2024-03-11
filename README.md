@@ -69,6 +69,10 @@ Packages in this section are not part of the official repositories. If you have 
 
 **NOTE:** If you maintainer and want be in the list please create an issue or send a pull request.
 
+### KDE Store
+
+The Arc KDE theme is also available via the KDE Store [KDE Store](https://store.kde.org/p/1167639)
+
 ## Recommendations
 
 - For better looking please use this pack with [Kvantum engine](https://github.com/tsujan/Kvantum/tree/master/Kvantum).
