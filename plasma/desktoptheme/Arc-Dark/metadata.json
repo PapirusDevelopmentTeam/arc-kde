@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Alexey Varfolomeev",
+                "Email": ""
+            }
+        ],
+        "Category": "",
+        "Description": "Arc Dark theme",
+        "EnabledByDefault": true,
+        "Id": "arc-dark",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Arc Dark",
+        "Version": "20220908",
+        "Website": "https://github.com/PapirusDevelopmentTeam/arc-kde"
+    },
+    "X-Plasma-API": "5.0"
+}
