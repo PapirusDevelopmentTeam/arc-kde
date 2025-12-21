@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Oliver Buettner & Alexey Varfolomeev"
+            }
+        ],
+        "Id": "Arc",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Arc"
+    }
+}

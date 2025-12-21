@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Dominic Kamp & givesnofuck"
+            }
+        ],
+        "Id": "ArcDark",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Arc Dark"
+    }
+}

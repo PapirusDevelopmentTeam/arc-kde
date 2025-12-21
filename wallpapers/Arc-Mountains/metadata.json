@@ -1,0 +1,12 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Alexey Varfolomeev"
+            }
+        ],
+        "Id": "ArcMountains",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Arc-Mountains"
+    }
+}
