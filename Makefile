@@ -14,6 +14,12 @@ install:
 	mkdir -p $(DESTDIR)$(PREFIX)/share
 	cp -R $(THEMES) $(DESTDIR)$(PREFIX)/share
 
+local-install: install
+	mkdir -p $(HOME)/.config/Kvantum
+	mv $(DESTDIR)$(PREFIX)/share/Kvantum/Arc $(HOME)/.config/Kvantum
+	mv $(DESTDIR)$(PREFIX)/share/Kvantum/ArcDark $(HOME)/.config/Kvantum
+	mv $(DESTDIR)$(PREFIX)/share/Kvantum/ArcDarker $(HOME)/.config/Kvantum
+
 uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Arc
 	-rm -rf $(DESTDIR)$(PREFIX)/share/aurorae/themes/Arc-Dark
@@ -37,6 +43,11 @@ uninstall:
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/arc
 	-rm -rf $(DESTDIR)$(PREFIX)/share/yakuake/skins/arc-dark
 
+local-uninstall: uninstall
+	-rm -rf $(HOME)/.config/Kvantum/Arc
+	-rm -rf $(HOME)/.config/Kvantum/ArcDark
+	-rm -rf $(HOME)/.config/Kvantum/ArcDarker
+
 _get_version:
 	$(eval VERSION := $(shell git show -s --format=%cd --date=format:%Y%m%d HEAD))
 	@echo $(VERSION)
@@ -54,7 +65,7 @@ undo_release: _get_version
 	-git push --delete origin $(VERSION)
 
 
-.PHONY: all install uninstall _get_version dist release undo_release
+.PHONY: all install local-install uninstall local-uninstall _get_version dist release undo_release
 
 # .BEGIN is ignored by GNU make so we can use it as a guard
 .BEGIN:
